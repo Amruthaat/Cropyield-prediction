@@ -1,0 +1,2005 @@
+Year,State,Crop,Soil Type,Soil pH,Fertilizer (kg/ha),Pesticides (kg/ha),Area (ha),Yield (tons/ha),Production (tons),Fertilizer_Type,Pesticide_Type
+2003,Bihar,Millet,Sandy,6.38,210.8,5.03,9,4.91,44.19,Compost,DDT
+2018,Tamil Nadu,Sugarcane,Silty,7.08,181.6,2.65,6,4.44,26.64,DAP,Organic Pesticide
+2000,Karnataka,Sugarcane,Clay,6.19,182.4,3.79,4,4.43,17.72,Bio-fertilizer,Carbaryl
+2020,Haryana,Sugarcane,Loamy,6.81,94.6,3.95,7,3.16,22.12,Urea,Malathion
+2000,Uttar Pradesh,Barley,Silty,6.54,160.0,4.42,2,3.87,7.74,Compost,DDT
+2004,Maharashtra,Rice,Loamy,6.57,158.9,3.46,2,3.7,7.4,Compost,Malathion
+2020,Uttar Pradesh,Sugarcane,Silty,6.0,162.8,3.04,5,3.76,18.8,Bio-fertilizer,Imidacloprid
+2009,Karnataka,Sugarcane,Clay,6.33,147.9,2.03,3,3.96,11.88,Ammonium Sulphate,Neem Oil
+2023,Punjab,Wheat,Silty,6.57,167.5,2.32,5,4.23,21.15,Potash,Organic Pesticide
+2006,Punjab,Millet,Sandy,6.44,104.0,5.18,8,2.76,22.08,NPK,Carbaryl
+2021,Uttar Pradesh,Barley,Sandy,6.13,120.2,2.33,4,3.16,12.64,Ammonium Sulphate,Chlorpyrifos
+2009,Tamil Nadu,Wheat,Clay,5.83,173.7,2.49,7,4.5,31.5,Ammonium Sulphate,Chlorpyrifos
+2010,Maharashtra,Sugarcane,Clay,6.82,111.0,3.94,9,2.71,24.39,NPK,Malathion
+2014,Karnataka,Wheat,Silty,6.64,181.6,3.48,1,4.9,4.9,Compost,Malathion
+2013,Maharashtra,Wheat,Sandy,7.04,139.4,4.31,4,3.44,13.76,DAP,DDT
+2022,Haryana,Maize,Loamy,6.92,162.7,4.01,6,4.77,28.62,NPK,Imidacloprid
+2009,Bihar,Maize,Clay,6.81,177.6,3.09,4,3.7,14.8,Potash,DDT
+2013,Uttar Pradesh,Barley,Loamy,6.17,212.6,2.39,3,4.43,13.29,Potash,Malathion
+2008,Uttar Pradesh,Barley,Clay,7.76,155.7,4.07,8,3.36,26.88,Ammonium Sulphate,Malathion
+2001,Karnataka,Sugarcane,Sandy,6.53,162.5,3.12,5,3.35,16.75,Potash,Chlorpyrifos
+2002,Maharashtra,Maize,Sandy,6.56,156.0,2.44,9,3.18,28.62,Potash,Malathion
+2002,Haryana,Wheat,Loamy,7.32,156.3,3.16,8,3.77,30.16,Compost,Carbaryl
+2020,Tamil Nadu,Barley,Clay,6.38,147.3,3.07,9,3.5,31.5,Ammonium Sulphate,Imidacloprid
+2015,Uttar Pradesh,Sugarcane,Sandy,6.96,183.1,1.93,5,4.3,21.5,Ammonium Sulphate,Imidacloprid
+2020,Uttar Pradesh,Wheat,Silty,6.82,132.6,6.26,3,2.65,7.95,NPK,Organic Pesticide
+2022,Tamil Nadu,Wheat,Clay,7.71,143.1,3.43,1,3.83,3.83,Ammonium Sulphate,Organic Pesticide
+2004,Uttar Pradesh,Rice,Loamy,6.36,184.1,3.45,5,4.7,23.5,Compost,Chlorpyrifos
+2003,Karnataka,Wheat,Loamy,7.02,193.3,2.75,3,4.66,13.98,Compost,Imidacloprid
+2019,Bihar,Millet,Silty,6.2,184.5,4.66,7,3.86,27.02,Urea,DDT
+2006,Tamil Nadu,Millet,Loamy,5.88,143.4,3.83,2,3.43,6.86,NPK,Carbaryl
+2021,Maharashtra,Wheat,Clay,6.53,80.6,2.88,2,2.24,4.48,Compost,Organic Pesticide
+2018,Bihar,Millet,Silty,6.15,142.8,3.87,6,3.92,23.52,NPK,Organic Pesticide
+2021,Tamil Nadu,Millet,Loamy,6.81,183.2,2.43,7,4.45,31.15,Bio-fertilizer,Organic Pesticide
+2003,Haryana,Maize,Sandy,7.09,160.1,3.75,5,3.0,15.0,Potash,Imidacloprid
+2002,Karnataka,Maize,Loamy,6.55,135.1,1.56,8,3.53,28.24,NPK,Neem Oil
+2014,Punjab,Maize,Sandy,6.84,184.3,3.8,2,3.96,7.92,Urea,Imidacloprid
+2006,Haryana,Wheat,Loamy,6.94,181.2,2.23,8,3.74,29.92,Potash,Chlorpyrifos
+2005,Karnataka,Maize,Clay,6.81,175.5,3.04,9,4.45,40.05,Potash,Organic Pesticide
+2002,Haryana,Barley,Clay,6.17,194.4,4.45,7,4.81,33.67,Bio-fertilizer,Chlorpyrifos
+2017,Karnataka,Maize,Silty,5.96,190.8,4.02,2,4.72,9.44,NPK,Carbaryl
+2003,Uttar Pradesh,Maize,Sandy,6.01,149.5,3.26,1,3.21,3.21,DAP,Chlorpyrifos
+2023,Tamil Nadu,Barley,Clay,6.02,159.0,6.08,7,4.03,28.21,Bio-fertilizer,Malathion
+2022,Bihar,Sugarcane,Silty,6.32,180.6,3.71,3,4.51,13.53,NPK,DDT
+2023,Bihar,Sugarcane,Silty,6.23,123.3,5.56,7,2.94,20.58,Bio-fertilizer,Imidacloprid
+2009,Punjab,Barley,Sandy,6.81,153.5,0.79,4,3.93,15.72,Potash,Organic Pesticide
+2015,Punjab,Wheat,Silty,6.88,127.5,3.38,9,3.52,31.68,Urea,Neem Oil
+2017,Bihar,Barley,Sandy,6.14,151.1,1.15,3,3.95,11.85,Ammonium Sulphate,Imidacloprid
+2005,Tamil Nadu,Maize,Sandy,6.46,111.8,3.2,3,2.46,7.38,Potash,Organic Pesticide
+2011,Tamil Nadu,Rice,Silty,6.45,180.7,2.58,2,4.16,8.32,NPK,Organic Pesticide
+2016,Tamil Nadu,Wheat,Sandy,6.27,173.8,4.89,9,3.78,34.02,Bio-fertilizer,Organic Pesticide
+2015,Uttar Pradesh,Sugarcane,Sandy,5.96,141.0,3.45,2,3.12,6.24,NPK,Carbaryl
+2006,Tamil Nadu,Rice,Sandy,7.38,128.7,2.58,1,3.92,3.92,DAP,Imidacloprid
+2009,Karnataka,Barley,Sandy,6.15,162.2,2.95,5,4.1,20.5,NPK,Imidacloprid
+2001,Tamil Nadu,Barley,Loamy,6.18,130.5,3.17,3,3.4,10.2,Compost,Chlorpyrifos
+2009,Maharashtra,Sugarcane,Clay,6.75,171.3,3.73,1,4.08,4.08,Potash,Malathion
+2008,Uttar Pradesh,Wheat,Loamy,6.22,150.8,2.97,6,3.78,22.68,Potash,DDT
+2010,Karnataka,Wheat,Sandy,6.04,141.8,3.57,8,3.81,30.48,Urea,Neem Oil
+2007,Maharashtra,Sugarcane,Silty,6.24,239.1,4.37,8,5.1,40.8,Ammonium Sulphate,Chlorpyrifos
+2022,Maharashtra,Barley,Loamy,5.91,165.6,4.09,8,4.32,34.56,Potash,Chlorpyrifos
+2016,Maharashtra,Millet,Silty,6.39,165.3,4.28,7,4.17,29.19,DAP,Organic Pesticide
+2021,Uttar Pradesh,Sugarcane,Clay,6.02,162.8,2.65,8,4.22,33.76,Urea,DDT
+2020,Tamil Nadu,Sugarcane,Sandy,6.86,172.2,2.93,7,3.71,25.97,NPK,Organic Pesticide
+2022,Tamil Nadu,Millet,Sandy,6.94,149.0,3.5,7,3.28,22.96,Potash,Imidacloprid
+2012,Karnataka,Barley,Sandy,7.39,146.1,2.35,9,3.82,34.38,Compost,Neem Oil
+2003,Bihar,Millet,Clay,6.09,113.2,4.29,1,3.43,3.43,Compost,Chlorpyrifos
+2018,Uttar Pradesh,Wheat,Loamy,6.08,206.0,4.4,5,4.7,23.5,Urea,Organic Pesticide
+2000,Bihar,Rice,Sandy,6.72,159.8,3.89,8,3.88,31.04,Bio-fertilizer,DDT
+2018,Tamil Nadu,Sugarcane,Clay,6.76,180.2,3.27,3,4.59,13.77,Urea,Malathion
+2009,Karnataka,Millet,Loamy,6.24,169.6,2.49,9,3.92,35.28,Ammonium Sulphate,Malathion
+2000,Maharashtra,Millet,Silty,5.95,159.2,2.7,5,3.38,16.9,Compost,Malathion
+2021,Karnataka,Wheat,Loamy,6.36,200.7,5.03,1,4.99,4.99,Urea,Carbaryl
+2005,Tamil Nadu,Wheat,Loamy,6.64,196.0,1.09,5,3.48,17.4,DAP,Organic Pesticide
+2006,Maharashtra,Rice,Silty,5.54,162.8,4.11,2,3.67,7.34,Compost,Carbaryl
+2004,Haryana,Maize,Loamy,7.12,187.1,3.99,7,3.99,27.93,Potash,Malathion
+2022,Uttar Pradesh,Millet,Clay,6.13,163.0,4.63,5,3.47,17.35,DAP,Malathion
+2016,Tamil Nadu,Rice,Clay,6.32,158.9,4.61,8,3.6,28.8,Bio-fertilizer,Chlorpyrifos
+2006,Bihar,Barley,Loamy,7.33,167.2,2.98,7,3.86,27.02,Bio-fertilizer,Imidacloprid
+2022,Karnataka,Wheat,Sandy,5.72,134.4,4.78,1,3.58,3.58,NPK,Carbaryl
+2018,Karnataka,Barley,Clay,6.57,202.1,2.41,6,4.49,26.94,Potash,Neem Oil
+2007,Maharashtra,Millet,Loamy,6.23,184.5,3.94,7,4.09,28.63,Bio-fertilizer,Organic Pesticide
+2020,Punjab,Millet,Clay,6.92,148.2,3.95,1,4.0,4.0,Ammonium Sulphate,Neem Oil
+2018,Tamil Nadu,Sugarcane,Sandy,6.48,169.0,2.28,9,3.89,35.01,Potash,Organic Pesticide
+2006,Karnataka,Millet,Sandy,6.75,159.1,3.74,7,3.27,22.89,DAP,Chlorpyrifos
+2000,Tamil Nadu,Wheat,Silty,5.95,176.4,2.37,4,5.04,20.16,Urea,Organic Pesticide
+2008,Haryana,Rice,Clay,7.11,147.3,2.88,4,2.96,11.84,Compost,Chlorpyrifos
+2019,Uttar Pradesh,Wheat,Clay,7.17,149.5,3.05,6,3.49,20.94,Compost,Neem Oil
+2012,Karnataka,Sugarcane,Silty,6.68,159.2,3.01,7,3.24,22.68,Compost,Organic Pesticide
+2020,Tamil Nadu,Rice,Sandy,6.52,174.2,4.02,4,4.04,16.16,Compost,Carbaryl
+2015,Haryana,Wheat,Sandy,6.03,121.0,3.03,8,2.87,22.96,Ammonium Sulphate,Chlorpyrifos
+2007,Karnataka,Sugarcane,Sandy,7.24,110.2,2.95,4,2.95,11.8,Urea,Chlorpyrifos
+2008,Karnataka,Maize,Clay,6.7,147.2,4.81,3,3.45,10.35,DAP,Carbaryl
+2001,Karnataka,Sugarcane,Loamy,6.32,194.4,3.04,8,3.93,31.44,Compost,Carbaryl
+2003,Tamil Nadu,Millet,Sandy,6.08,139.1,4.62,6,3.56,21.36,Ammonium Sulphate,Chlorpyrifos
+2000,Bihar,Millet,Silty,6.15,148.9,3.3,4,3.84,15.36,Potash,Carbaryl
+2015,Karnataka,Wheat,Silty,6.07,206.0,1.87,9,4.26,38.34,Potash,Imidacloprid
+2019,Punjab,Millet,Sandy,7.15,263.4,3.03,9,6.16,55.44,Bio-fertilizer,DDT
+2004,Haryana,Wheat,Clay,6.33,225.5,1.9,8,4.61,36.88,Potash,Neem Oil
+2005,Punjab,Maize,Loamy,6.28,181.2,3.34,9,3.25,29.25,Compost,Malathion
+2018,Bihar,Wheat,Silty,6.38,129.9,2.29,3,3.56,10.68,Bio-fertilizer,Chlorpyrifos
+2003,Haryana,Millet,Loamy,7.11,138.9,3.78,5,3.21,16.05,Potash,Organic Pesticide
+2001,Punjab,Wheat,Silty,5.94,80.7,2.99,6,2.34,14.04,Compost,Neem Oil
+2005,Uttar Pradesh,Maize,Loamy,7.03,103.8,3.89,1,3.06,3.06,Urea,Malathion
+2004,Karnataka,Millet,Silty,6.05,137.1,3.57,3,3.97,11.91,Bio-fertilizer,Chlorpyrifos
+2020,Maharashtra,Sugarcane,Silty,6.78,202.0,1.72,8,5.3,42.4,Compost,Imidacloprid
+2012,Punjab,Wheat,Sandy,7.47,115.6,2.06,7,3.2,22.4,DAP,Organic Pesticide
+2012,Maharashtra,Maize,Loamy,7.47,124.2,3.62,9,3.85,34.65,Compost,Malathion
+2008,Maharashtra,Rice,Clay,7.39,169.1,5.51,7,4.51,31.57,Bio-fertilizer,Carbaryl
+2020,Maharashtra,Maize,Silty,5.98,178.0,4.09,9,4.24,38.16,Potash,Neem Oil
+2005,Maharashtra,Sugarcane,Silty,5.89,173.2,2.06,3,4.44,13.32,Compost,Imidacloprid
+2006,Tamil Nadu,Sugarcane,Sandy,6.81,202.7,3.86,9,4.38,39.42,Ammonium Sulphate,Neem Oil
+2011,Punjab,Sugarcane,Silty,6.39,184.4,3.41,8,3.89,31.12,Bio-fertilizer,Carbaryl
+2016,Karnataka,Millet,Sandy,6.67,146.2,3.56,2,4.28,8.56,Potash,Malathion
+2008,Karnataka,Millet,Silty,5.7,223.5,3.96,9,4.74,42.66,Compost,DDT
+2023,Maharashtra,Sugarcane,Clay,6.7,148.9,3.48,8,3.73,29.84,Urea,Malathion
+2016,Punjab,Millet,Silty,7.1,184.0,4.84,3,4.5,13.5,Ammonium Sulphate,Carbaryl
+2020,Karnataka,Maize,Clay,5.64,138.4,3.98,9,3.77,33.93,Ammonium Sulphate,Imidacloprid
+2006,Punjab,Barley,Clay,6.63,171.4,2.5,9,4.35,39.15,Bio-fertilizer,Carbaryl
+2020,Punjab,Maize,Loamy,6.38,124.1,5.47,3,3.32,9.96,Ammonium Sulphate,Chlorpyrifos
+2003,Punjab,Wheat,Silty,6.65,145.1,2.53,6,3.36,20.16,NPK,Carbaryl
+2020,Uttar Pradesh,Millet,Silty,6.84,171.0,4.4,1,3.89,3.89,Urea,Organic Pesticide
+2005,Punjab,Sugarcane,Loamy,7.7,178.7,2.56,6,3.89,23.34,Potash,Chlorpyrifos
+2022,Bihar,Millet,Clay,6.88,194.0,2.14,5,4.39,21.95,NPK,Malathion
+2020,Bihar,Maize,Clay,6.37,178.3,4.92,6,3.6,21.6,DAP,Neem Oil
+2003,Haryana,Wheat,Silty,6.73,166.5,5.3,4,4.24,16.96,Potash,Malathion
+2008,Haryana,Sugarcane,Silty,6.62,218.5,2.53,7,4.79,33.53,Bio-fertilizer,Organic Pesticide
+2021,Tamil Nadu,Wheat,Loamy,6.46,207.1,3.58,5,5.28,26.4,Potash,Carbaryl
+2014,Bihar,Barley,Sandy,6.04,154.4,4.3,7,4.0,28.0,NPK,Organic Pesticide
+2015,Karnataka,Wheat,Clay,6.55,150.3,3.5,1,4.04,4.04,Bio-fertilizer,Neem Oil
+2018,Bihar,Wheat,Loamy,5.98,76.7,2.81,6,2.5,15.0,Potash,Chlorpyrifos
+2016,Tamil Nadu,Maize,Loamy,6.22,172.3,4.39,5,4.04,20.2,Ammonium Sulphate,Neem Oil
+2004,Uttar Pradesh,Rice,Loamy,7.36,131.9,3.39,1,3.54,3.54,Compost,Imidacloprid
+2003,Tamil Nadu,Maize,Silty,7.04,152.3,3.44,3,3.18,9.54,Ammonium Sulphate,Carbaryl
+2007,Tamil Nadu,Rice,Clay,7.16,208.1,2.92,7,5.41,37.87,Compost,Neem Oil
+2008,Maharashtra,Wheat,Silty,6.83,119.7,3.85,5,3.26,16.3,Urea,DDT
+2023,Haryana,Sugarcane,Silty,6.22,209.7,3.64,2,4.27,8.54,Urea,DDT
+2001,Maharashtra,Wheat,Sandy,6.61,232.4,3.79,8,4.83,38.64,Urea,Neem Oil
+2020,Karnataka,Millet,Sandy,5.77,145.6,4.25,3,3.48,10.44,Potash,Malathion
+2014,Uttar Pradesh,Wheat,Loamy,7.04,141.4,4.72,9,3.68,33.12,DAP,Neem Oil
+2021,Tamil Nadu,Rice,Clay,7.31,122.8,3.09,7,3.27,22.89,Potash,Malathion
+2013,Uttar Pradesh,Barley,Sandy,7.32,189.3,3.91,8,4.5,36.0,NPK,Chlorpyrifos
+2000,Haryana,Barley,Silty,5.53,135.4,0.06,3,3.21,9.63,Potash,Organic Pesticide
+2002,Maharashtra,Sugarcane,Sandy,6.23,225.0,3.47,4,5.15,20.6,Potash,DDT
+2021,Haryana,Sugarcane,Sandy,7.37,169.1,2.88,6,4.06,24.36,Bio-fertilizer,Organic Pesticide
+2021,Punjab,Barley,Silty,6.93,163.4,5.74,9,4.56,41.04,Bio-fertilizer,Malathion
+2000,Maharashtra,Rice,Silty,6.43,158.2,3.42,2,3.89,7.78,NPK,DDT
+2016,Uttar Pradesh,Maize,Clay,5.72,122.1,2.31,6,2.94,17.64,NPK,Carbaryl
+2019,Bihar,Sugarcane,Clay,7.72,139.4,2.77,3,3.14,9.42,Bio-fertilizer,Imidacloprid
+2008,Haryana,Barley,Clay,6.74,65.1,3.8,5,2.29,11.45,DAP,Organic Pesticide
+2013,Maharashtra,Millet,Sandy,5.58,204.2,3.35,3,4.29,12.87,Compost,Neem Oil
+2022,Maharashtra,Wheat,Clay,6.5,191.0,3.83,5,4.48,22.4,Urea,Imidacloprid
+2007,Punjab,Wheat,Clay,6.22,123.1,3.34,1,3.86,3.86,Potash,Organic Pesticide
+2012,Haryana,Millet,Sandy,6.46,170.9,2.79,1,4.49,4.49,Potash,Imidacloprid
+2016,Uttar Pradesh,Millet,Silty,6.59,102.1,3.84,4,3.25,13.0,NPK,DDT
+2006,Haryana,Sugarcane,Clay,6.32,98.6,2.88,4,2.62,10.48,Ammonium Sulphate,Carbaryl
+2003,Maharashtra,Rice,Silty,6.74,151.0,4.07,2,3.7,7.4,NPK,Chlorpyrifos
+2023,Maharashtra,Millet,Silty,6.18,179.0,3.56,3,3.87,11.61,Potash,DDT
+2015,Uttar Pradesh,Rice,Sandy,6.38,159.0,4.23,6,3.22,19.32,DAP,Carbaryl
+2006,Uttar Pradesh,Barley,Loamy,6.45,184.3,4.12,8,3.99,31.92,NPK,Organic Pesticide
+2020,Haryana,Barley,Silty,6.36,174.9,4.74,9,4.1,36.9,NPK,Malathion
+2018,Tamil Nadu,Wheat,Silty,6.79,138.7,2.58,4,3.61,14.44,Bio-fertilizer,Malathion
+2016,Punjab,Rice,Clay,7.15,159.2,3.03,8,4.43,35.44,Bio-fertilizer,Chlorpyrifos
+2016,Haryana,Rice,Silty,6.61,185.9,2.82,1,4.07,4.07,Compost,Neem Oil
+2004,Punjab,Wheat,Loamy,7.2,183.1,3.44,7,3.96,27.72,Potash,Carbaryl
+2009,Punjab,Maize,Sandy,6.62,201.3,3.22,5,4.55,22.75,Ammonium Sulphate,Carbaryl
+2004,Karnataka,Barley,Silty,6.43,185.5,4.48,1,4.19,4.19,Compost,Imidacloprid
+2004,Tamil Nadu,Wheat,Clay,6.57,182.1,2.74,5,4.28,21.4,NPK,Imidacloprid
+2015,Bihar,Rice,Clay,6.71,173.1,3.12,6,4.64,27.84,Potash,Neem Oil
+2000,Uttar Pradesh,Maize,Sandy,7.07,148.6,3.63,4,3.55,14.2,DAP,Neem Oil
+2000,Karnataka,Sugarcane,Loamy,7.2,165.6,4.43,6,4.24,25.44,DAP,Imidacloprid
+2008,Karnataka,Rice,Sandy,6.03,124.1,3.0,5,3.71,18.55,Compost,Malathion
+2008,Haryana,Wheat,Silty,6.74,154.7,4.18,8,3.24,25.92,Bio-fertilizer,Chlorpyrifos
+2018,Punjab,Sugarcane,Clay,6.7,209.6,3.43,1,4.1,4.1,NPK,Chlorpyrifos
+2008,Tamil Nadu,Wheat,Clay,6.36,155.7,3.11,6,3.8,22.8,Compost,Carbaryl
+2008,Punjab,Maize,Sandy,5.97,246.3,3.75,1,5.32,5.32,Urea,Neem Oil
+2010,Uttar Pradesh,Wheat,Silty,7.62,194.3,4.38,7,4.5,31.5,NPK,DDT
+2018,Haryana,Millet,Sandy,6.16,209.0,3.83,7,4.69,32.83,Urea,Malathion
+2018,Bihar,Wheat,Loamy,6.56,218.8,3.38,3,4.95,14.85,Compost,DDT
+2021,Karnataka,Sugarcane,Clay,6.0,178.4,3.2,8,4.21,33.68,Potash,Carbaryl
+2013,Uttar Pradesh,Sugarcane,Loamy,5.6,182.5,2.13,6,4.11,24.66,DAP,Malathion
+2014,Maharashtra,Wheat,Silty,7.13,146.9,3.97,2,3.08,6.16,DAP,Imidacloprid
+2008,Bihar,Rice,Loamy,6.17,127.8,4.61,3,2.77,8.31,DAP,Carbaryl
+2021,Haryana,Sugarcane,Clay,6.46,191.5,3.16,7,4.31,30.17,Bio-fertilizer,Chlorpyrifos
+2023,Punjab,Barley,Silty,7.04,174.6,3.16,1,4.03,4.03,Urea,DDT
+2014,Uttar Pradesh,Sugarcane,Loamy,6.33,174.4,3.97,3,4.26,12.78,Ammonium Sulphate,Neem Oil
+2023,Karnataka,Barley,Sandy,6.67,213.9,3.24,8,4.55,36.4,NPK,Malathion
+2000,Tamil Nadu,Barley,Silty,6.89,177.1,1.13,7,4.19,29.33,Compost,Malathion
+2015,Punjab,Barley,Clay,5.54,169.4,1.81,4,4.24,16.96,DAP,Malathion
+2005,Haryana,Millet,Loamy,5.27,176.5,5.18,1,3.85,3.85,NPK,DDT
+2020,Haryana,Maize,Silty,7.47,208.1,3.19,6,4.7,28.2,Compost,Imidacloprid
+2000,Bihar,Rice,Silty,6.28,153.9,5.73,7,4.15,29.05,Bio-fertilizer,Imidacloprid
+2015,Karnataka,Rice,Silty,6.45,172.2,2.11,6,3.37,20.22,Urea,Neem Oil
+2018,Uttar Pradesh,Sugarcane,Loamy,6.03,171.5,4.36,2,4.04,8.08,Ammonium Sulphate,Organic Pesticide
+2022,Bihar,Rice,Sandy,6.51,220.0,3.35,9,5.04,45.36,Ammonium Sulphate,Organic Pesticide
+2005,Punjab,Sugarcane,Sandy,5.54,132.1,2.57,3,3.55,10.65,Compost,Imidacloprid
+2022,Bihar,Wheat,Loamy,6.14,98.0,4.17,4,2.94,11.76,NPK,Malathion
+2012,Maharashtra,Sugarcane,Loamy,6.86,182.1,2.2,3,4.09,12.27,Ammonium Sulphate,Chlorpyrifos
+2018,Maharashtra,Rice,Silty,7.22,210.6,4.78,5,5.12,25.6,Compost,Carbaryl
+2011,Bihar,Wheat,Clay,7.21,125.9,2.46,1,3.46,3.46,Compost,Imidacloprid
+2003,Maharashtra,Barley,Silty,6.93,164.2,5.44,5,4.12,20.6,Urea,Neem Oil
+2022,Maharashtra,Sugarcane,Silty,6.91,175.2,2.33,9,3.92,35.28,NPK,Chlorpyrifos
+2003,Tamil Nadu,Rice,Silty,6.35,197.9,3.2,1,4.24,4.24,DAP,Malathion
+2011,Haryana,Rice,Sandy,6.45,153.8,2.21,2,3.72,7.44,NPK,Carbaryl
+2019,Uttar Pradesh,Wheat,Clay,7.32,129.5,2.81,7,2.99,20.93,Bio-fertilizer,Neem Oil
+2003,Uttar Pradesh,Wheat,Sandy,7.12,161.3,4.38,3,3.76,11.28,Compost,Carbaryl
+2023,Uttar Pradesh,Wheat,Loamy,5.76,143.4,4.26,4,4.04,16.16,Potash,DDT
+2004,Uttar Pradesh,Wheat,Clay,6.13,168.4,3.14,6,3.88,23.28,Compost,Carbaryl
+2009,Bihar,Wheat,Loamy,6.78,175.7,3.22,1,4.15,4.15,NPK,Malathion
+2016,Tamil Nadu,Millet,Silty,6.61,170.9,4.34,4,3.99,15.96,DAP,Neem Oil
+2014,Punjab,Millet,Silty,5.89,192.5,3.35,6,4.65,27.9,Ammonium Sulphate,Neem Oil
+2021,Karnataka,Wheat,Silty,6.37,148.1,5.29,8,3.32,26.56,Ammonium Sulphate,Neem Oil
+2008,Maharashtra,Sugarcane,Loamy,5.9,134.8,4.26,6,3.97,23.82,Bio-fertilizer,DDT
+2018,Maharashtra,Rice,Silty,6.14,172.6,3.72,7,4.16,29.12,Ammonium Sulphate,Malathion
+2009,Karnataka,Maize,Loamy,6.73,143.5,3.19,3,3.55,10.65,NPK,Imidacloprid
+2011,Uttar Pradesh,Sugarcane,Sandy,5.89,123.3,3.1,3,3.26,9.78,Potash,Chlorpyrifos
+2008,Maharashtra,Millet,Clay,6.79,180.9,3.2,4,4.5,18.0,NPK,Carbaryl
+2007,Tamil Nadu,Wheat,Clay,6.83,123.1,2.42,6,3.79,22.74,Compost,Malathion
+2017,Bihar,Millet,Loamy,5.96,200.9,3.42,8,4.62,36.96,Compost,DDT
+2023,Uttar Pradesh,Wheat,Loamy,6.01,140.1,5.74,4,3.74,14.96,Urea,Imidacloprid
+2017,Bihar,Millet,Sandy,6.41,184.5,2.94,1,4.31,4.31,Ammonium Sulphate,Neem Oil
+2012,Karnataka,Barley,Clay,7.13,203.5,3.08,3,4.48,13.44,DAP,Neem Oil
+2002,Bihar,Rice,Silty,6.43,94.2,4.4,7,2.79,19.53,Compost,DDT
+2006,Punjab,Wheat,Sandy,6.67,153.6,2.8,4,3.06,12.24,Urea,Malathion
+2000,Haryana,Wheat,Sandy,7.3,95.6,1.27,9,2.41,21.69,Compost,Malathion
+2021,Tamil Nadu,Barley,Sandy,6.47,175.8,3.67,7,3.91,27.37,Bio-fertilizer,DDT
+2010,Tamil Nadu,Sugarcane,Sandy,6.58,182.0,5.76,5,4.06,20.3,NPK,Organic Pesticide
+2015,Karnataka,Rice,Sandy,6.86,165.3,3.17,4,3.97,15.88,DAP,Malathion
+2023,Tamil Nadu,Barley,Sandy,6.04,129.2,3.69,5,2.98,14.9,Urea,Organic Pesticide
+2019,Karnataka,Rice,Sandy,6.22,195.8,3.07,5,4.48,22.4,Urea,Neem Oil
+2015,Punjab,Rice,Loamy,5.44,189.1,3.46,4,4.57,18.28,Ammonium Sulphate,Imidacloprid
+2016,Maharashtra,Millet,Sandy,6.44,201.7,3.82,2,4.35,8.7,Compost,Imidacloprid
+2004,Haryana,Millet,Loamy,7.12,104.4,4.41,5,2.28,11.4,Ammonium Sulphate,Neem Oil
+2001,Maharashtra,Sugarcane,Clay,5.99,195.1,6.71,9,4.67,42.03,Compost,DDT
+2020,Maharashtra,Sugarcane,Sandy,6.74,138.2,6.05,2,3.71,7.42,Compost,Carbaryl
+2020,Haryana,Millet,Loamy,5.73,170.7,4.95,7,4.36,30.52,Compost,Neem Oil
+2014,Karnataka,Barley,Loamy,5.78,146.1,3.88,6,3.73,22.38,DAP,Carbaryl
+2020,Bihar,Millet,Silty,5.75,131.6,4.25,4,2.75,11.0,Compost,Neem Oil
+2020,Bihar,Rice,Clay,6.04,156.6,5.67,7,3.72,26.04,Potash,DDT
+2003,Uttar Pradesh,Wheat,Silty,6.87,186.2,3.29,9,4.67,42.03,NPK,DDT
+2001,Maharashtra,Sugarcane,Silty,6.66,120.7,4.57,3,3.2,9.6,Ammonium Sulphate,Malathion
+2013,Bihar,Wheat,Silty,6.11,170.7,5.05,5,4.9,24.5,Ammonium Sulphate,Organic Pesticide
+2019,Tamil Nadu,Maize,Silty,6.55,198.9,3.92,6,4.37,26.22,Bio-fertilizer,Imidacloprid
+2002,Uttar Pradesh,Maize,Loamy,6.05,196.8,4.45,9,4.78,43.02,NPK,Neem Oil
+2014,Tamil Nadu,Millet,Loamy,6.67,187.6,4.04,8,4.37,34.96,DAP,Organic Pesticide
+2015,Karnataka,Barley,Silty,7.39,173.3,2.8,8,4.54,36.32,Compost,Neem Oil
+2000,Uttar Pradesh,Wheat,Loamy,6.55,168.4,4.48,2,3.95,7.9,DAP,Malathion
+2021,Haryana,Maize,Sandy,6.28,177.0,2.97,3,3.93,11.79,Bio-fertilizer,Carbaryl
+2023,Karnataka,Millet,Loamy,6.59,146.5,4.09,2,3.86,7.72,Compost,Neem Oil
+2014,Tamil Nadu,Wheat,Clay,6.53,159.3,2.54,8,3.93,31.44,Urea,Neem Oil
+2010,Tamil Nadu,Millet,Silty,6.66,153.5,4.53,9,3.93,35.37,Potash,Chlorpyrifos
+2003,Bihar,Rice,Clay,6.75,125.9,3.33,6,3.53,21.18,DAP,Carbaryl
+2020,Uttar Pradesh,Millet,Clay,6.7,121.9,4.98,1,3.16,3.16,Ammonium Sulphate,DDT
+2003,Uttar Pradesh,Barley,Clay,6.14,177.2,3.09,3,4.29,12.87,Urea,Imidacloprid
+2002,Tamil Nadu,Barley,Clay,6.28,130.9,1.82,6,3.69,22.14,Ammonium Sulphate,Malathion
+2018,Punjab,Maize,Loamy,7.1,168.8,3.64,1,4.36,4.36,Potash,Organic Pesticide
+2007,Bihar,Wheat,Silty,7.16,230.2,5.66,1,5.46,5.46,Compost,Imidacloprid
+2004,Uttar Pradesh,Rice,Sandy,5.71,179.6,4.12,4,3.95,15.8,Urea,DDT
+2003,Tamil Nadu,Wheat,Silty,7.67,168.2,4.54,1,3.62,3.62,DAP,Carbaryl
+2006,Maharashtra,Millet,Sandy,7.22,185.3,4.24,6,4.8,28.8,DAP,DDT
+2023,Uttar Pradesh,Millet,Clay,6.83,179.1,4.42,5,3.87,19.35,DAP,Chlorpyrifos
+2012,Punjab,Barley,Sandy,6.4,183.9,2.42,6,3.96,23.76,Bio-fertilizer,Neem Oil
+2021,Maharashtra,Maize,Sandy,6.22,135.0,3.78,4,3.69,14.76,Ammonium Sulphate,DDT
+2005,Punjab,Barley,Clay,6.84,163.9,3.77,3,4.11,12.33,DAP,Neem Oil
+2010,Punjab,Maize,Silty,6.24,184.3,3.32,1,4.29,4.29,Ammonium Sulphate,DDT
+2019,Bihar,Rice,Clay,6.79,155.4,2.41,5,4.17,20.85,NPK,Neem Oil
+2007,Karnataka,Millet,Clay,5.58,148.2,3.41,3,3.42,10.26,Compost,Imidacloprid
+2013,Haryana,Wheat,Sandy,6.83,150.8,4.02,5,3.33,16.65,Urea,Neem Oil
+2000,Tamil Nadu,Maize,Clay,6.64,173.7,3.31,1,4.13,4.13,Compost,Organic Pesticide
+2004,Karnataka,Wheat,Sandy,6.19,135.2,3.03,5,2.75,13.75,Urea,Chlorpyrifos
+2021,Punjab,Millet,Sandy,6.35,139.4,1.87,5,3.24,16.2,Ammonium Sulphate,DDT
+2015,Karnataka,Millet,Loamy,6.58,136.9,4.62,1,3.46,3.46,Ammonium Sulphate,Neem Oil
+2017,Bihar,Barley,Sandy,7.05,129.2,3.66,6,2.61,15.66,NPK,Malathion
+2003,Bihar,Wheat,Sandy,7.34,128.8,2.84,5,3.2,16.0,Ammonium Sulphate,Malathion
+2016,Maharashtra,Wheat,Sandy,7.14,198.2,2.02,1,4.68,4.68,Ammonium Sulphate,Organic Pesticide
+2008,Tamil Nadu,Maize,Clay,6.78,178.8,2.02,2,4.24,8.48,DAP,Organic Pesticide
+2019,Punjab,Millet,Loamy,6.8,125.2,4.08,5,3.38,16.9,Potash,Carbaryl
+2017,Uttar Pradesh,Wheat,Sandy,6.96,136.1,4.01,8,2.72,21.76,NPK,Neem Oil
+2017,Karnataka,Millet,Clay,5.73,147.3,4.09,3,4.07,12.21,DAP,Organic Pesticide
+2019,Punjab,Maize,Sandy,6.81,171.4,4.52,9,4.17,37.53,Bio-fertilizer,Neem Oil
+2016,Karnataka,Sugarcane,Sandy,7.48,160.5,2.03,4,3.61,14.44,Potash,DDT
+2020,Punjab,Millet,Sandy,6.05,150.1,3.52,4,3.48,13.92,Urea,Chlorpyrifos
+2002,Haryana,Maize,Sandy,5.66,156.4,4.8,8,4.11,32.88,Urea,Chlorpyrifos
+2001,Maharashtra,Sugarcane,Sandy,7.17,191.8,1.76,5,4.48,22.4,Potash,Carbaryl
+2002,Haryana,Rice,Clay,7.02,192.7,3.52,5,4.52,22.6,DAP,Imidacloprid
+2001,Haryana,Maize,Silty,6.03,120.2,3.38,2,3.65,7.3,NPK,DDT
+2009,Haryana,Sugarcane,Loamy,6.92,175.7,2.89,6,4.11,24.66,NPK,Organic Pesticide
+2013,Punjab,Rice,Silty,6.0,183.1,2.89,6,4.42,26.52,Urea,Carbaryl
+2005,Uttar Pradesh,Wheat,Loamy,6.9,120.7,4.17,9,3.09,27.81,DAP,Malathion
+2000,Maharashtra,Rice,Sandy,6.22,122.3,4.62,5,3.77,18.85,NPK,Neem Oil
+2016,Maharashtra,Maize,Silty,6.46,130.6,3.21,2,3.45,6.9,DAP,Chlorpyrifos
+2001,Uttar Pradesh,Rice,Silty,5.89,164.2,4.34,6,3.83,22.98,Ammonium Sulphate,Imidacloprid
+2022,Haryana,Rice,Sandy,6.43,206.7,5.38,9,4.65,41.85,Compost,DDT
+2002,Bihar,Wheat,Silty,6.75,168.8,3.88,7,4.34,30.38,DAP,Carbaryl
+2005,Karnataka,Sugarcane,Silty,6.69,183.3,2.99,1,3.91,3.91,NPK,Chlorpyrifos
+2022,Bihar,Millet,Clay,5.9,179.4,2.31,6,4.08,24.48,NPK,Neem Oil
+2009,Haryana,Barley,Loamy,6.79,125.6,4.41,3,2.59,7.77,Bio-fertilizer,DDT
+2003,Bihar,Wheat,Clay,6.58,142.3,2.46,3,3.57,10.71,Ammonium Sulphate,Imidacloprid
+2014,Bihar,Barley,Sandy,6.25,159.4,2.56,5,4.06,20.3,DAP,Organic Pesticide
+2007,Haryana,Millet,Sandy,7.0,153.3,4.21,6,3.68,22.08,Bio-fertilizer,DDT
+2016,Tamil Nadu,Barley,Clay,7.09,169.6,3.03,9,3.93,35.37,Compost,Chlorpyrifos
+2000,Haryana,Barley,Sandy,6.82,111.0,2.47,4,3.66,14.64,Ammonium Sulphate,Malathion
+2018,Haryana,Barley,Loamy,6.67,127.1,4.95,5,3.06,15.3,DAP,Malathion
+2019,Karnataka,Wheat,Silty,6.67,182.1,3.91,4,4.54,18.16,Potash,Chlorpyrifos
+2014,Haryana,Barley,Silty,6.55,111.7,4.32,6,2.97,17.82,Compost,DDT
+2003,Punjab,Rice,Sandy,6.35,150.2,4.69,3,4.36,13.08,Potash,Carbaryl
+2011,Punjab,Sugarcane,Loamy,6.92,173.5,1.89,1,3.74,3.74,DAP,Malathion
+2001,Maharashtra,Sugarcane,Loamy,7.6,192.9,2.23,5,5.2,26.0,Compost,Malathion
+2014,Bihar,Millet,Sandy,6.06,137.0,3.54,5,3.14,15.7,Ammonium Sulphate,Malathion
+2020,Haryana,Rice,Loamy,7.3,137.3,3.62,2,3.59,7.18,Bio-fertilizer,Carbaryl
+2001,Bihar,Maize,Sandy,7.33,114.0,4.37,7,3.09,21.63,Potash,Organic Pesticide
+2019,Punjab,Maize,Silty,6.22,121.1,4.23,9,2.75,24.75,Potash,Chlorpyrifos
+2009,Karnataka,Millet,Sandy,6.76,167.5,3.39,8,4.46,35.68,DAP,Chlorpyrifos
+2011,Tamil Nadu,Millet,Clay,7.18,203.2,2.13,6,4.73,28.38,Urea,Carbaryl
+2020,Tamil Nadu,Rice,Loamy,6.82,174.8,2.54,7,4.45,31.15,Ammonium Sulphate,Carbaryl
+2002,Maharashtra,Millet,Clay,6.24,170.1,5.13,7,4.33,30.31,Bio-fertilizer,Carbaryl
+2005,Uttar Pradesh,Rice,Loamy,6.94,155.7,5.4,9,3.76,33.84,Bio-fertilizer,Carbaryl
+2014,Punjab,Barley,Loamy,6.83,168.1,3.84,9,3.68,33.12,Compost,DDT
+2012,Uttar Pradesh,Wheat,Silty,6.92,201.5,3.7,6,4.7,28.2,Bio-fertilizer,Carbaryl
+2001,Uttar Pradesh,Maize,Silty,6.06,108.7,1.85,7,2.33,16.31,DAP,Imidacloprid
+2007,Karnataka,Barley,Silty,6.07,194.8,1.58,9,4.53,40.77,Urea,Chlorpyrifos
+2014,Punjab,Sugarcane,Clay,5.68,131.9,5.25,1,3.02,3.02,Urea,DDT
+2019,Punjab,Maize,Sandy,6.75,213.9,3.31,5,4.93,24.65,Ammonium Sulphate,Malathion
+2009,Karnataka,Rice,Silty,7.03,146.1,1.65,5,3.71,18.55,DAP,Carbaryl
+2011,Uttar Pradesh,Rice,Silty,6.16,144.1,2.8,4,3.48,13.92,Urea,DDT
+2002,Tamil Nadu,Wheat,Loamy,6.27,179.9,3.98,7,3.78,26.46,Potash,DDT
+2017,Punjab,Rice,Sandy,6.36,182.5,3.7,9,3.97,35.73,Urea,Malathion
+2014,Bihar,Sugarcane,Clay,6.91,127.4,4.35,4,3.01,12.04,DAP,Imidacloprid
+2001,Haryana,Barley,Clay,6.62,160.1,4.43,4,3.71,14.84,Ammonium Sulphate,Imidacloprid
+2020,Punjab,Rice,Sandy,6.58,202.4,2.55,3,4.69,14.07,Bio-fertilizer,Imidacloprid
+2009,Karnataka,Wheat,Loamy,6.33,186.7,2.12,9,4.49,40.41,Bio-fertilizer,Organic Pesticide
+2014,Maharashtra,Maize,Clay,5.76,216.6,3.24,3,4.9,14.7,NPK,Neem Oil
+2007,Maharashtra,Sugarcane,Sandy,5.18,170.1,4.58,6,4.7,28.2,Ammonium Sulphate,Malathion
+2018,Karnataka,Barley,Clay,6.82,159.0,3.99,5,3.66,18.3,Bio-fertilizer,Organic Pesticide
+2004,Haryana,Maize,Loamy,5.8,164.4,2.45,4,3.2,12.8,Urea,Imidacloprid
+2022,Bihar,Wheat,Clay,6.23,157.8,4.12,2,3.59,7.18,Bio-fertilizer,Imidacloprid
+2009,Bihar,Barley,Sandy,5.96,146.9,2.44,6,3.43,20.58,Compost,DDT
+2017,Tamil Nadu,Barley,Sandy,6.29,158.3,2.51,4,3.48,13.92,Compost,Imidacloprid
+2009,Haryana,Wheat,Silty,5.81,107.6,2.6,6,2.4,14.4,Compost,Carbaryl
+2002,Bihar,Barley,Clay,6.3,159.3,4.7,4,3.38,13.52,DAP,Carbaryl
+2023,Karnataka,Wheat,Sandy,6.91,186.8,5.21,1,4.28,4.28,Bio-fertilizer,Chlorpyrifos
+2007,Bihar,Millet,Sandy,7.17,154.7,4.05,1,4.11,4.11,Ammonium Sulphate,Imidacloprid
+2003,Karnataka,Rice,Sandy,7.22,128.3,3.67,9,3.5,31.5,Bio-fertilizer,DDT
+2016,Karnataka,Rice,Silty,7.06,144.4,2.88,9,3.62,32.58,Potash,Organic Pesticide
+2006,Karnataka,Sugarcane,Sandy,5.09,165.9,4.18,7,4.34,30.38,Potash,Malathion
+2014,Haryana,Sugarcane,Clay,6.69,152.4,3.24,2,3.55,7.1,Potash,DDT
+2002,Maharashtra,Millet,Silty,6.04,122.5,3.38,7,3.05,21.35,NPK,Malathion
+2002,Punjab,Barley,Sandy,7.54,128.2,3.15,4,3.66,14.64,Bio-fertilizer,Neem Oil
+2023,Uttar Pradesh,Wheat,Sandy,6.13,161.8,2.39,6,3.41,20.46,NPK,Carbaryl
+2021,Tamil Nadu,Millet,Sandy,6.62,157.8,2.65,9,3.97,35.73,DAP,Organic Pesticide
+2015,Bihar,Rice,Silty,6.92,145.6,4.49,2,4.08,8.16,Potash,Carbaryl
+2003,Haryana,Maize,Clay,6.34,165.8,2.8,7,3.78,26.46,Urea,Carbaryl
+2001,Bihar,Sugarcane,Silty,6.87,165.1,2.17,1,4.08,4.08,Potash,Neem Oil
+2017,Karnataka,Millet,Clay,6.98,187.3,3.58,7,4.57,31.99,NPK,Malathion
+2016,Punjab,Wheat,Clay,6.27,132.1,3.3,2,3.87,7.74,Bio-fertilizer,Imidacloprid
+2022,Tamil Nadu,Wheat,Silty,6.02,135.4,2.99,7,3.73,26.11,Potash,Organic Pesticide
+2013,Maharashtra,Maize,Silty,6.57,134.3,2.35,6,3.79,22.74,Urea,Chlorpyrifos
+2019,Karnataka,Sugarcane,Silty,8.18,148.1,4.99,9,3.57,32.13,Bio-fertilizer,Neem Oil
+2014,Karnataka,Rice,Silty,6.05,184.1,3.82,1,3.88,3.88,Bio-fertilizer,Neem Oil
+2021,Haryana,Millet,Loamy,6.82,159.4,5.65,7,3.82,26.74,Bio-fertilizer,Malathion
+2021,Maharashtra,Wheat,Clay,6.05,191.8,3.65,6,4.35,26.1,Potash,Malathion
+2005,Punjab,Sugarcane,Sandy,6.25,162.5,3.53,3,4.62,13.86,Compost,DDT
+2020,Haryana,Maize,Clay,6.3,167.1,2.48,2,3.79,7.58,Compost,Chlorpyrifos
+2021,Bihar,Barley,Sandy,5.75,142.8,3.32,1,3.98,3.98,Ammonium Sulphate,Chlorpyrifos
+2012,Karnataka,Sugarcane,Clay,6.16,140.7,3.3,7,3.9,27.3,Compost,DDT
+2010,Uttar Pradesh,Millet,Sandy,7.02,222.2,2.74,1,4.99,4.99,Compost,DDT
+2017,Uttar Pradesh,Maize,Silty,6.72,197.3,4.72,6,3.93,23.58,Ammonium Sulphate,DDT
+2016,Karnataka,Millet,Silty,7.24,160.0,2.93,6,3.57,21.42,Compost,Organic Pesticide
+2011,Karnataka,Rice,Clay,6.13,74.8,4.19,7,1.92,13.44,NPK,Imidacloprid
+2006,Haryana,Millet,Sandy,7.03,192.2,1.95,1,4.66,4.66,NPK,Organic Pesticide
+2008,Karnataka,Barley,Clay,6.83,165.5,2.56,2,3.69,7.38,Compost,Carbaryl
+2004,Maharashtra,Sugarcane,Sandy,6.87,152.2,4.17,8,4.48,35.84,Urea,DDT
+2007,Maharashtra,Rice,Silty,5.68,158.2,2.17,4,3.85,15.4,Compost,Organic Pesticide
+2006,Uttar Pradesh,Millet,Silty,5.82,161.8,3.99,9,3.92,35.28,Potash,Chlorpyrifos
+2005,Bihar,Rice,Loamy,6.22,229.0,3.14,6,5.64,33.84,DAP,Carbaryl
+2019,Tamil Nadu,Millet,Sandy,6.6,136.8,2.6,8,4.02,32.16,Potash,DDT
+2001,Punjab,Millet,Clay,6.71,149.6,5.56,5,3.73,18.65,Compost,Chlorpyrifos
+2022,Punjab,Barley,Loamy,5.75,165.8,3.14,2,3.37,6.74,DAP,Imidacloprid
+2006,Tamil Nadu,Wheat,Clay,6.93,166.4,2.43,3,4.11,12.33,Bio-fertilizer,Chlorpyrifos
+2002,Bihar,Rice,Loamy,6.13,187.9,2.81,2,4.47,8.94,Urea,Chlorpyrifos
+2021,Bihar,Barley,Loamy,5.59,147.6,3.25,7,3.37,23.59,NPK,Organic Pesticide
+2019,Tamil Nadu,Barley,Silty,6.15,196.5,6.2,9,4.42,39.78,Potash,DDT
+2019,Bihar,Wheat,Silty,6.25,154.5,2.94,6,3.93,23.58,Bio-fertilizer,Imidacloprid
+2001,Uttar Pradesh,Millet,Sandy,5.75,145.3,3.92,2,2.88,5.76,DAP,Malathion
+2002,Uttar Pradesh,Millet,Silty,6.08,168.7,3.03,8,3.91,31.28,DAP,Neem Oil
+2012,Haryana,Wheat,Clay,6.9,140.3,3.79,2,3.21,6.42,DAP,Carbaryl
+2008,Haryana,Barley,Sandy,6.66,169.2,4.35,5,4.31,21.55,DAP,Organic Pesticide
+2018,Karnataka,Sugarcane,Sandy,6.96,150.9,2.18,5,3.6,18.0,NPK,Imidacloprid
+2015,Bihar,Rice,Loamy,6.88,142.2,3.03,2,3.43,6.86,Potash,Neem Oil
+2013,Haryana,Wheat,Silty,6.23,128.2,3.02,5,3.31,16.55,Bio-fertilizer,Malathion
+2023,Uttar Pradesh,Barley,Sandy,6.33,132.5,2.2,6,2.91,17.46,Urea,Neem Oil
+2015,Karnataka,Sugarcane,Clay,7.32,160.6,2.15,4,4.05,16.2,NPK,Chlorpyrifos
+2011,Maharashtra,Sugarcane,Loamy,6.55,156.6,3.05,1,3.45,3.45,Ammonium Sulphate,DDT
+2000,Bihar,Millet,Silty,6.28,153.7,4.58,3,3.47,10.41,NPK,Chlorpyrifos
+2008,Karnataka,Barley,Loamy,7.08,179.2,3.13,8,4.53,36.24,NPK,Neem Oil
+2021,Bihar,Rice,Clay,6.4,116.1,4.52,1,2.78,2.78,Compost,Chlorpyrifos
+2001,Karnataka,Barley,Silty,6.47,177.0,4.54,5,4.19,20.95,NPK,Neem Oil
+2023,Bihar,Maize,Sandy,6.92,149.8,2.65,2,3.99,7.98,Potash,Imidacloprid
+2006,Haryana,Barley,Clay,6.39,165.6,2.72,4,3.94,15.76,Urea,Neem Oil
+2001,Bihar,Millet,Clay,5.85,162.2,4.23,1,3.49,3.49,DAP,Neem Oil
+2010,Karnataka,Barley,Silty,6.64,165.3,4.94,5,3.65,18.25,NPK,Organic Pesticide
+2011,Bihar,Wheat,Sandy,6.92,142.9,3.17,3,3.75,11.25,Ammonium Sulphate,Organic Pesticide
+2015,Uttar Pradesh,Barley,Silty,6.37,209.5,2.61,1,4.94,4.94,Compost,Carbaryl
+2007,Maharashtra,Millet,Clay,6.21,143.4,4.3,5,3.88,19.4,Bio-fertilizer,Malathion
+2003,Tamil Nadu,Barley,Loamy,7.62,139.9,2.73,1,3.2,3.2,Potash,Neem Oil
+2006,Maharashtra,Wheat,Clay,5.78,137.8,5.36,2,3.54,7.08,Bio-fertilizer,Chlorpyrifos
+2012,Tamil Nadu,Sugarcane,Sandy,6.97,155.7,3.74,5,3.93,19.65,Urea,DDT
+2000,Maharashtra,Barley,Silty,6.84,122.8,3.45,4,3.48,13.92,Potash,Organic Pesticide
+2001,Karnataka,Rice,Sandy,6.33,159.3,3.78,2,3.44,6.88,Potash,Chlorpyrifos
+2013,Karnataka,Sugarcane,Silty,6.4,145.4,3.85,2,3.39,6.78,Ammonium Sulphate,Organic Pesticide
+2007,Tamil Nadu,Wheat,Silty,6.65,156.8,4.3,9,3.57,32.13,Urea,Chlorpyrifos
+2003,Tamil Nadu,Maize,Sandy,6.56,155.0,4.3,9,3.81,34.29,Bio-fertilizer,Malathion
+2016,Karnataka,Barley,Sandy,6.54,132.0,2.45,1,3.49,3.49,Compost,DDT
+2008,Maharashtra,Barley,Clay,5.91,232.5,4.82,2,4.99,9.98,DAP,Imidacloprid
+2020,Tamil Nadu,Sugarcane,Loamy,5.89,190.4,2.57,2,4.79,9.58,Bio-fertilizer,Malathion
+2009,Uttar Pradesh,Rice,Sandy,7.04,158.4,3.6,1,3.76,3.76,Compost,Carbaryl
+2013,Haryana,Wheat,Loamy,6.51,102.5,2.6,9,3.02,27.18,DAP,Organic Pesticide
+2004,Maharashtra,Wheat,Loamy,6.77,174.3,5.41,1,4.14,4.14,NPK,Organic Pesticide
+2013,Punjab,Maize,Clay,6.49,154.7,3.22,8,3.36,26.88,Potash,DDT
+2018,Punjab,Rice,Loamy,6.61,166.7,1.59,2,3.88,7.76,Compost,DDT
+2013,Maharashtra,Millet,Silty,7.31,194.5,3.96,5,4.19,20.95,Compost,Chlorpyrifos
+2015,Karnataka,Rice,Clay,6.39,202.1,3.21,2,4.26,8.52,Urea,Imidacloprid
+2013,Tamil Nadu,Millet,Sandy,6.17,155.5,5.02,4,3.28,13.12,Compost,DDT
+2004,Uttar Pradesh,Maize,Silty,6.3,146.5,3.35,6,3.79,22.74,Potash,Carbaryl
+2005,Karnataka,Sugarcane,Sandy,7.31,152.8,2.81,5,3.48,17.4,NPK,Malathion
+2016,Maharashtra,Sugarcane,Silty,6.82,125.0,3.55,2,3.34,6.68,DAP,Chlorpyrifos
+2012,Haryana,Wheat,Sandy,5.77,170.6,2.27,9,4.62,41.58,Urea,Neem Oil
+2005,Maharashtra,Barley,Clay,7.17,217.2,2.75,2,4.9,9.8,Compost,Imidacloprid
+2019,Tamil Nadu,Millet,Loamy,6.46,128.5,3.32,8,3.23,25.84,NPK,DDT
+2009,Bihar,Millet,Clay,6.33,186.2,4.88,9,4.32,38.88,NPK,Neem Oil
+2003,Punjab,Maize,Sandy,6.7,151.2,4.3,7,3.98,27.86,NPK,Malathion
+2005,Karnataka,Wheat,Loamy,6.56,130.3,4.27,2,3.26,6.52,NPK,Neem Oil
+2017,Haryana,Barley,Sandy,7.27,141.4,1.44,4,3.28,13.12,Urea,Carbaryl
+2019,Tamil Nadu,Wheat,Silty,6.98,121.5,4.56,4,2.72,10.88,NPK,DDT
+2010,Punjab,Rice,Loamy,6.68,165.6,1.69,8,3.8,30.4,Compost,Imidacloprid
+2018,Punjab,Sugarcane,Clay,6.89,185.1,4.16,8,4.4,35.2,DAP,Organic Pesticide
+2010,Punjab,Barley,Clay,7.2,107.6,2.14,5,3.32,16.6,Potash,Chlorpyrifos
+2010,Karnataka,Maize,Clay,6.08,150.8,3.56,6,3.49,20.94,Urea,Organic Pesticide
+2019,Haryana,Millet,Sandy,6.66,163.0,4.47,8,3.56,28.48,DAP,Organic Pesticide
+2002,Bihar,Sugarcane,Silty,7.61,220.1,4.11,8,5.7,45.6,Compost,DDT
+2002,Uttar Pradesh,Maize,Sandy,6.56,179.2,5.1,6,3.94,23.64,Compost,Neem Oil
+2019,Karnataka,Maize,Sandy,7.44,157.0,4.65,7,4.26,29.82,DAP,Neem Oil
+2016,Karnataka,Sugarcane,Clay,7.19,154.2,4.25,6,4.04,24.24,Bio-fertilizer,DDT
+2017,Haryana,Wheat,Sandy,7.23,174.6,5.48,1,4.2,4.2,Ammonium Sulphate,Neem Oil
+2008,Maharashtra,Wheat,Silty,6.47,154.3,3.68,4,3.75,15.0,Bio-fertilizer,Carbaryl
+2022,Uttar Pradesh,Sugarcane,Silty,5.9,161.3,4.65,5,4.06,20.3,Ammonium Sulphate,Malathion
+2017,Bihar,Maize,Loamy,6.19,164.7,4.18,6,4.1,24.6,Urea,Organic Pesticide
+2018,Bihar,Millet,Sandy,6.51,131.0,3.59,3,3.14,9.42,Urea,Organic Pesticide
+2007,Uttar Pradesh,Sugarcane,Loamy,6.27,116.0,3.53,4,2.74,10.96,Compost,DDT
+2007,Punjab,Barley,Loamy,7.77,202.9,3.45,2,4.47,8.94,NPK,DDT
+2017,Bihar,Maize,Silty,6.11,102.9,3.84,8,2.79,22.32,Urea,Organic Pesticide
+2020,Uttar Pradesh,Barley,Loamy,6.43,127.5,1.99,5,3.37,16.85,Bio-fertilizer,DDT
+2007,Maharashtra,Barley,Loamy,5.97,192.9,5.24,4,4.53,18.12,Potash,Neem Oil
+2004,Maharashtra,Millet,Sandy,6.49,163.7,3.77,8,4.36,34.88,Compost,Neem Oil
+2018,Tamil Nadu,Maize,Silty,6.44,165.1,4.32,2,3.55,7.1,Compost,Malathion
+2003,Uttar Pradesh,Rice,Sandy,6.31,155.6,3.79,8,3.22,25.76,Ammonium Sulphate,Neem Oil
+2010,Uttar Pradesh,Rice,Clay,6.05,172.6,3.28,5,3.6,18.0,Potash,Carbaryl
+2003,Bihar,Maize,Loamy,6.33,78.4,3.17,4,2.91,11.64,Potash,Neem Oil
+2023,Tamil Nadu,Rice,Sandy,5.99,190.3,1.51,2,4.24,8.48,Potash,Carbaryl
+2003,Maharashtra,Barley,Sandy,6.77,139.5,3.18,5,3.75,18.75,Ammonium Sulphate,Malathion
+2016,Tamil Nadu,Wheat,Silty,6.97,161.5,2.55,5,4.21,21.05,NPK,Carbaryl
+2011,Haryana,Maize,Sandy,6.77,253.3,3.28,5,5.49,27.45,Bio-fertilizer,Organic Pesticide
+2017,Maharashtra,Millet,Silty,6.02,193.2,2.59,7,3.87,27.09,NPK,DDT
+2010,Punjab,Millet,Loamy,5.75,141.9,2.5,8,3.67,29.36,Potash,DDT
+2017,Uttar Pradesh,Millet,Silty,6.84,164.1,3.63,3,3.83,11.49,DAP,Chlorpyrifos
+2015,Karnataka,Sugarcane,Loamy,6.63,108.6,5.27,1,3.06,3.06,NPK,Imidacloprid
+2001,Haryana,Millet,Clay,6.19,144.9,4.85,6,3.99,23.94,Potash,Organic Pesticide
+2013,Tamil Nadu,Wheat,Silty,6.87,226.4,3.01,2,4.7,9.4,Bio-fertilizer,Malathion
+2023,Bihar,Rice,Sandy,7.5,152.8,3.57,7,3.51,24.57,Ammonium Sulphate,Imidacloprid
+2013,Tamil Nadu,Sugarcane,Silty,6.37,154.8,3.31,5,4.15,20.75,Potash,Malathion
+2018,Haryana,Millet,Sandy,6.18,134.6,2.9,4,3.36,13.44,Potash,Neem Oil
+2009,Maharashtra,Maize,Loamy,6.11,218.5,4.03,9,4.37,39.33,DAP,Imidacloprid
+2002,Bihar,Millet,Silty,6.06,155.4,2.21,3,3.69,11.07,Compost,Neem Oil
+2000,Punjab,Millet,Clay,6.41,156.2,4.4,2,3.66,7.32,Ammonium Sulphate,Organic Pesticide
+2021,Punjab,Wheat,Silty,6.53,196.7,3.76,5,4.68,23.4,Urea,Chlorpyrifos
+2000,Punjab,Millet,Sandy,7.12,197.0,2.93,5,4.83,24.15,Bio-fertilizer,DDT
+2000,Punjab,Maize,Silty,6.91,186.1,2.17,8,4.36,34.88,Ammonium Sulphate,Organic Pesticide
+2012,Karnataka,Sugarcane,Silty,7.26,202.6,4.31,6,4.91,29.46,NPK,Imidacloprid
+2003,Maharashtra,Wheat,Silty,6.28,170.2,3.62,7,3.75,26.25,Ammonium Sulphate,Chlorpyrifos
+2000,Haryana,Millet,Clay,7.24,210.1,2.27,2,4.62,9.24,DAP,Neem Oil
+2014,Maharashtra,Barley,Sandy,6.24,209.9,3.87,8,4.94,39.52,DAP,Malathion
+2005,Bihar,Maize,Loamy,7.33,142.4,1.78,2,3.25,6.5,Bio-fertilizer,Malathion
+2021,Haryana,Maize,Sandy,6.63,126.5,4.98,7,3.54,24.78,Potash,DDT
+2000,Tamil Nadu,Wheat,Loamy,5.87,131.9,1.67,7,2.96,20.72,Ammonium Sulphate,Malathion
+2016,Karnataka,Rice,Silty,6.2,131.1,3.71,6,3.35,20.1,Potash,Neem Oil
+2022,Bihar,Sugarcane,Clay,6.9,68.5,4.22,5,2.22,11.1,Ammonium Sulphate,DDT
+2007,Punjab,Rice,Clay,6.47,190.5,4.21,7,4.75,33.25,Urea,DDT
+2007,Uttar Pradesh,Wheat,Sandy,6.79,185.6,3.59,7,4.96,34.72,NPK,Carbaryl
+2006,Karnataka,Millet,Clay,6.03,97.8,2.73,2,2.75,5.5,NPK,Imidacloprid
+2013,Maharashtra,Rice,Loamy,6.33,152.0,2.12,2,4.01,8.02,Ammonium Sulphate,Organic Pesticide
+2020,Bihar,Maize,Clay,6.2,227.9,3.89,8,5.31,42.48,Bio-fertilizer,Organic Pesticide
+2020,Bihar,Maize,Loamy,6.24,128.8,3.44,9,3.87,34.83,Ammonium Sulphate,DDT
+2014,Bihar,Millet,Clay,6.0,133.2,2.65,8,3.19,25.52,NPK,Organic Pesticide
+2022,Haryana,Sugarcane,Clay,6.93,113.8,2.59,1,3.24,3.24,Urea,Imidacloprid
+2018,Uttar Pradesh,Millet,Sandy,6.86,146.4,1.44,4,3.72,14.88,NPK,DDT
+2004,Tamil Nadu,Millet,Sandy,6.96,127.6,4.48,4,3.51,14.04,Ammonium Sulphate,Neem Oil
+2005,Uttar Pradesh,Wheat,Silty,6.76,156.7,3.02,8,4.26,34.08,DAP,DDT
+2010,Punjab,Sugarcane,Loamy,6.3,209.2,3.67,5,4.35,21.75,Compost,Chlorpyrifos
+2009,Karnataka,Barley,Loamy,6.95,236.2,2.52,1,4.81,4.81,DAP,Carbaryl
+2013,Bihar,Millet,Clay,6.59,165.2,4.71,9,4.1,36.9,Ammonium Sulphate,Neem Oil
+2004,Uttar Pradesh,Wheat,Silty,7.55,200.4,2.56,9,4.22,37.98,Compost,Neem Oil
+2013,Punjab,Sugarcane,Silty,6.75,170.7,4.98,4,4.3,17.2,Urea,Malathion
+2011,Bihar,Rice,Clay,6.39,202.2,4.07,2,4.43,8.86,Bio-fertilizer,Chlorpyrifos
+2016,Tamil Nadu,Sugarcane,Clay,6.33,158.5,3.64,4,3.68,14.72,Ammonium Sulphate,DDT
+2019,Karnataka,Millet,Loamy,6.35,122.3,3.27,2,3.23,6.46,NPK,Chlorpyrifos
+2022,Bihar,Wheat,Loamy,6.39,140.0,1.21,2,3.04,6.08,DAP,Chlorpyrifos
+2011,Karnataka,Rice,Clay,6.67,207.3,3.47,6,4.96,29.76,Potash,Neem Oil
+2017,Uttar Pradesh,Sugarcane,Loamy,5.2,201.5,2.13,1,4.38,4.38,Potash,Imidacloprid
+2021,Tamil Nadu,Rice,Silty,6.35,162.5,2.98,8,3.49,27.92,Compost,Organic Pesticide
+2001,Haryana,Sugarcane,Loamy,6.96,162.5,3.53,2,3.61,7.22,DAP,Neem Oil
+2000,Maharashtra,Barley,Sandy,6.86,169.3,3.72,3,3.76,11.28,Ammonium Sulphate,Organic Pesticide
+2005,Haryana,Maize,Sandy,7.11,178.5,4.28,3,4.23,12.69,Potash,DDT
+2021,Karnataka,Barley,Sandy,7.49,110.3,4.42,4,3.29,13.16,Bio-fertilizer,Organic Pesticide
+2021,Haryana,Wheat,Clay,6.59,151.5,4.4,3,3.52,10.56,Compost,DDT
+2006,Haryana,Rice,Loamy,6.73,130.3,2.75,1,3.38,3.38,Compost,Neem Oil
+2003,Punjab,Wheat,Clay,6.33,192.8,3.53,3,4.72,14.16,Ammonium Sulphate,Chlorpyrifos
+2014,Haryana,Maize,Sandy,6.78,101.2,4.62,9,2.64,23.76,Urea,Chlorpyrifos
+2021,Tamil Nadu,Millet,Sandy,6.93,177.1,4.15,4,3.86,15.44,Potash,Carbaryl
+2011,Punjab,Millet,Sandy,5.98,214.0,2.74,2,4.62,9.24,Potash,Malathion
+2011,Haryana,Barley,Sandy,6.95,116.0,3.78,2,2.93,5.86,Bio-fertilizer,Chlorpyrifos
+2009,Maharashtra,Barley,Silty,6.8,150.3,2.01,3,4.43,13.29,Urea,Carbaryl
+2005,Tamil Nadu,Wheat,Sandy,5.02,127.4,3.1,9,3.38,30.42,Compost,Organic Pesticide
+2002,Haryana,Wheat,Silty,6.35,170.3,6.84,2,4.19,8.38,Compost,Carbaryl
+2019,Uttar Pradesh,Millet,Silty,7.58,133.1,3.58,7,3.69,25.83,DAP,Neem Oil
+2015,Bihar,Wheat,Loamy,6.6,97.3,4.15,2,2.51,5.02,DAP,Organic Pesticide
+2003,Tamil Nadu,Barley,Silty,6.28,174.2,4.01,1,4.1,4.1,NPK,Carbaryl
+2000,Karnataka,Barley,Silty,5.81,143.9,3.06,4,3.63,14.52,NPK,Imidacloprid
+2012,Maharashtra,Sugarcane,Loamy,6.12,145.9,2.15,9,3.59,32.31,Bio-fertilizer,Neem Oil
+2003,Punjab,Barley,Sandy,6.04,166.8,3.63,2,3.65,7.3,Compost,Organic Pesticide
+2003,Tamil Nadu,Maize,Sandy,6.98,122.8,4.33,2,2.97,5.94,Ammonium Sulphate,Organic Pesticide
+2009,Maharashtra,Sugarcane,Silty,5.77,203.4,4.05,6,4.77,28.62,NPK,DDT
+2017,Karnataka,Barley,Sandy,6.18,151.4,3.56,2,3.12,6.24,DAP,Imidacloprid
+2013,Maharashtra,Wheat,Silty,6.66,97.7,3.3,8,2.38,19.04,Ammonium Sulphate,Carbaryl
+2021,Bihar,Wheat,Clay,6.91,170.5,2.63,3,4.15,12.45,Bio-fertilizer,Chlorpyrifos
+2002,Karnataka,Sugarcane,Loamy,6.54,187.6,4.1,7,4.34,30.38,Ammonium Sulphate,Malathion
+2015,Maharashtra,Barley,Silty,6.67,168.9,2.46,6,3.76,22.56,DAP,Neem Oil
+2009,Karnataka,Rice,Sandy,6.05,208.5,2.33,5,5.12,25.6,DAP,Chlorpyrifos
+2022,Haryana,Sugarcane,Loamy,6.57,131.4,3.57,5,3.11,15.55,Compost,Chlorpyrifos
+2018,Bihar,Rice,Sandy,6.11,208.2,2.32,9,4.95,44.55,Compost,Carbaryl
+2023,Punjab,Maize,Loamy,5.73,221.9,0.94,4,4.79,19.16,Compost,Organic Pesticide
+2018,Karnataka,Wheat,Sandy,6.09,162.0,2.47,8,3.24,25.92,Compost,Organic Pesticide
+2013,Tamil Nadu,Wheat,Clay,6.3,135.0,2.68,8,3.48,27.84,Urea,Organic Pesticide
+2012,Tamil Nadu,Millet,Clay,7.14,168.9,1.81,4,4.05,16.2,Urea,Chlorpyrifos
+2002,Uttar Pradesh,Barley,Silty,5.59,152.5,3.84,8,3.4,27.2,NPK,Malathion
+2007,Tamil Nadu,Maize,Sandy,6.13,172.8,3.62,6,4.17,25.02,Bio-fertilizer,DDT
+2014,Karnataka,Rice,Loamy,6.91,100.2,4.17,1,2.84,2.84,Potash,Carbaryl
+2002,Haryana,Millet,Sandy,6.61,108.9,3.31,9,3.01,27.09,Urea,Carbaryl
+2004,Maharashtra,Wheat,Loamy,6.37,172.3,3.46,2,4.11,8.22,Urea,Carbaryl
+2008,Haryana,Rice,Clay,6.75,172.8,2.46,4,4.03,16.12,Bio-fertilizer,Chlorpyrifos
+2021,Maharashtra,Millet,Silty,6.93,142.5,1.7,5,4.2,21.0,Compost,Carbaryl
+2016,Haryana,Millet,Clay,7.76,124.9,3.67,7,2.73,19.11,Bio-fertilizer,Imidacloprid
+2000,Bihar,Maize,Loamy,6.04,99.4,3.44,3,2.54,7.62,Potash,Imidacloprid
+2017,Tamil Nadu,Maize,Sandy,6.57,137.2,2.89,4,2.99,11.96,Bio-fertilizer,Imidacloprid
+2014,Bihar,Millet,Silty,6.19,211.8,4.19,7,4.25,29.75,DAP,Chlorpyrifos
+2010,Karnataka,Barley,Silty,5.87,178.4,3.57,1,4.12,4.12,Urea,Chlorpyrifos
+2004,Karnataka,Wheat,Clay,6.07,192.4,2.87,2,5.11,10.22,DAP,Organic Pesticide
+2008,Maharashtra,Rice,Loamy,6.39,118.2,2.29,7,3.25,22.75,NPK,Chlorpyrifos
+2000,Karnataka,Sugarcane,Silty,5.82,168.5,4.58,6,3.96,23.76,Compost,DDT
+2012,Bihar,Wheat,Silty,6.51,159.5,1.97,4,4.08,16.32,Bio-fertilizer,Carbaryl
+2014,Maharashtra,Millet,Sandy,6.76,138.2,3.38,8,3.27,26.16,Potash,Organic Pesticide
+2023,Bihar,Rice,Loamy,6.99,147.4,2.36,2,3.41,6.82,NPK,Carbaryl
+2014,Maharashtra,Barley,Sandy,6.14,192.3,3.45,9,3.61,32.49,DAP,Malathion
+2004,Karnataka,Sugarcane,Sandy,6.63,182.7,2.97,3,4.62,13.86,Urea,Organic Pesticide
+2023,Haryana,Barley,Silty,6.78,174.4,2.68,6,4.25,25.5,NPK,Organic Pesticide
+2002,Karnataka,Sugarcane,Clay,5.97,132.9,3.73,3,3.19,9.57,Bio-fertilizer,Imidacloprid
+2017,Tamil Nadu,Barley,Silty,6.87,225.6,3.92,3,4.77,14.31,Compost,Organic Pesticide
+2011,Uttar Pradesh,Barley,Clay,5.95,175.6,3.2,7,4.38,30.66,Potash,Carbaryl
+2021,Punjab,Barley,Clay,6.42,135.4,2.62,3,3.76,11.28,DAP,Chlorpyrifos
+2021,Uttar Pradesh,Sugarcane,Clay,6.14,160.3,5.71,4,3.31,13.24,Potash,Neem Oil
+2008,Punjab,Wheat,Loamy,6.92,194.2,3.78,2,4.23,8.46,Ammonium Sulphate,Carbaryl
+2023,Tamil Nadu,Maize,Silty,6.99,162.4,2.4,8,3.42,27.36,Compost,Imidacloprid
+2018,Maharashtra,Maize,Loamy,6.8,124.1,2.71,3,2.97,8.91,Urea,DDT
+2004,Maharashtra,Maize,Clay,5.48,172.0,2.61,5,4.16,20.8,Bio-fertilizer,Neem Oil
+2015,Bihar,Wheat,Silty,6.74,177.7,1.36,8,4.29,34.32,Compost,Chlorpyrifos
+2001,Haryana,Wheat,Clay,7.41,105.0,3.71,4,2.95,11.8,Ammonium Sulphate,DDT
+2010,Maharashtra,Sugarcane,Clay,6.52,130.7,2.46,2,3.55,7.1,Bio-fertilizer,Chlorpyrifos
+2004,Uttar Pradesh,Maize,Clay,6.33,172.8,3.22,7,3.99,27.93,Potash,DDT
+2002,Haryana,Barley,Loamy,6.73,203.7,4.19,9,4.87,43.83,Potash,Malathion
+2008,Karnataka,Maize,Silty,6.63,98.4,2.67,9,2.21,19.89,Compost,Imidacloprid
+2001,Tamil Nadu,Wheat,Sandy,6.46,166.1,2.98,5,4.07,20.35,Bio-fertilizer,DDT
+2011,Maharashtra,Millet,Loamy,6.53,157.4,3.85,4,3.55,14.2,Bio-fertilizer,Chlorpyrifos
+2008,Haryana,Rice,Sandy,5.4,106.1,3.02,5,2.79,13.95,Bio-fertilizer,Carbaryl
+2019,Bihar,Wheat,Clay,6.67,127.1,3.22,1,3.22,3.22,NPK,Chlorpyrifos
+2002,Punjab,Maize,Sandy,6.26,220.8,3.61,6,4.92,29.52,Ammonium Sulphate,DDT
+2005,Uttar Pradesh,Sugarcane,Sandy,8.06,151.9,3.09,7,4.23,29.61,Urea,Malathion
+2022,Punjab,Millet,Loamy,6.14,147.3,3.3,7,3.57,24.99,Ammonium Sulphate,Carbaryl
+2006,Maharashtra,Wheat,Sandy,7.13,204.1,4.1,6,4.84,29.04,Potash,Organic Pesticide
+2006,Bihar,Millet,Clay,6.26,166.4,2.74,6,3.48,20.88,DAP,Imidacloprid
+2006,Uttar Pradesh,Millet,Loamy,7.43,166.7,2.32,3,4.18,12.54,Bio-fertilizer,Carbaryl
+2017,Punjab,Sugarcane,Silty,6.3,203.4,3.05,3,4.86,14.58,Potash,DDT
+2012,Uttar Pradesh,Barley,Silty,6.63,128.8,5.21,4,3.37,13.48,Potash,Neem Oil
+2003,Maharashtra,Sugarcane,Sandy,6.62,181.1,3.88,2,4.21,8.42,Compost,Organic Pesticide
+2018,Tamil Nadu,Rice,Sandy,5.94,125.0,4.59,1,3.44,3.44,Compost,Malathion
+2010,Uttar Pradesh,Sugarcane,Silty,6.84,117.5,4.4,7,3.41,23.87,Ammonium Sulphate,DDT
+2021,Punjab,Wheat,Clay,6.4,179.2,3.36,8,4.17,33.36,Ammonium Sulphate,DDT
+2007,Bihar,Maize,Loamy,5.92,125.1,3.06,1,3.04,3.04,NPK,Carbaryl
+2013,Tamil Nadu,Barley,Clay,6.35,181.5,3.68,2,4.36,8.72,DAP,DDT
+2022,Karnataka,Wheat,Silty,5.89,176.7,2.33,9,3.97,35.73,Urea,Chlorpyrifos
+2016,Haryana,Barley,Sandy,6.85,130.8,1.96,4,3.47,13.88,Potash,Imidacloprid
+2016,Bihar,Wheat,Silty,5.95,165.0,3.93,2,4.06,8.12,Urea,DDT
+2023,Karnataka,Wheat,Clay,6.42,169.7,4.15,7,3.63,25.41,Potash,Malathion
+2010,Uttar Pradesh,Millet,Clay,6.08,119.2,3.08,5,3.51,17.55,Ammonium Sulphate,Chlorpyrifos
+2005,Tamil Nadu,Maize,Loamy,6.86,174.6,3.73,5,4.03,20.15,DAP,DDT
+2019,Haryana,Rice,Sandy,6.36,223.3,4.29,7,4.92,34.44,Ammonium Sulphate,Carbaryl
+2012,Karnataka,Sugarcane,Clay,6.5,225.3,3.64,9,4.97,44.73,Urea,DDT
+2011,Karnataka,Barley,Silty,6.3,145.3,4.42,9,3.32,29.88,Urea,Organic Pesticide
+2012,Punjab,Sugarcane,Sandy,6.36,193.9,2.7,4,4.8,19.2,Ammonium Sulphate,Carbaryl
+2011,Maharashtra,Rice,Loamy,5.4,227.0,3.41,7,5.33,37.31,DAP,Malathion
+2009,Punjab,Barley,Silty,6.16,172.6,2.72,9,4.3,38.7,Bio-fertilizer,Neem Oil
+2015,Uttar Pradesh,Wheat,Sandy,6.31,173.6,2.75,2,3.99,7.98,NPK,Imidacloprid
+2000,Karnataka,Millet,Silty,6.41,75.3,3.38,1,2.08,2.08,NPK,DDT
+2005,Maharashtra,Wheat,Clay,6.27,170.7,0.55,3,4.05,12.15,Urea,Malathion
+2002,Punjab,Maize,Loamy,6.28,147.1,3.0,9,3.7,33.3,NPK,Carbaryl
+2001,Tamil Nadu,Maize,Clay,6.54,145.8,4.28,2,3.97,7.94,Bio-fertilizer,Organic Pesticide
+2000,Maharashtra,Millet,Loamy,6.73,153.6,3.37,1,3.78,3.78,Ammonium Sulphate,Chlorpyrifos
+2008,Tamil Nadu,Millet,Silty,6.56,131.1,1.7,4,3.5,14.0,NPK,Malathion
+2017,Maharashtra,Barley,Silty,6.72,145.2,2.63,3,3.53,10.59,Potash,Neem Oil
+2023,Punjab,Millet,Loamy,6.36,199.6,2.03,4,4.79,19.16,Potash,Carbaryl
+2003,Punjab,Wheat,Sandy,7.03,211.3,2.95,4,4.7,18.8,Ammonium Sulphate,Malathion
+2013,Bihar,Millet,Sandy,7.08,140.3,3.14,8,3.65,29.2,NPK,Organic Pesticide
+2017,Karnataka,Barley,Sandy,7.02,165.0,3.5,6,3.52,21.12,DAP,Organic Pesticide
+2002,Tamil Nadu,Wheat,Loamy,6.61,180.3,4.67,5,3.9,19.5,Urea,Neem Oil
+2001,Uttar Pradesh,Sugarcane,Silty,7.3,185.1,4.23,9,3.83,34.47,Ammonium Sulphate,Organic Pesticide
+2022,Uttar Pradesh,Wheat,Loamy,6.83,101.3,3.12,9,2.72,24.48,Compost,Malathion
+2021,Uttar Pradesh,Barley,Clay,6.71,160.1,2.7,2,4.2,8.4,Ammonium Sulphate,Organic Pesticide
+2017,Tamil Nadu,Rice,Clay,7.28,188.5,2.71,3,4.1,12.3,NPK,Organic Pesticide
+2013,Haryana,Millet,Sandy,6.28,147.7,2.27,7,3.52,24.64,Ammonium Sulphate,Malathion
+2002,Punjab,Barley,Sandy,6.49,134.2,2.27,5,3.16,15.8,Ammonium Sulphate,Malathion
+2013,Karnataka,Maize,Loamy,6.76,214.1,3.96,3,5.46,16.38,DAP,Neem Oil
+2010,Uttar Pradesh,Barley,Sandy,6.57,176.3,5.47,9,3.76,33.84,DAP,Imidacloprid
+2013,Maharashtra,Maize,Silty,8.11,161.0,2.76,8,4.13,33.04,Compost,Neem Oil
+2015,Punjab,Sugarcane,Clay,7.2,181.7,2.9,2,3.75,7.5,Bio-fertilizer,Organic Pesticide
+2022,Tamil Nadu,Millet,Loamy,6.91,174.1,3.58,4,4.1,16.4,Potash,Organic Pesticide
+2002,Uttar Pradesh,Rice,Loamy,5.81,153.9,3.29,9,4.26,38.34,Urea,Malathion
+2022,Bihar,Barley,Silty,6.48,160.6,4.79,2,3.59,7.18,Compost,Carbaryl
+2009,Tamil Nadu,Rice,Sandy,6.61,221.2,3.03,2,4.78,9.56,Compost,Organic Pesticide
+2016,Karnataka,Sugarcane,Loamy,6.76,143.3,3.71,7,3.78,26.46,Urea,Organic Pesticide
+2004,Maharashtra,Barley,Loamy,6.17,140.2,3.66,8,3.47,27.76,Compost,Neem Oil
+2011,Punjab,Barley,Sandy,7.35,185.2,1.76,7,4.6,32.2,Potash,Malathion
+2013,Uttar Pradesh,Rice,Sandy,5.94,143.4,2.92,2,3.48,6.96,DAP,DDT
+2023,Tamil Nadu,Sugarcane,Clay,6.82,114.9,1.72,1,3.31,3.31,Compost,Carbaryl
+2004,Maharashtra,Maize,Sandy,6.16,140.0,4.32,1,3.87,3.87,Bio-fertilizer,Chlorpyrifos
+2018,Haryana,Barley,Clay,6.11,153.2,3.34,8,3.37,26.96,Urea,DDT
+2000,Haryana,Sugarcane,Clay,6.78,136.8,3.19,7,3.08,21.56,Ammonium Sulphate,Chlorpyrifos
+2012,Karnataka,Maize,Sandy,6.67,177.8,4.12,9,4.11,36.99,Ammonium Sulphate,Imidacloprid
+2023,Tamil Nadu,Rice,Silty,6.3,125.3,4.02,3,2.9,8.7,Compost,Malathion
+2022,Maharashtra,Maize,Loamy,6.72,158.1,1.97,5,3.97,19.85,NPK,Malathion
+2004,Tamil Nadu,Wheat,Sandy,6.88,189.4,3.52,5,3.97,19.85,NPK,Chlorpyrifos
+2023,Punjab,Barley,Sandy,6.08,153.6,5.2,4,3.81,15.24,Compost,Organic Pesticide
+2008,Punjab,Sugarcane,Sandy,6.27,141.9,5.1,5,3.34,16.7,Compost,Organic Pesticide
+2019,Maharashtra,Barley,Clay,6.09,165.7,3.44,4,4.12,16.48,Potash,Carbaryl
+2001,Punjab,Barley,Silty,7.22,151.8,3.11,2,3.76,7.52,Bio-fertilizer,Malathion
+2003,Uttar Pradesh,Maize,Silty,6.0,217.6,3.6,8,5.01,40.08,DAP,Neem Oil
+2005,Bihar,Millet,Silty,6.51,159.2,2.53,1,4.08,4.08,Urea,Organic Pesticide
+2021,Bihar,Sugarcane,Loamy,5.9,151.8,4.25,6,3.12,18.72,Potash,Malathion
+2001,Uttar Pradesh,Maize,Loamy,7.81,132.1,2.94,7,3.12,21.84,NPK,Chlorpyrifos
+2020,Karnataka,Wheat,Sandy,7.02,151.1,3.81,4,3.68,14.72,Ammonium Sulphate,Organic Pesticide
+2014,Tamil Nadu,Maize,Loamy,7.02,154.3,2.27,9,3.71,33.39,Urea,DDT
+2006,Maharashtra,Wheat,Silty,6.64,148.5,3.33,4,3.29,13.16,DAP,Carbaryl
+2023,Punjab,Maize,Sandy,6.08,170.0,2.56,1,3.93,3.93,Ammonium Sulphate,Neem Oil
+2009,Tamil Nadu,Barley,Silty,6.6,147.5,4.84,2,3.02,6.04,DAP,Neem Oil
+2021,Punjab,Rice,Silty,6.27,168.6,4.82,9,3.74,33.66,Bio-fertilizer,DDT
+2009,Karnataka,Millet,Sandy,5.83,136.2,1.59,2,3.59,7.18,Compost,Malathion
+2005,Tamil Nadu,Sugarcane,Clay,5.82,91.9,4.59,9,2.46,22.14,Potash,Neem Oil
+2013,Tamil Nadu,Rice,Clay,6.48,152.1,3.76,1,3.26,3.26,Potash,Organic Pesticide
+2014,Bihar,Maize,Loamy,6.11,167.3,3.17,3,4.33,12.99,Bio-fertilizer,Organic Pesticide
+2011,Punjab,Rice,Silty,6.26,170.9,4.71,4,4.18,16.72,DAP,Neem Oil
+2013,Punjab,Rice,Clay,6.87,149.5,2.27,9,4.12,37.08,Compost,Neem Oil
+2015,Maharashtra,Barley,Loamy,6.07,159.0,3.38,4,4.05,16.2,DAP,Imidacloprid
+2002,Haryana,Wheat,Loamy,6.15,109.8,2.76,9,2.83,25.47,Compost,DDT
+2004,Bihar,Millet,Clay,7.05,182.1,2.1,5,4.09,20.45,NPK,Carbaryl
+2002,Haryana,Barley,Silty,7.24,134.0,4.34,7,3.12,21.84,DAP,DDT
+2000,Maharashtra,Rice,Loamy,6.49,138.7,1.46,4,3.57,14.28,Ammonium Sulphate,Malathion
+2019,Karnataka,Millet,Sandy,7.3,165.4,3.29,8,4.03,32.24,DAP,Carbaryl
+2004,Uttar Pradesh,Wheat,Silty,6.69,131.3,3.82,2,3.56,7.12,Ammonium Sulphate,Organic Pesticide
+2019,Maharashtra,Maize,Silty,6.71,110.2,3.6,7,3.32,23.24,Bio-fertilizer,Carbaryl
+2002,Tamil Nadu,Barley,Sandy,6.33,164.1,2.72,2,4.5,9.0,Bio-fertilizer,DDT
+2013,Bihar,Maize,Clay,6.89,150.9,2.68,9,3.86,34.74,DAP,Imidacloprid
+2011,Maharashtra,Maize,Sandy,6.41,185.3,4.62,2,5.0,10.0,Ammonium Sulphate,Imidacloprid
+2018,Tamil Nadu,Barley,Clay,6.44,154.0,4.65,4,3.5,14.0,Compost,Organic Pesticide
+2018,Tamil Nadu,Maize,Clay,6.45,144.4,3.13,7,3.62,25.34,Ammonium Sulphate,Imidacloprid
+2000,Haryana,Barley,Loamy,6.7,224.3,3.34,8,5.23,41.84,Bio-fertilizer,Carbaryl
+2004,Bihar,Sugarcane,Clay,6.66,187.5,3.67,1,4.11,4.11,Ammonium Sulphate,Chlorpyrifos
+2006,Maharashtra,Sugarcane,Sandy,6.49,181.9,3.6,9,4.42,39.78,Compost,Neem Oil
+2013,Uttar Pradesh,Sugarcane,Loamy,5.78,166.5,3.9,4,3.56,14.24,Compost,Chlorpyrifos
+2020,Uttar Pradesh,Wheat,Clay,6.42,153.5,4.72,4,3.95,15.8,Compost,Imidacloprid
+2016,Tamil Nadu,Maize,Silty,6.98,170.2,3.16,8,4.38,35.04,Urea,Malathion
+2007,Bihar,Rice,Silty,5.96,129.9,3.38,3,3.27,9.81,DAP,Neem Oil
+2016,Punjab,Rice,Sandy,5.96,145.9,3.04,4,3.28,13.12,NPK,DDT
+2013,Karnataka,Rice,Sandy,6.81,175.7,3.41,2,4.06,8.12,Potash,Imidacloprid
+2008,Bihar,Barley,Loamy,6.36,144.5,4.06,6,3.24,19.44,Bio-fertilizer,Imidacloprid
+2000,Haryana,Millet,Sandy,6.97,209.2,4.92,8,4.68,37.44,Bio-fertilizer,Organic Pesticide
+2007,Bihar,Rice,Loamy,6.72,105.0,4.09,9,3.4,30.6,Potash,Malathion
+2015,Punjab,Wheat,Sandy,6.23,147.5,4.52,8,3.62,28.96,Ammonium Sulphate,DDT
+2020,Tamil Nadu,Sugarcane,Loamy,7.26,131.3,3.46,3,3.57,10.71,Compost,DDT
+2017,Punjab,Sugarcane,Silty,5.75,189.4,3.19,8,4.46,35.68,Potash,Carbaryl
+2006,Karnataka,Millet,Silty,6.39,128.8,3.85,9,3.47,31.23,DAP,Organic Pesticide
+2005,Karnataka,Rice,Silty,6.64,176.5,2.56,3,3.91,11.73,Bio-fertilizer,Imidacloprid
+2019,Karnataka,Millet,Silty,6.53,141.7,3.18,8,3.45,27.6,Bio-fertilizer,Chlorpyrifos
+2008,Karnataka,Maize,Loamy,6.52,148.2,3.7,6,3.83,22.98,NPK,Imidacloprid
+2021,Karnataka,Rice,Silty,6.85,174.3,5.12,7,3.75,26.25,Potash,Chlorpyrifos
+2006,Uttar Pradesh,Rice,Clay,6.0,187.8,3.67,8,3.98,31.84,Bio-fertilizer,Neem Oil
+2004,Karnataka,Barley,Loamy,6.99,152.6,3.09,5,3.37,16.85,Compost,Carbaryl
+2011,Uttar Pradesh,Millet,Loamy,6.37,93.8,2.92,9,2.72,24.48,Ammonium Sulphate,Chlorpyrifos
+2003,Bihar,Millet,Loamy,5.44,144.9,3.26,2,3.45,6.9,NPK,Malathion
+2000,Bihar,Wheat,Clay,6.21,173.0,4.25,6,4.22,25.32,Urea,Chlorpyrifos
+2021,Maharashtra,Rice,Clay,6.06,137.7,2.41,9,3.47,31.23,NPK,DDT
+2007,Haryana,Millet,Silty,6.33,197.1,0.57,6,4.12,24.72,Urea,Chlorpyrifos
+2010,Bihar,Barley,Loamy,6.76,98.7,5.13,9,2.69,24.21,Ammonium Sulphate,Imidacloprid
+2001,Bihar,Millet,Sandy,6.9,159.5,2.3,3,3.78,11.34,Compost,Imidacloprid
+2002,Karnataka,Wheat,Sandy,6.51,174.0,2.93,4,4.01,16.04,Potash,Malathion
+2015,Uttar Pradesh,Rice,Clay,7.35,168.3,4.21,5,3.84,19.2,Bio-fertilizer,Chlorpyrifos
+2000,Tamil Nadu,Barley,Clay,5.72,169.0,3.17,8,4.63,37.04,NPK,Neem Oil
+2021,Karnataka,Sugarcane,Sandy,7.03,169.1,3.18,6,4.44,26.64,Ammonium Sulphate,Organic Pesticide
+2002,Uttar Pradesh,Rice,Silty,6.7,159.9,3.9,4,4.05,16.2,NPK,Neem Oil
+2015,Tamil Nadu,Rice,Clay,6.19,145.5,2.03,1,3.17,3.17,Potash,Chlorpyrifos
+2004,Maharashtra,Maize,Sandy,6.93,163.7,3.8,6,4.15,24.9,Bio-fertilizer,Neem Oil
+2001,Bihar,Maize,Sandy,6.72,221.1,2.79,2,5.21,10.42,Ammonium Sulphate,Malathion
+2010,Maharashtra,Millet,Loamy,6.81,147.3,4.21,8,3.47,27.76,Urea,Chlorpyrifos
+2023,Maharashtra,Barley,Sandy,5.67,153.9,5.04,7,4.0,28.0,NPK,Chlorpyrifos
+2005,Tamil Nadu,Rice,Clay,6.96,136.5,3.16,2,3.54,7.08,Ammonium Sulphate,Imidacloprid
+2015,Maharashtra,Rice,Silty,7.75,148.5,3.92,1,3.32,3.32,Urea,Neem Oil
+2019,Uttar Pradesh,Sugarcane,Loamy,6.04,143.0,1.72,4,3.61,14.44,Bio-fertilizer,Organic Pesticide
+2020,Punjab,Wheat,Silty,5.47,138.1,4.67,6,3.09,18.54,Ammonium Sulphate,Carbaryl
+2009,Bihar,Millet,Clay,6.13,158.8,3.17,3,4.22,12.66,Urea,Carbaryl
+2002,Uttar Pradesh,Millet,Clay,6.52,180.1,4.57,5,4.5,22.5,Urea,DDT
+2002,Karnataka,Maize,Loamy,6.47,174.3,4.0,3,3.89,11.67,Bio-fertilizer,Malathion
+2012,Haryana,Wheat,Loamy,5.95,135.9,2.37,4,3.48,13.92,Ammonium Sulphate,Organic Pesticide
+2004,Tamil Nadu,Sugarcane,Clay,6.99,139.9,3.03,6,3.36,20.16,Potash,Chlorpyrifos
+2005,Haryana,Wheat,Silty,6.09,133.2,1.68,1,2.9,2.9,Compost,DDT
+2021,Bihar,Millet,Sandy,6.75,162.7,4.54,7,3.92,27.44,NPK,Neem Oil
+2017,Uttar Pradesh,Barley,Silty,6.31,181.7,2.58,7,4.28,29.96,Urea,DDT
+2017,Tamil Nadu,Wheat,Clay,6.27,173.0,5.03,6,4.03,24.18,Compost,Organic Pesticide
+2022,Tamil Nadu,Wheat,Loamy,6.74,129.7,3.54,4,3.7,14.8,Bio-fertilizer,Organic Pesticide
+2023,Haryana,Sugarcane,Clay,6.41,178.8,2.22,1,3.97,3.97,NPK,DDT
+2021,Punjab,Maize,Silty,6.76,125.0,4.59,8,3.28,26.24,Ammonium Sulphate,Neem Oil
+2023,Punjab,Rice,Loamy,7.23,205.7,5.05,4,4.37,17.48,Potash,DDT
+2014,Maharashtra,Maize,Sandy,7.19,151.2,3.92,7,3.76,26.32,Urea,Imidacloprid
+2008,Tamil Nadu,Rice,Loamy,5.98,156.4,4.57,7,4.21,29.47,Potash,DDT
+2023,Bihar,Millet,Silty,6.47,149.7,3.5,8,4.13,33.04,Compost,Chlorpyrifos
+2014,Punjab,Sugarcane,Silty,7.27,169.4,3.14,2,3.55,7.1,Bio-fertilizer,Carbaryl
+2001,Karnataka,Sugarcane,Sandy,6.99,192.5,3.12,9,3.88,34.92,Urea,DDT
+2015,Haryana,Maize,Silty,6.74,123.3,5.13,6,2.88,17.28,DAP,Organic Pesticide
+2015,Tamil Nadu,Barley,Clay,6.53,191.5,2.97,6,4.23,25.38,Bio-fertilizer,Malathion
+2002,Uttar Pradesh,Maize,Silty,7.3,138.1,4.24,1,3.7,3.7,NPK,Chlorpyrifos
+2021,Maharashtra,Barley,Clay,6.06,174.9,4.94,9,4.38,39.42,Urea,Imidacloprid
+2008,Uttar Pradesh,Maize,Sandy,6.47,164.1,4.33,9,3.38,30.42,DAP,DDT
+2022,Tamil Nadu,Millet,Sandy,7.04,152.8,4.38,2,3.54,7.08,Urea,DDT
+2022,Maharashtra,Rice,Loamy,5.51,220.8,3.18,1,5.32,5.32,Compost,Carbaryl
+2013,Maharashtra,Millet,Loamy,6.54,104.5,1.34,3,3.09,9.27,Urea,Organic Pesticide
+2019,Punjab,Sugarcane,Loamy,6.06,199.7,3.49,8,4.26,34.08,Ammonium Sulphate,Malathion
+2013,Bihar,Millet,Loamy,7.35,161.7,1.69,1,3.97,3.97,Potash,Carbaryl
+2005,Maharashtra,Sugarcane,Loamy,6.0,180.6,2.49,9,3.58,32.22,Bio-fertilizer,Organic Pesticide
+2021,Tamil Nadu,Millet,Loamy,5.87,124.7,3.6,8,3.51,28.08,Potash,Neem Oil
+2021,Uttar Pradesh,Millet,Silty,6.37,195.9,2.67,8,4.66,37.28,DAP,DDT
+2022,Haryana,Wheat,Loamy,6.24,145.5,3.53,8,3.75,30.0,Potash,DDT
+2003,Punjab,Maize,Sandy,6.07,111.3,3.68,8,2.96,23.68,DAP,Chlorpyrifos
+2008,Uttar Pradesh,Wheat,Silty,6.99,168.6,5.56,1,3.88,3.88,NPK,Chlorpyrifos
+2017,Uttar Pradesh,Wheat,Clay,7.85,234.4,3.92,4,5.01,20.04,Bio-fertilizer,Neem Oil
+2021,Uttar Pradesh,Barley,Silty,6.95,159.9,3.53,3,3.83,11.49,DAP,DDT
+2002,Haryana,Barley,Silty,6.17,191.4,3.95,7,4.8,33.6,Compost,Neem Oil
+2015,Punjab,Rice,Silty,6.67,188.3,3.85,1,3.96,3.96,Compost,Malathion
+2013,Tamil Nadu,Maize,Sandy,6.87,134.1,4.24,9,3.31,29.79,Bio-fertilizer,Carbaryl
+2004,Karnataka,Wheat,Sandy,7.03,193.1,3.23,6,4.36,26.16,Compost,Imidacloprid
+2014,Karnataka,Barley,Sandy,6.32,115.4,4.5,9,2.96,26.64,Potash,Carbaryl
+2006,Bihar,Barley,Clay,6.5,147.1,3.93,8,3.95,31.6,Ammonium Sulphate,DDT
+2017,Maharashtra,Millet,Loamy,5.3,144.0,3.87,4,3.28,13.12,Ammonium Sulphate,Neem Oil
+2005,Tamil Nadu,Millet,Loamy,7.28,153.2,2.45,1,3.66,3.66,NPK,Carbaryl
+2018,Bihar,Rice,Sandy,5.93,179.3,2.73,8,4.24,33.92,Bio-fertilizer,Neem Oil
+2016,Maharashtra,Barley,Loamy,6.16,172.0,3.48,3,4.62,13.86,Potash,Chlorpyrifos
+2013,Karnataka,Maize,Clay,6.8,123.5,4.69,4,2.88,11.52,Ammonium Sulphate,Malathion
+2005,Punjab,Barley,Sandy,5.62,206.2,4.51,2,4.9,9.8,Bio-fertilizer,Chlorpyrifos
+2018,Punjab,Barley,Silty,5.82,130.5,2.53,9,3.34,30.06,Ammonium Sulphate,Organic Pesticide
+2020,Haryana,Wheat,Loamy,5.75,139.9,3.12,3,3.68,11.04,Compost,Carbaryl
+2004,Tamil Nadu,Sugarcane,Loamy,5.87,148.2,4.64,4,3.43,13.72,Compost,Neem Oil
+2020,Punjab,Wheat,Sandy,6.94,184.6,3.41,7,3.86,27.02,Ammonium Sulphate,DDT
+2014,Tamil Nadu,Barley,Silty,6.38,192.8,4.46,7,3.75,26.25,Bio-fertilizer,Chlorpyrifos
+2013,Karnataka,Sugarcane,Clay,6.29,220.6,5.11,3,4.1,12.3,Bio-fertilizer,Chlorpyrifos
+2013,Tamil Nadu,Millet,Clay,7.61,224.1,3.46,5,5.23,26.15,Urea,Malathion
+2018,Maharashtra,Sugarcane,Clay,5.01,190.0,3.87,8,4.4,35.2,Ammonium Sulphate,Neem Oil
+2010,Bihar,Sugarcane,Sandy,6.41,139.7,5.59,8,3.72,29.76,Urea,Neem Oil
+2020,Tamil Nadu,Wheat,Sandy,6.78,131.5,5.86,4,3.05,12.2,Potash,Imidacloprid
+2007,Uttar Pradesh,Barley,Loamy,6.72,176.3,3.67,4,4.58,18.32,Urea,Malathion
+2012,Haryana,Millet,Sandy,6.12,197.3,2.82,6,4.26,25.56,Compost,Organic Pesticide
+2012,Karnataka,Rice,Sandy,7.67,175.4,3.36,5,4.39,21.95,DAP,DDT
+2003,Uttar Pradesh,Millet,Silty,6.7,185.8,2.98,6,4.79,28.74,Bio-fertilizer,DDT
+2021,Punjab,Millet,Sandy,6.31,210.4,3.86,9,5.11,45.99,Potash,Chlorpyrifos
+2015,Karnataka,Barley,Silty,6.05,121.8,2.92,6,2.78,16.68,Bio-fertilizer,Imidacloprid
+2015,Haryana,Barley,Clay,7.1,154.0,3.02,9,3.94,35.46,Bio-fertilizer,DDT
+2022,Bihar,Maize,Silty,6.75,201.1,3.27,2,4.83,9.66,Compost,Carbaryl
+2000,Karnataka,Maize,Loamy,5.98,129.8,2.61,7,3.46,24.22,Potash,DDT
+2021,Karnataka,Rice,Sandy,5.64,234.0,2.86,7,5.51,38.57,Urea,DDT
+2002,Maharashtra,Barley,Loamy,6.86,139.0,3.18,7,3.79,26.53,Urea,DDT
+2011,Uttar Pradesh,Wheat,Loamy,6.15,136.0,6.45,2,3.54,7.08,Urea,Organic Pesticide
+2023,Maharashtra,Maize,Silty,6.34,178.4,4.44,6,4.25,25.5,NPK,Chlorpyrifos
+2001,Haryana,Barley,Loamy,6.41,163.9,3.22,3,3.66,10.98,Ammonium Sulphate,Neem Oil
+2020,Tamil Nadu,Barley,Sandy,6.17,145.9,2.7,9,3.17,28.53,Ammonium Sulphate,Imidacloprid
+2015,Maharashtra,Sugarcane,Loamy,6.17,177.7,4.04,1,3.92,3.92,Bio-fertilizer,Malathion
+2019,Punjab,Maize,Sandy,6.24,149.6,6.16,3,3.58,10.74,NPK,Malathion
+2012,Punjab,Maize,Clay,5.65,140.0,2.06,3,3.14,9.42,Ammonium Sulphate,DDT
+2018,Maharashtra,Barley,Loamy,6.44,175.4,1.89,4,4.02,16.08,Bio-fertilizer,Organic Pesticide
+2008,Bihar,Wheat,Loamy,5.68,190.7,2.16,2,5.17,10.34,Potash,Neem Oil
+2005,Haryana,Millet,Sandy,7.02,102.6,3.82,1,2.97,2.97,Urea,DDT
+2022,Karnataka,Sugarcane,Sandy,6.22,149.3,5.4,4,3.7,14.8,Potash,Organic Pesticide
+2010,Karnataka,Maize,Loamy,6.85,124.3,3.21,7,3.11,21.77,Potash,Imidacloprid
+2018,Maharashtra,Rice,Sandy,6.61,153.2,2.48,6,3.94,23.64,NPK,Imidacloprid
+2016,Tamil Nadu,Barley,Sandy,6.88,165.3,3.78,5,4.84,24.2,NPK,DDT
+2004,Punjab,Wheat,Sandy,7.3,138.4,2.47,9,3.21,28.89,Potash,Chlorpyrifos
+2022,Tamil Nadu,Sugarcane,Clay,6.58,155.9,2.42,1,3.41,3.41,Potash,Malathion
+2011,Haryana,Barley,Sandy,5.87,188.0,3.87,3,4.28,12.84,Ammonium Sulphate,Organic Pesticide
+2020,Punjab,Sugarcane,Sandy,6.92,166.8,3.38,1,3.88,3.88,NPK,Malathion
+2023,Haryana,Maize,Sandy,6.07,172.4,5.24,7,4.04,28.28,Ammonium Sulphate,Organic Pesticide
+2013,Bihar,Rice,Silty,5.76,135.3,3.75,1,3.69,3.69,Urea,Imidacloprid
+2017,Uttar Pradesh,Barley,Loamy,6.3,92.4,3.98,3,3.06,9.18,Bio-fertilizer,Imidacloprid
+2015,Bihar,Wheat,Loamy,6.55,136.4,2.69,7,3.51,24.57,Urea,Carbaryl
+2022,Maharashtra,Sugarcane,Loamy,7.25,209.2,2.22,8,4.42,35.36,Bio-fertilizer,Carbaryl
+2014,Punjab,Maize,Silty,7.07,200.7,3.42,6,4.13,24.78,Urea,Imidacloprid
+2017,Haryana,Millet,Clay,6.64,162.5,3.42,3,3.7,11.1,Urea,Malathion
+2008,Haryana,Barley,Clay,6.16,168.0,3.46,8,4.27,34.16,DAP,Imidacloprid
+2017,Haryana,Wheat,Clay,6.38,132.0,2.54,5,3.84,19.2,DAP,DDT
+2018,Punjab,Wheat,Silty,6.78,201.1,3.25,6,5.19,31.14,Compost,DDT
+2021,Bihar,Wheat,Silty,6.85,166.2,4.65,9,4.34,39.06,Potash,DDT
+2008,Karnataka,Millet,Loamy,7.29,268.1,3.67,7,5.66,39.62,Potash,DDT
+2010,Bihar,Maize,Loamy,5.65,152.8,3.54,5,3.41,17.05,Compost,Malathion
+2007,Maharashtra,Rice,Loamy,6.27,111.7,3.99,6,3.2,19.2,Potash,Imidacloprid
+2020,Bihar,Wheat,Sandy,7.65,171.6,4.82,9,4.2,37.8,Potash,Chlorpyrifos
+2016,Karnataka,Wheat,Clay,6.4,194.5,3.67,9,3.92,35.28,DAP,Imidacloprid
+2016,Tamil Nadu,Rice,Clay,7.18,155.7,4.62,7,3.73,26.11,Potash,Carbaryl
+2020,Haryana,Wheat,Silty,7.11,170.0,3.04,1,3.81,3.81,DAP,Imidacloprid
+2014,Maharashtra,Wheat,Silty,7.2,166.8,2.27,8,4.21,33.68,Urea,Malathion
+2006,Punjab,Wheat,Sandy,6.59,108.7,2.74,2,3.35,6.7,Ammonium Sulphate,Chlorpyrifos
+2002,Haryana,Maize,Loamy,6.86,156.1,4.51,4,3.82,15.28,Compost,DDT
+2013,Karnataka,Maize,Clay,6.32,154.8,4.26,3,3.41,10.23,Potash,Organic Pesticide
+2013,Bihar,Rice,Silty,6.62,168.3,2.86,2,3.53,7.06,Ammonium Sulphate,Neem Oil
+2002,Tamil Nadu,Sugarcane,Silty,7.09,144.2,3.56,9,3.89,35.01,Bio-fertilizer,DDT
+2008,Uttar Pradesh,Millet,Clay,6.88,116.2,3.68,9,2.94,26.46,Potash,Chlorpyrifos
+2016,Bihar,Barley,Silty,6.58,163.2,2.69,5,4.04,20.2,Compost,Neem Oil
+2005,Uttar Pradesh,Maize,Clay,7.28,119.4,4.44,2,3.01,6.02,Ammonium Sulphate,DDT
+2006,Tamil Nadu,Wheat,Loamy,7.42,196.7,3.62,1,4.43,4.43,Urea,Organic Pesticide
+2020,Punjab,Rice,Loamy,6.91,177.4,3.52,6,4.11,24.66,NPK,Chlorpyrifos
+2020,Maharashtra,Rice,Sandy,5.33,129.7,3.22,1,3.09,3.09,Urea,DDT
+2002,Haryana,Sugarcane,Silty,6.06,132.7,3.45,6,3.47,20.82,Ammonium Sulphate,DDT
+2013,Punjab,Wheat,Sandy,6.88,153.1,1.85,9,3.91,35.19,Urea,Neem Oil
+2009,Punjab,Millet,Sandy,6.34,88.2,4.78,8,2.79,22.32,Urea,Organic Pesticide
+2003,Tamil Nadu,Wheat,Clay,6.37,231.3,2.89,4,4.67,18.68,NPK,Neem Oil
+2001,Maharashtra,Sugarcane,Clay,6.76,157.0,2.39,4,3.81,15.24,Ammonium Sulphate,Carbaryl
+2009,Bihar,Rice,Loamy,6.62,125.7,4.28,3,3.46,10.38,NPK,Imidacloprid
+2021,Haryana,Maize,Sandy,6.1,192.7,3.06,9,3.93,35.37,DAP,Imidacloprid
+2008,Bihar,Rice,Loamy,6.19,191.4,3.82,1,4.45,4.45,DAP,Malathion
+2015,Karnataka,Barley,Clay,7.14,189.8,3.88,3,4.04,12.12,DAP,Imidacloprid
+2003,Haryana,Sugarcane,Silty,6.27,167.0,3.37,8,3.98,31.84,Bio-fertilizer,Imidacloprid
+2007,Tamil Nadu,Cauliflower,Clay,6.2,178.5,3.06,8,4.48,35.84,Bio-fertilizer,Imidacloprid
+2004,Tamil Nadu,Millet,Loamy,6.35,177.2,4.76,1,3.69,3.69,Ammonium Sulphate,Organic Pesticide
+2008,Bihar,Barley,Sandy,7.06,124.5,2.3,9,2.65,23.85,Potash,Imidacloprid
+2011,Haryana,Rice,Clay,6.85,158.1,4.46,2,4.14,8.28,Compost,Neem Oil
+2004,Tamil Nadu,Maize,Loamy,6.25,165.3,3.41,4,4.38,17.52,Ammonium Sulphate,Imidacloprid
+2001,Karnataka,Sugarcane,Sandy,6.28,171.6,4.5,9,3.95,35.55,Urea,Chlorpyrifos
+2005,Karnataka,Millet,Loamy,7.22,148.2,4.73,7,3.62,25.34,Compost,DDT
+2016,Maharashtra,Barley,Loamy,6.7,168.9,2.58,1,4.64,4.64,Ammonium Sulphate,Organic Pesticide
+2016,Karnataka,Maize,Clay,7.21,120.3,2.61,6,2.87,17.22,Urea,Carbaryl
+2017,Karnataka,Barley,Loamy,7.16,157.1,3.87,2,3.67,7.34,Bio-fertilizer,Carbaryl
+2006,Haryana,Wheat,Clay,6.07,102.2,2.44,7,3.19,22.33,Bio-fertilizer,Organic Pesticide
+2004,Tamil Nadu,Wheat,Loamy,6.95,196.7,3.44,9,4.32,38.88,NPK,Neem Oil
+2010,Uttar Pradesh,Wheat,Clay,6.28,149.5,1.38,7,3.77,26.39,DAP,Neem Oil
+2016,Tamil Nadu,Rice,Loamy,6.61,117.0,3.82,7,3.33,23.31,NPK,Chlorpyrifos
+2006,Haryana,Barley,Clay,6.58,196.0,2.09,3,4.11,12.33,Potash,Neem Oil
+2014,Tamil Nadu,Barley,Silty,6.07,163.1,2.34,6,3.73,22.38,NPK,Carbaryl
+2020,Haryana,Rice,Loamy,7.34,175.7,3.32,9,4.43,39.87,Bio-fertilizer,Carbaryl
+2011,Karnataka,Maize,Loamy,6.42,164.1,1.44,4,3.92,15.68,Bio-fertilizer,DDT
+2011,Tamil Nadu,Sugarcane,Loamy,6.65,130.1,4.07,7,3.71,25.97,Bio-fertilizer,DDT
+2016,Tamil Nadu,Millet,Sandy,6.71,152.7,3.36,2,4.1,8.2,Potash,Organic Pesticide
+2000,Tamil Nadu,Maize,Silty,6.27,144.0,3.27,2,3.83,7.66,Bio-fertilizer,Organic Pesticide
+2009,Karnataka,Maize,Clay,6.52,187.5,3.95,7,4.23,29.61,Compost,Neem Oil
+2005,Punjab,Rice,Clay,6.21,183.8,4.9,8,4.6,36.8,Bio-fertilizer,Organic Pesticide
+2001,Karnataka,Wheat,Silty,6.47,141.0,3.01,6,3.51,21.06,Potash,Neem Oil
+2011,Karnataka,Rice,Sandy,6.59,153.7,3.67,2,4.14,8.28,Potash,Organic Pesticide
+2004,Haryana,Maize,Silty,6.98,152.3,2.35,4,3.31,13.24,Bio-fertilizer,Chlorpyrifos
+2017,Bihar,Sugarcane,Sandy,6.82,155.3,3.38,4,3.61,14.44,NPK,Neem Oil
+2012,Tamil Nadu,Sugarcane,Silty,6.38,119.5,5.69,9,3.12,28.08,Bio-fertilizer,Malathion
+2003,Karnataka,Rice,Silty,5.68,151.8,4.3,5,3.74,18.7,DAP,Carbaryl
+2003,Haryana,Wheat,Sandy,6.48,158.2,3.79,3,2.92,8.76,Urea,Organic Pesticide
+2023,Uttar Pradesh,Millet,Clay,6.32,142.5,1.4,2,2.99,5.98,Bio-fertilizer,Imidacloprid
+2017,Bihar,Sugarcane,Sandy,6.52,150.9,2.33,9,3.65,32.85,Bio-fertilizer,Malathion
+2020,Punjab,Rice,Clay,6.01,209.7,0.75,6,4.89,29.34,Bio-fertilizer,Neem Oil
+2016,Tamil Nadu,Millet,Sandy,7.01,196.8,4.48,1,4.04,4.04,Urea,Chlorpyrifos
+2012,Bihar,Sugarcane,Clay,6.21,176.9,4.01,5,4.41,22.05,Compost,Imidacloprid
+2000,Bihar,Maize,Sandy,6.74,175.9,4.78,8,4.0,32.0,Ammonium Sulphate,Carbaryl
+2018,Uttar Pradesh,Barley,Silty,6.36,186.6,3.17,6,4.26,25.56,Urea,DDT
+2005,Tamil Nadu,Rice,Clay,5.84,147.1,4.51,6,3.41,20.46,Ammonium Sulphate,Malathion
+2018,Tamil Nadu,Rice,Silty,6.15,204.4,3.84,4,4.57,18.28,Bio-fertilizer,DDT
+2007,Karnataka,Maize,Silty,6.42,82.0,3.48,7,1.97,13.79,Ammonium Sulphate,Carbaryl
+2019,Karnataka,Millet,Silty,6.55,144.9,2.71,1,3.35,3.35,Ammonium Sulphate,Imidacloprid
+2007,Uttar Pradesh,Rice,Silty,6.12,164.6,2.97,4,4.24,16.96,DAP,Chlorpyrifos
+2003,Maharashtra,Millet,Loamy,6.26,164.3,3.72,2,4.49,8.98,Ammonium Sulphate,Organic Pesticide
+2010,Karnataka,Millet,Sandy,6.72,176.0,3.44,2,4.15,8.3,Potash,Imidacloprid
+2015,Punjab,Sugarcane,Sandy,6.73,170.2,4.22,9,4.05,36.45,DAP,Imidacloprid
+2007,Tamil Nadu,Wheat,Sandy,5.83,154.2,2.22,9,3.87,34.83,DAP,Neem Oil
+2012,Bihar,Maize,Sandy,7.0,156.7,2.37,2,3.91,7.82,DAP,Imidacloprid
+2014,Tamil Nadu,Sugarcane,Clay,5.68,174.7,2.73,6,4.3,25.8,Bio-fertilizer,Imidacloprid
+2015,Maharashtra,Wheat,Loamy,6.72,164.4,2.85,3,4.08,12.24,Compost,DDT
+2004,Punjab,Wheat,Silty,6.22,200.2,2.39,8,4.47,35.76,Ammonium Sulphate,Neem Oil
+2015,Bihar,Rice,Silty,6.58,193.0,4.54,5,5.05,25.25,Potash,Chlorpyrifos
+2000,Uttar Pradesh,Maize,Sandy,5.97,205.5,3.36,2,4.76,9.52,Potash,Neem Oil
+2007,Uttar Pradesh,Wheat,Silty,6.79,174.9,1.45,6,4.25,25.5,Compost,Carbaryl
+2022,Haryana,Maize,Clay,6.76,134.9,3.28,1,3.31,3.31,NPK,DDT
+2009,Maharashtra,Sugarcane,Sandy,6.9,192.3,3.51,2,4.97,9.94,DAP,Carbaryl
+2009,Karnataka,Millet,Clay,7.25,170.8,2.83,2,4.45,8.9,DAP,DDT
+2004,Uttar Pradesh,Rice,Loamy,6.74,197.9,4.06,5,4.67,23.35,Bio-fertilizer,Malathion
+2023,Punjab,Millet,Clay,7.41,130.6,4.11,9,3.3,29.7,Bio-fertilizer,Neem Oil
+2005,Bihar,Millet,Clay,5.67,141.5,3.55,6,3.12,18.72,Ammonium Sulphate,Neem Oil
+2008,Karnataka,Maize,Loamy,6.38,166.3,4.19,3,4.11,12.33,Compost,Neem Oil
+2023,Uttar Pradesh,Rice,Clay,5.89,152.5,3.09,2,3.76,7.52,NPK,Organic Pesticide
+2007,Karnataka,Rice,Silty,6.38,202.5,3.52,4,4.21,16.84,Urea,Carbaryl
+2022,Haryana,Sugarcane,Silty,6.26,166.3,3.21,4,3.82,15.28,Bio-fertilizer,Chlorpyrifos
+2015,Bihar,Maize,Loamy,7.07,115.4,2.48,3,3.43,10.29,NPK,Organic Pesticide
+2015,Haryana,Barley,Sandy,6.7,154.1,3.67,3,3.25,9.75,DAP,Chlorpyrifos
+2023,Uttar Pradesh,Sugarcane,Sandy,5.97,192.4,2.91,5,4.35,21.75,Compost,Neem Oil
+2012,Bihar,Barley,Sandy,7.0,183.1,2.88,1,4.24,4.24,Urea,Chlorpyrifos
+2001,Karnataka,Maize,Silty,6.64,126.9,5.36,8,3.61,28.88,Potash,Neem Oil
+2019,Punjab,Maize,Loamy,6.42,137.3,2.1,3,3.6,10.8,Potash,Malathion
+2008,Punjab,Wheat,Clay,6.77,139.9,2.72,4,3.3,13.2,DAP,Organic Pesticide
+2021,Haryana,Wheat,Clay,7.1,179.9,3.81,6,4.6,27.6,NPK,Imidacloprid
+2000,Uttar Pradesh,Maize,Silty,6.56,172.2,2.52,8,4.64,37.12,Potash,Carbaryl
+2002,Haryana,Rice,Sandy,6.4,170.2,4.12,4,4.01,16.04,DAP,Imidacloprid
+2015,Uttar Pradesh,Sugarcane,Sandy,6.71,136.6,3.82,3,4.03,12.09,Compost,Neem Oil
+2011,Punjab,Millet,Sandy,6.71,145.3,3.37,2,3.49,6.98,Potash,Carbaryl
+2003,Maharashtra,Rice,Clay,7.26,151.9,4.5,8,3.8,30.4,DAP,DDT
+2009,Tamil Nadu,Barley,Silty,6.47,183.2,4.62,7,4.07,28.49,DAP,DDT
+2023,Haryana,Millet,Clay,6.59,117.9,5.37,1,2.03,2.03,Urea,DDT
+2022,Karnataka,Wheat,Silty,6.58,172.4,3.94,8,3.91,31.28,Ammonium Sulphate,Chlorpyrifos
+2020,Maharashtra,Maize,Silty,5.89,180.2,2.92,1,4.45,4.45,Bio-fertilizer,Neem Oil
+2014,Uttar Pradesh,Rice,Clay,7.06,168.2,3.77,2,3.56,7.12,Potash,Neem Oil
+2009,Punjab,Sugarcane,Loamy,6.73,156.6,4.21,2,3.61,7.22,Urea,DDT
+2010,Haryana,Rice,Silty,6.53,137.0,4.52,3,3.5,10.5,NPK,DDT
+2012,Punjab,Maize,Loamy,7.45,159.7,4.43,7,3.86,27.02,Ammonium Sulphate,Organic Pesticide
+2004,Tamil Nadu,Wheat,Clay,7.45,197.1,2.58,2,3.89,7.78,Compost,Neem Oil
+2014,Bihar,Barley,Silty,7.63,157.5,1.76,1,3.69,3.69,Ammonium Sulphate,Organic Pesticide
+2012,Punjab,Millet,Sandy,6.89,178.0,4.51,9,3.87,34.83,Bio-fertilizer,Organic Pesticide
+2014,Punjab,Sugarcane,Sandy,6.49,179.1,4.03,3,3.91,11.73,DAP,Neem Oil
+2012,Karnataka,Maize,Silty,5.51,148.6,2.78,3,3.65,10.95,Bio-fertilizer,Organic Pesticide
+2004,Uttar Pradesh,Barley,Clay,6.31,132.8,3.4,1,2.97,2.97,Bio-fertilizer,DDT
+2021,Karnataka,Maize,Loamy,6.93,202.2,2.78,9,4.41,39.69,Compost,DDT
+2000,Karnataka,Maize,Clay,7.57,173.0,3.5,7,3.63,25.41,Potash,Carbaryl
+2017,Bihar,Wheat,Loamy,5.93,144.7,2.94,7,3.75,26.25,NPK,Organic Pesticide
+2004,Uttar Pradesh,Rice,Clay,5.67,144.2,4.03,8,3.67,29.36,Potash,Neem Oil
+2003,Bihar,Barley,Clay,6.59,152.6,3.75,6,4.01,24.06,NPK,Malathion
+2011,Bihar,Sugarcane,Loamy,7.33,158.7,1.11,6,4.46,26.76,Potash,Carbaryl
+2016,Haryana,Wheat,Silty,6.51,153.6,3.01,9,3.51,31.59,DAP,Organic Pesticide
+2009,Haryana,Maize,Sandy,6.36,171.2,4.55,4,4.08,16.32,Compost,Chlorpyrifos
+2015,Punjab,Millet,Sandy,6.95,196.2,3.74,2,4.71,9.42,Potash,Organic Pesticide
+2005,Tamil Nadu,Rice,Silty,5.69,187.9,2.37,3,5.01,15.03,Potash,DDT
+2006,Tamil Nadu,Rice,Clay,6.92,158.5,3.93,9,3.82,34.38,Ammonium Sulphate,DDT
+2005,Karnataka,Wheat,Loamy,6.81,202.8,3.34,7,5.04,35.28,DAP,Malathion
+2002,Uttar Pradesh,Wheat,Silty,6.16,183.9,2.63,2,4.1,8.2,Ammonium Sulphate,Organic Pesticide
+2014,Maharashtra,Rice,Clay,7.2,120.3,3.54,4,3.09,12.36,Bio-fertilizer,Carbaryl
+2003,Tamil Nadu,Barley,Silty,6.12,163.4,3.71,2,3.94,7.88,Ammonium Sulphate,Malathion
+2017,Punjab,Rice,Silty,5.48,186.3,3.22,4,4.68,18.72,Ammonium Sulphate,Carbaryl
+2010,Haryana,Maize,Sandy,7.45,196.0,4.02,1,4.84,4.84,Compost,Carbaryl
+2004,Bihar,Millet,Silty,6.29,194.0,3.6,9,4.25,38.25,Ammonium Sulphate,Organic Pesticide
+2019,Tamil Nadu,Rice,Silty,5.8,189.9,3.45,4,3.91,15.64,Potash,Carbaryl
+2014,Tamil Nadu,Sugarcane,Sandy,6.49,209.4,3.71,8,4.64,37.12,DAP,Carbaryl
+2010,Tamil Nadu,Millet,Loamy,7.35,128.7,2.36,8,3.42,27.36,Ammonium Sulphate,Chlorpyrifos
+2001,Haryana,Sugarcane,Silty,7.03,181.1,3.35,6,4.76,28.56,Ammonium Sulphate,DDT
+2011,Karnataka,Barley,Clay,6.15,115.9,3.92,9,2.98,26.82,Compost,Imidacloprid
+2005,Punjab,Wheat,Loamy,6.3,117.5,4.07,7,3.44,24.08,Ammonium Sulphate,Chlorpyrifos
+2010,Uttar Pradesh,Millet,Sandy,5.98,165.9,1.86,1,4.15,4.15,Compost,Chlorpyrifos
+2004,Tamil Nadu,Rice,Sandy,5.99,158.9,2.88,9,3.76,33.84,Urea,Carbaryl
+2010,Uttar Pradesh,Rice,Loamy,5.73,154.6,5.13,8,4.11,32.88,NPK,Carbaryl
+2023,Punjab,Rice,Silty,6.89,182.7,4.77,7,4.02,28.14,Bio-fertilizer,Organic Pesticide
+2008,Uttar Pradesh,Wheat,Sandy,5.95,188.6,4.66,8,3.74,29.92,Potash,Carbaryl
+2004,Bihar,Wheat,Loamy,5.81,171.9,3.6,7,4.5,31.5,NPK,Imidacloprid
+2014,Maharashtra,Rice,Clay,6.68,170.7,1.73,6,4.08,24.48,DAP,Malathion
+2011,Tamil Nadu,Barley,Silty,6.81,132.0,4.52,2,3.08,6.16,DAP,Chlorpyrifos
+2003,Uttar Pradesh,Maize,Silty,6.33,241.2,3.32,3,5.17,15.51,Compost,Carbaryl
+2020,Maharashtra,Wheat,Loamy,5.81,189.5,4.63,6,4.56,27.36,DAP,Organic Pesticide
+2009,Tamil Nadu,Rice,Sandy,6.54,196.9,5.12,7,4.55,31.85,NPK,Imidacloprid
+2016,Punjab,Millet,Silty,7.22,167.1,2.51,8,3.57,28.56,NPK,Neem Oil
+2023,Haryana,Millet,Clay,5.88,168.3,3.72,7,4.27,29.89,NPK,Chlorpyrifos
+2002,Maharashtra,Sugarcane,Clay,6.28,188.0,4.43,4,4.53,18.12,DAP,Organic Pesticide
+2012,Karnataka,Rice,Loamy,6.58,126.3,2.97,2,3.07,6.14,DAP,Carbaryl
+2018,Punjab,Sugarcane,Silty,6.14,136.5,4.63,5,3.68,18.4,NPK,Imidacloprid
+2021,Uttar Pradesh,Barley,Loamy,7.14,129.9,3.48,7,3.84,26.88,Bio-fertilizer,Carbaryl
+2012,Tamil Nadu,Millet,Sandy,6.82,135.1,4.29,7,2.79,19.53,Urea,Chlorpyrifos
+2023,Karnataka,Maize,Loamy,7.01,134.4,3.3,1,3.54,3.54,Bio-fertilizer,Neem Oil
+2021,Uttar Pradesh,Sugarcane,Sandy,6.91,155.7,2.36,2,4.15,8.3,Compost,Chlorpyrifos
+2003,Tamil Nadu,Wheat,Clay,6.68,175.7,2.94,5,4.15,20.75,Bio-fertilizer,Malathion
+2005,Punjab,Wheat,Clay,6.06,175.0,3.73,9,4.43,39.87,Bio-fertilizer,Chlorpyrifos
+2015,Punjab,Millet,Loamy,6.37,186.8,2.56,4,4.13,16.52,Bio-fertilizer,Carbaryl
+2020,Uttar Pradesh,Rice,Sandy,6.4,144.6,4.21,7,3.8,26.6,Ammonium Sulphate,Neem Oil
+2013,Bihar,Rice,Loamy,6.29,150.2,2.83,1,3.79,3.79,Potash,Neem Oil
+2012,Uttar Pradesh,Millet,Clay,5.77,145.4,2.24,1,3.29,3.29,NPK,Neem Oil
+2001,Uttar Pradesh,Barley,Sandy,7.41,161.9,1.92,9,3.76,33.84,DAP,Malathion
+2023,Haryana,Sugarcane,Clay,7.2,152.5,3.92,5,3.59,17.95,DAP,DDT
+2005,Tamil Nadu,Millet,Silty,6.08,199.4,1.61,4,5.07,20.28,Bio-fertilizer,Imidacloprid
+2014,Bihar,Millet,Sandy,6.72,183.1,4.08,9,4.78,43.02,Urea,Malathion
+2011,Karnataka,Rice,Sandy,5.89,139.2,2.62,1,3.46,3.46,Bio-fertilizer,Organic Pesticide
+2008,Punjab,Millet,Silty,6.58,170.0,3.45,2,4.4,8.8,Potash,Imidacloprid
+2001,Bihar,Barley,Loamy,6.57,200.1,2.64,7,4.96,34.72,DAP,Organic Pesticide
+2004,Tamil Nadu,Maize,Sandy,6.24,146.8,4.39,4,4.07,16.28,Ammonium Sulphate,DDT
+2015,Bihar,Wheat,Silty,6.06,151.7,2.27,7,3.74,26.18,Ammonium Sulphate,Imidacloprid
+2019,Karnataka,Sugarcane,Clay,7.26,187.9,3.97,2,4.63,9.26,Ammonium Sulphate,Organic Pesticide
+2010,Bihar,Barley,Silty,6.24,116.8,2.41,3,3.33,9.99,Compost,Neem Oil
+2018,Bihar,Barley,Clay,6.97,119.7,4.31,3,3.27,9.81,Bio-fertilizer,Imidacloprid
+2022,Tamil Nadu,Maize,Clay,6.62,178.5,4.55,2,3.98,7.96,Bio-fertilizer,Neem Oil
+2019,Haryana,Sugarcane,Clay,5.4,196.2,5.01,3,4.28,12.84,Urea,Organic Pesticide
+2007,Tamil Nadu,Wheat,Silty,6.71,155.4,4.59,6,3.63,21.78,Ammonium Sulphate,Malathion
+2022,Uttar Pradesh,Rice,Sandy,6.38,128.7,1.54,7,3.3,23.1,Compost,Imidacloprid
+2010,Punjab,Maize,Clay,6.54,193.5,4.27,8,4.62,36.96,DAP,Carbaryl
+2016,Tamil Nadu,Rice,Loamy,6.8,152.7,4.6,8,3.7,29.6,DAP,Malathion
+2019,Karnataka,Barley,Silty,5.92,183.3,4.43,7,4.53,31.71,NPK,Carbaryl
+2016,Maharashtra,Wheat,Silty,7.58,198.5,4.29,5,4.59,22.95,NPK,Chlorpyrifos
+2002,Punjab,Rice,Clay,5.65,148.2,2.99,3,3.84,11.52,Ammonium Sulphate,Malathion
+2021,Karnataka,Maize,Silty,6.54,168.5,3.15,8,4.62,36.96,Compost,DDT
+2016,Haryana,Rice,Silty,6.81,168.0,1.71,6,3.45,20.7,DAP,Organic Pesticide
+2007,Maharashtra,Maize,Loamy,5.8,167.9,4.42,5,4.15,20.75,Ammonium Sulphate,Imidacloprid
+2013,Uttar Pradesh,Sugarcane,Loamy,6.23,184.3,2.79,3,4.26,12.78,DAP,Imidacloprid
+2023,Tamil Nadu,Maize,Loamy,5.96,168.7,3.4,9,4.05,36.45,Potash,Chlorpyrifos
+2015,Bihar,Barley,Silty,7.66,212.1,2.92,4,5.12,20.48,Ammonium Sulphate,Malathion
+2022,Uttar Pradesh,Sugarcane,Loamy,6.43,187.3,5.42,9,4.29,38.61,Potash,Chlorpyrifos
+2002,Haryana,Millet,Clay,6.23,139.7,2.83,2,3.53,7.06,Urea,Imidacloprid
+2004,Maharashtra,Rice,Sandy,6.69,152.8,1.79,5,3.82,19.1,DAP,Organic Pesticide
+2003,Uttar Pradesh,Wheat,Loamy,6.95,158.7,3.36,9,3.75,33.75,Ammonium Sulphate,Malathion
+2007,Maharashtra,Maize,Clay,6.55,186.3,3.87,6,4.13,24.78,Compost,Organic Pesticide
+2008,Bihar,Sugarcane,Clay,6.76,182.7,2.37,4,4.0,16.0,Compost,Imidacloprid
+2018,Bihar,Millet,Clay,5.86,141.6,2.98,9,3.92,35.28,Bio-fertilizer,DDT
+2002,Haryana,Millet,Clay,6.44,128.7,3.42,9,3.41,30.69,NPK,Organic Pesticide
+2000,Bihar,Millet,Sandy,6.44,139.8,3.43,9,3.31,29.79,Potash,DDT
+2003,Haryana,Maize,Loamy,6.39,143.3,5.48,7,3.08,21.56,Bio-fertilizer,Carbaryl
+2022,Uttar Pradesh,Maize,Loamy,6.12,180.8,4.01,9,3.66,32.94,Ammonium Sulphate,Neem Oil
+2019,Uttar Pradesh,Barley,Clay,6.56,157.4,1.46,3,3.69,11.07,Compost,DDT
+2020,Haryana,Wheat,Loamy,6.86,164.2,2.71,9,3.52,31.68,Bio-fertilizer,DDT
+2002,Haryana,Wheat,Silty,6.3,145.4,2.69,8,3.53,28.24,Bio-fertilizer,Carbaryl
+2009,Bihar,Barley,Sandy,6.14,159.7,1.99,6,3.71,22.26,Compost,Chlorpyrifos
+2010,Maharashtra,Barley,Loamy,6.02,125.8,2.73,9,2.63,23.67,Compost,Neem Oil
+2014,Punjab,Barley,Sandy,6.7,193.2,2.51,5,4.57,22.85,Potash,Imidacloprid
+2004,Maharashtra,Millet,Silty,6.42,157.0,4.25,7,3.99,27.93,Compost,DDT
+2014,Bihar,Sugarcane,Sandy,6.01,168.5,3.48,4,3.78,15.12,Bio-fertilizer,Malathion
+2001,Bihar,Maize,Silty,6.85,133.5,2.83,4,3.91,15.64,Compost,Carbaryl
+2005,Uttar Pradesh,Millet,Silty,6.22,160.7,3.67,6,3.62,21.72,Ammonium Sulphate,Neem Oil
+2002,Maharashtra,Barley,Sandy,6.36,175.0,2.06,7,4.55,31.85,Potash,Neem Oil
+2000,Tamil Nadu,Rice,Clay,5.86,224.6,3.76,6,5.09,30.54,NPK,Malathion
+2021,Maharashtra,Sugarcane,Loamy,6.98,141.8,4.02,6,3.58,21.48,Urea,DDT
+2012,Karnataka,Sugarcane,Loamy,5.69,128.0,3.85,9,3.11,27.99,Ammonium Sulphate,Carbaryl
+2014,Haryana,Maize,Silty,6.61,192.3,4.01,7,4.3,30.1,Urea,Carbaryl
+2002,Maharashtra,Wheat,Loamy,5.87,208.3,2.16,5,5.37,26.85,Urea,Neem Oil
+2001,Haryana,Maize,Clay,6.68,160.2,4.25,4,3.9,15.6,Potash,Carbaryl
+2012,Karnataka,Barley,Silty,6.67,197.2,4.56,1,4.79,4.79,Compost,Chlorpyrifos
+2002,Uttar Pradesh,Wheat,Clay,7.51,180.5,2.74,5,4.48,22.4,Ammonium Sulphate,Chlorpyrifos
+2021,Uttar Pradesh,Barley,Sandy,6.59,135.8,2.62,2,3.14,6.28,NPK,Imidacloprid
+2006,Punjab,Wheat,Loamy,7.09,199.1,4.27,4,4.37,17.48,Compost,Carbaryl
+2006,Bihar,Sugarcane,Silty,6.55,192.5,5.53,3,4.35,13.05,Ammonium Sulphate,Malathion
+2022,Uttar Pradesh,Sugarcane,Silty,6.56,211.9,3.85,1,4.43,4.43,DAP,DDT
+2014,Tamil Nadu,Barley,Clay,6.51,143.5,2.46,3,2.98,8.94,Potash,Organic Pesticide
+2005,Punjab,Millet,Silty,7.42,166.7,3.73,8,4.0,32.0,DAP,Malathion
+2012,Bihar,Millet,Loamy,6.62,134.9,2.11,8,3.87,30.96,Compost,Neem Oil
+2006,Maharashtra,Maize,Silty,7.37,159.7,4.8,5,4.09,20.45,Compost,Malathion
+2021,Uttar Pradesh,Millet,Loamy,6.32,204.5,5.28,2,5.21,10.42,Bio-fertilizer,Organic Pesticide
+2002,Maharashtra,Wheat,Clay,6.62,122.7,6.21,2,2.67,5.34,Bio-fertilizer,Carbaryl
+2018,Karnataka,Barley,Silty,5.5,152.7,3.28,2,3.39,6.78,Ammonium Sulphate,Carbaryl
+2017,Maharashtra,Rice,Sandy,7.05,207.1,2.39,1,4.79,4.79,DAP,Imidacloprid
+2019,Tamil Nadu,Sugarcane,Sandy,6.27,187.9,2.47,8,4.28,34.24,DAP,Organic Pesticide
+2010,Punjab,Wheat,Sandy,6.19,165.1,2.52,8,3.95,31.6,Ammonium Sulphate,Imidacloprid
+2013,Bihar,Wheat,Silty,5.92,125.9,3.88,2,3.92,7.84,Bio-fertilizer,Imidacloprid
+2000,Punjab,Wheat,Loamy,6.09,116.1,3.95,3,2.91,8.73,Bio-fertilizer,Neem Oil
+2019,Punjab,Sugarcane,Sandy,6.46,145.1,3.41,2,3.67,7.34,Compost,Organic Pesticide
+2008,Maharashtra,Rice,Clay,6.64,102.5,3.9,7,3.05,21.35,Potash,Imidacloprid
+2003,Tamil Nadu,Wheat,Clay,5.85,179.7,2.63,7,4.51,31.57,Urea,DDT
+2023,Maharashtra,Rice,Silty,6.88,176.5,1.55,8,4.69,37.52,Potash,Chlorpyrifos
+2010,Tamil Nadu,Wheat,Sandy,6.5,133.3,3.82,2,3.42,6.84,Ammonium Sulphate,Carbaryl
+2023,Maharashtra,Sugarcane,Silty,6.72,157.2,5.18,2,3.78,7.56,Ammonium Sulphate,Chlorpyrifos
+2013,Uttar Pradesh,Barley,Loamy,5.05,146.0,3.68,2,3.94,7.88,Potash,Neem Oil
+2007,Punjab,Rice,Silty,5.69,138.1,4.22,5,3.57,17.85,Urea,Malathion
+2018,Punjab,Barley,Sandy,6.03,192.0,4.48,4,4.3,17.2,Ammonium Sulphate,Carbaryl
+2012,Karnataka,Maize,Clay,6.89,136.0,2.45,5,2.98,14.9,DAP,Organic Pesticide
+2001,Punjab,Sugarcane,Silty,6.37,164.4,4.22,4,3.68,14.72,DAP,Carbaryl
+2012,Bihar,Wheat,Clay,6.68,201.7,3.29,9,5.11,45.99,DAP,Malathion
+2000,Haryana,Maize,Silty,6.3,157.2,4.21,2,3.82,7.64,NPK,DDT
+2013,Uttar Pradesh,Maize,Sandy,5.89,133.5,4.38,7,3.92,27.44,DAP,Chlorpyrifos
+2017,Haryana,Millet,Silty,6.54,188.7,1.91,3,4.59,13.77,DAP,Chlorpyrifos
+2010,Karnataka,Barley,Silty,5.84,204.3,3.18,9,4.57,41.13,Bio-fertilizer,DDT
+2013,Karnataka,Rice,Silty,6.41,140.5,4.69,7,3.4,23.8,Bio-fertilizer,DDT
+2021,Bihar,Wheat,Clay,7.27,137.1,3.77,2,3.96,7.92,NPK,Neem Oil
+2000,Haryana,Barley,Sandy,6.7,169.7,4.06,3,4.14,12.42,Bio-fertilizer,DDT
+2013,Punjab,Rice,Sandy,6.48,201.7,3.65,9,5.01,45.09,Urea,Malathion
+2000,Haryana,Rice,Sandy,6.24,188.2,2.61,1,4.19,4.19,DAP,Carbaryl
+2004,Karnataka,Barley,Sandy,7.08,134.0,2.69,9,3.68,33.12,Ammonium Sulphate,DDT
+2016,Karnataka,Sugarcane,Silty,6.45,155.4,3.11,8,3.95,31.6,Bio-fertilizer,Chlorpyrifos
+2006,Tamil Nadu,Maize,Silty,5.29,130.3,3.89,3,3.23,9.69,Potash,Imidacloprid
+2016,Karnataka,Maize,Loamy,6.21,210.4,3.03,5,5.41,27.05,Potash,DDT
+2017,Bihar,Rice,Silty,6.43,176.5,3.99,4,4.46,17.84,Urea,DDT
+2020,Uttar Pradesh,Barley,Clay,6.8,100.5,3.86,1,2.57,2.57,Potash,Chlorpyrifos
+2008,Maharashtra,Millet,Clay,6.09,121.1,3.13,3,3.44,10.32,DAP,Malathion
+2019,Uttar Pradesh,Wheat,Loamy,6.63,111.4,3.87,7,3.05,21.35,Ammonium Sulphate,Carbaryl
+2003,Uttar Pradesh,Rice,Loamy,5.8,137.3,4.18,9,3.47,31.23,DAP,Chlorpyrifos
+2021,Punjab,Rice,Silty,6.41,166.3,3.64,6,4.39,26.34,Compost,Imidacloprid
+2004,Maharashtra,Barley,Loamy,5.89,190.3,5.7,7,3.68,25.76,Potash,Malathion
+2007,Bihar,Barley,Sandy,5.77,137.1,3.26,2,3.06,6.12,Potash,Organic Pesticide
+2021,Uttar Pradesh,Sugarcane,Silty,7.7,158.3,6.47,8,4.1,32.8,Urea,Organic Pesticide
+2005,Tamil Nadu,Wheat,Clay,5.92,149.1,3.31,1,3.94,3.94,Compost,Carbaryl
+2006,Tamil Nadu,Maize,Sandy,5.81,118.6,1.84,6,2.97,17.82,NPK,Malathion
+2015,Tamil Nadu,Maize,Loamy,5.99,193.1,2.52,4,4.3,17.2,Potash,Organic Pesticide
+2010,Karnataka,Maize,Clay,6.6,166.2,2.43,3,4.2,12.6,DAP,Imidacloprid
+2001,Uttar Pradesh,Sugarcane,Clay,5.48,151.8,4.72,7,3.39,23.73,Compost,Imidacloprid
+2022,Punjab,Millet,Silty,6.0,135.0,2.4,4,3.69,14.76,Compost,DDT
+2004,Uttar Pradesh,Sugarcane,Sandy,6.21,153.6,2.73,7,3.48,24.36,Bio-fertilizer,Neem Oil
+2004,Karnataka,Barley,Sandy,6.77,116.8,5.59,1,2.93,2.93,NPK,Imidacloprid
+2010,Karnataka,Maize,Clay,6.45,155.9,4.51,8,4.17,33.36,Bio-fertilizer,Organic Pesticide
+2012,Maharashtra,Rice,Silty,7.22,170.5,3.43,9,3.78,34.02,Bio-fertilizer,Chlorpyrifos
+2012,Bihar,Wheat,Sandy,5.93,174.5,4.25,3,4.77,14.31,Compost,Neem Oil
+2008,Punjab,Sugarcane,Loamy,6.47,152.2,3.14,1,3.85,3.85,Compost,Organic Pesticide
+2017,Tamil Nadu,Sugarcane,Clay,5.85,137.9,1.69,3,3.63,10.89,Bio-fertilizer,Chlorpyrifos
+2009,Karnataka,Sugarcane,Clay,6.5,159.3,2.91,1,3.88,3.88,Urea,DDT
+2015,Tamil Nadu,Wheat,Silty,6.51,200.3,3.81,3,4.44,13.32,Ammonium Sulphate,Chlorpyrifos
+2018,Bihar,Barley,Sandy,5.88,163.6,2.85,6,3.86,23.16,NPK,Organic Pesticide
+2011,Bihar,Millet,Clay,6.91,161.4,3.36,5,3.85,19.25,Compost,Imidacloprid
+2014,Bihar,Sugarcane,Loamy,6.36,114.1,4.78,7,3.14,21.98,NPK,DDT
+2006,Bihar,Maize,Loamy,6.6,148.3,3.5,2,3.62,7.24,NPK,DDT
+2002,Uttar Pradesh,Maize,Silty,7.13,155.7,3.46,9,4.59,41.31,NPK,Chlorpyrifos
+2003,Bihar,Rice,Silty,6.56,165.5,3.64,7,3.49,24.43,Urea,Organic Pesticide
+2004,Uttar Pradesh,Maize,Clay,6.73,209.1,2.87,4,4.98,19.92,NPK,DDT
+2010,Maharashtra,Rice,Sandy,6.82,166.3,3.35,2,4.64,9.28,Bio-fertilizer,Imidacloprid
+2015,Bihar,Rice,Sandy,6.32,180.1,3.04,7,4.19,29.33,DAP,DDT
+2009,Maharashtra,Wheat,Silty,7.39,187.4,3.5,2,4.61,9.22,NPK,Malathion
+2016,Haryana,Barley,Silty,6.35,185.8,3.15,2,4.02,8.04,Bio-fertilizer,Carbaryl
+2017,Karnataka,Millet,Silty,6.73,151.1,3.83,5,3.75,18.75,DAP,Chlorpyrifos
+2016,Haryana,Barley,Clay,6.27,154.6,2.54,9,3.97,35.73,Ammonium Sulphate,Carbaryl
+2007,Haryana,Barley,Silty,6.78,173.2,2.66,6,4.36,26.16,DAP,DDT
+2011,Maharashtra,Sugarcane,Loamy,6.79,136.5,1.78,5,3.19,15.95,Ammonium Sulphate,DDT
+2016,Maharashtra,Rice,Sandy,6.47,106.2,3.32,9,2.42,21.78,Bio-fertilizer,Organic Pesticide
+2015,Punjab,Barley,Sandy,6.89,199.2,5.34,9,3.97,35.73,Ammonium Sulphate,DDT
+2009,Karnataka,Rice,Sandy,6.34,164.7,4.11,6,4.07,24.42,Compost,Carbaryl
+2003,Karnataka,Wheat,Silty,7.34,116.1,3.16,3,3.6,10.8,DAP,Chlorpyrifos
+2007,Punjab,Wheat,Silty,5.89,172.3,1.58,1,4.42,4.42,Bio-fertilizer,Organic Pesticide
+2008,Haryana,Barley,Silty,6.41,183.2,2.36,9,4.04,36.36,Compost,Malathion
+2013,Punjab,Wheat,Clay,5.72,172.2,3.9,7,3.91,27.37,Potash,Malathion
+2010,Bihar,Millet,Loamy,6.9,147.3,3.36,1,3.92,3.92,Urea,Chlorpyrifos
+2010,Tamil Nadu,Wheat,Loamy,6.65,159.6,3.3,6,3.95,23.7,Potash,Carbaryl
+2003,Tamil Nadu,Sugarcane,Loamy,6.77,175.0,3.61,1,3.9,3.9,Urea,Malathion
+2007,Tamil Nadu,Rice,Loamy,5.74,137.8,3.93,8,3.27,26.16,Compost,Malathion
+2006,Uttar Pradesh,Millet,Loamy,6.51,132.2,2.87,6,3.58,21.48,Compost,Neem Oil
+2021,Bihar,Wheat,Silty,6.16,173.5,4.0,2,3.96,7.92,Bio-fertilizer,Imidacloprid
+2003,Maharashtra,Rice,Loamy,5.86,137.0,4.38,7,2.97,20.79,Bio-fertilizer,Malathion
+2014,Tamil Nadu,Barley,Sandy,7.7,164.7,3.59,5,3.94,19.7,Ammonium Sulphate,Malathion
+2008,Tamil Nadu,Wheat,Sandy,6.81,155.7,2.92,9,4.12,37.08,Bio-fertilizer,DDT
+2013,Maharashtra,Sugarcane,Loamy,5.71,162.0,2.85,9,3.58,32.22,Potash,Carbaryl
+2011,Karnataka,Millet,Loamy,6.63,117.4,3.51,7,2.57,17.99,Ammonium Sulphate,DDT
+2017,Haryana,Millet,Silty,6.23,191.5,2.35,3,4.07,12.21,DAP,Imidacloprid
+2022,Bihar,Barley,Silty,6.51,153.6,3.74,2,3.91,7.82,Compost,Chlorpyrifos
+2013,Maharashtra,Maize,Silty,6.81,64.2,6.21,2,2.16,4.32,Ammonium Sulphate,Malathion
+2007,Uttar Pradesh,Wheat,Clay,7.54,178.2,5.41,3,4.11,12.33,Potash,Neem Oil
+2018,Punjab,Wheat,Sandy,6.0,181.9,2.63,2,3.6,7.2,NPK,Chlorpyrifos
+2023,Bihar,Rice,Clay,7.25,140.6,3.61,6,3.36,20.16,Compost,Neem Oil
+2022,Tamil Nadu,Rice,Loamy,5.93,154.5,4.67,8,3.45,27.6,NPK,Organic Pesticide
+2023,Maharashtra,Barley,Clay,6.39,160.4,5.25,4,4.2,16.8,NPK,Imidacloprid
+2018,Uttar Pradesh,Sugarcane,Clay,6.53,142.8,3.71,9,3.84,34.56,Bio-fertilizer,Malathion
+2015,Haryana,Sugarcane,Clay,6.94,193.3,2.84,3,4.78,14.34,Compost,Carbaryl
+2008,Uttar Pradesh,Sugarcane,Clay,6.41,149.3,2.85,8,3.58,28.64,NPK,Imidacloprid
+2013,Bihar,Barley,Clay,6.36,150.1,3.66,7,3.64,25.48,Urea,Organic Pesticide
+2009,Tamil Nadu,Wheat,Sandy,6.57,200.7,1.64,5,4.64,23.2,Potash,Carbaryl
+2000,Karnataka,Millet,Clay,6.27,154.1,1.93,8,4.1,32.8,Compost,Chlorpyrifos
+2005,Haryana,Millet,Silty,6.71,195.2,4.07,2,4.46,8.92,Ammonium Sulphate,Chlorpyrifos
+2019,Tamil Nadu,Rice,Clay,6.73,158.3,4.1,4,3.43,13.72,NPK,DDT
+2002,Bihar,Barley,Silty,7.59,187.0,4.88,7,4.6,32.2,DAP,Carbaryl
+2016,Maharashtra,Sugarcane,Silty,6.21,131.1,2.79,2,2.88,5.76,Ammonium Sulphate,Organic Pesticide
+2006,Bihar,Millet,Silty,5.99,163.1,4.5,5,3.84,19.2,NPK,Carbaryl
+2000,Haryana,Barley,Sandy,6.21,173.1,4.32,5,3.42,17.1,DAP,Malathion
+2010,Maharashtra,Barley,Clay,6.89,134.5,4.14,4,2.78,11.12,NPK,Malathion
+2021,Punjab,Sugarcane,Sandy,5.94,173.4,3.42,2,4.19,8.38,DAP,Organic Pesticide
+2016,Punjab,Millet,Loamy,6.43,115.4,3.38,1,2.91,2.91,Compost,Organic Pesticide
+2017,Punjab,Wheat,Clay,6.1,178.2,1.95,2,4.33,8.66,Ammonium Sulphate,Organic Pesticide
+2013,Uttar Pradesh,Barley,Silty,6.51,230.0,3.16,3,5.55,16.65,Urea,Neem Oil
+2020,Uttar Pradesh,Wheat,Clay,6.5,150.2,2.73,5,3.43,17.15,DAP,Carbaryl
+2020,Karnataka,Barley,Loamy,6.16,154.7,1.62,6,3.26,19.56,DAP,Carbaryl
+2016,Punjab,Maize,Loamy,6.27,131.2,3.93,4,3.26,13.04,Urea,Malathion
+2002,Tamil Nadu,Barley,Loamy,6.45,180.4,3.98,9,4.45,40.05,Potash,Chlorpyrifos
+2011,Maharashtra,Millet,Sandy,5.27,169.6,4.03,1,4.43,4.43,Ammonium Sulphate,DDT
+2002,Uttar Pradesh,Barley,Loamy,6.4,172.9,4.21,6,4.04,24.24,Ammonium Sulphate,Imidacloprid
+2013,Tamil Nadu,Rice,Clay,6.9,146.6,3.48,1,3.79,3.79,Potash,Chlorpyrifos
+2003,Karnataka,Maize,Clay,6.99,160.7,2.37,9,3.9,35.1,NPK,Neem Oil
+2000,Haryana,Maize,Sandy,6.11,108.1,3.44,5,2.74,13.7,Compost,Malathion
+2009,Tamil Nadu,Barley,Clay,6.07,163.2,3.76,8,3.91,31.28,Urea,Carbaryl
+2000,Bihar,Barley,Silty,5.74,207.1,2.87,4,4.82,19.28,DAP,Malathion
+2014,Punjab,Maize,Sandy,6.09,139.5,3.21,6,3.73,22.38,Ammonium Sulphate,Imidacloprid
+2003,Haryana,Sugarcane,Clay,7.32,150.2,3.47,6,3.8,22.8,NPK,Carbaryl
+2021,Bihar,Maize,Clay,6.63,122.3,3.17,1,2.97,2.97,DAP,Chlorpyrifos
+2023,Bihar,Sugarcane,Silty,7.1,159.7,1.9,7,3.92,27.44,Ammonium Sulphate,Neem Oil
+2011,Haryana,Sugarcane,Silty,6.85,164.0,4.25,6,4.34,26.04,Bio-fertilizer,Neem Oil
+2001,Uttar Pradesh,Maize,Clay,5.83,148.0,2.43,6,3.97,23.82,NPK,Malathion
+2010,Haryana,Maize,Sandy,6.74,175.7,3.37,1,4.6,4.6,Urea,DDT
+2003,Haryana,Sugarcane,Clay,6.84,163.1,4.23,9,4.08,36.72,NPK,Neem Oil
+2005,Tamil Nadu,Rice,Clay,7.11,202.1,2.49,3,4.14,12.42,Ammonium Sulphate,Chlorpyrifos
+2016,Karnataka,Rice,Loamy,6.75,168.5,2.99,8,4.04,32.32,NPK,Chlorpyrifos
+2005,Bihar,Rice,Clay,6.64,133.6,2.28,7,3.19,22.33,Urea,Imidacloprid
+2020,Tamil Nadu,Sugarcane,Clay,7.11,185.8,4.14,8,3.84,30.72,Potash,Neem Oil
+2015,Karnataka,Barley,Sandy,6.92,196.8,2.44,4,4.54,18.16,DAP,DDT
+2015,Uttar Pradesh,Sugarcane,Clay,6.14,201.7,6.42,7,4.85,33.95,DAP,Imidacloprid
+2007,Maharashtra,Maize,Clay,5.96,144.7,2.39,8,3.67,29.36,NPK,Malathion
+2019,Bihar,Millet,Sandy,6.08,152.1,3.94,8,3.92,31.36,Ammonium Sulphate,Neem Oil
+2007,Punjab,Barley,Loamy,7.45,177.9,4.41,5,4.0,20.0,Potash,Neem Oil
+2002,Karnataka,Barley,Clay,6.52,173.5,4.1,9,4.32,38.88,DAP,Imidacloprid
+2008,Tamil Nadu,Wheat,Loamy,6.56,144.3,3.09,2,4.06,8.12,Bio-fertilizer,Chlorpyrifos
+2020,Maharashtra,Sugarcane,Silty,7.08,178.1,4.34,8,4.41,35.28,Urea,DDT
+2018,Bihar,Barley,Loamy,6.05,195.9,6.26,3,4.47,13.41,Bio-fertilizer,Chlorpyrifos
+2006,Punjab,Barley,Loamy,6.88,179.2,2.52,2,4.58,9.16,Potash,DDT
+2020,Bihar,Barley,Clay,7.97,138.7,3.58,9,4.19,37.71,DAP,DDT
+2008,Tamil Nadu,Millet,Clay,6.94,168.8,4.08,5,4.07,20.35,Potash,Imidacloprid
+2019,Uttar Pradesh,Maize,Clay,7.44,174.4,3.5,5,4.22,21.1,Ammonium Sulphate,Imidacloprid
+2015,Bihar,Rice,Loamy,6.29,106.1,6.35,4,2.97,11.88,Ammonium Sulphate,Malathion
+2008,Tamil Nadu,Wheat,Sandy,6.63,150.6,2.45,9,3.55,31.95,Ammonium Sulphate,Chlorpyrifos
+2019,Punjab,Maize,Silty,6.1,188.3,1.77,9,4.77,42.93,Bio-fertilizer,Neem Oil
+2002,Maharashtra,Rice,Sandy,6.48,137.4,2.72,2,3.93,7.86,Compost,Neem Oil
+2001,Tamil Nadu,Rice,Loamy,6.09,193.5,2.79,3,4.22,12.66,Ammonium Sulphate,Organic Pesticide
+2017,Bihar,Sugarcane,Loamy,7.07,125.7,3.47,4,3.29,13.16,DAP,Imidacloprid
+2015,Tamil Nadu,Wheat,Sandy,7.43,158.8,3.29,5,3.37,16.85,Urea,DDT
+2006,Karnataka,Sugarcane,Sandy,6.23,187.3,2.19,2,4.72,9.44,DAP,Organic Pesticide
+2020,Bihar,Sugarcane,Silty,6.07,166.8,2.18,8,3.81,30.48,DAP,Organic Pesticide
+2015,Bihar,Wheat,Loamy,6.79,110.5,3.25,2,3.13,6.26,Ammonium Sulphate,Carbaryl
+2002,Uttar Pradesh,Maize,Silty,6.54,150.6,3.24,3,3.52,10.56,Potash,Chlorpyrifos
+2019,Haryana,Millet,Loamy,7.32,154.5,2.46,2,3.99,7.98,Urea,Malathion
+2019,Punjab,Rice,Silty,6.98,153.0,3.1,7,3.75,26.25,NPK,Malathion
+2007,Bihar,Millet,Sandy,5.8,219.9,2.43,7,5.07,35.49,NPK,Organic Pesticide
+2011,Bihar,Maize,Silty,6.38,91.1,1.77,8,2.8,22.4,Ammonium Sulphate,Neem Oil
+2012,Tamil Nadu,Sugarcane,Silty,7.12,162.9,5.31,2,3.75,7.5,Potash,Carbaryl
+2002,Tamil Nadu,Wheat,Loamy,6.72,120.3,4.32,6,2.45,14.7,Bio-fertilizer,Malathion
+2001,Bihar,Rice,Clay,6.1,180.7,5.08,8,4.31,34.48,Urea,Carbaryl
+2023,Maharashtra,Wheat,Loamy,7.81,99.9,1.71,8,2.61,20.88,Bio-fertilizer,Malathion
+2015,Punjab,Sugarcane,Sandy,6.62,147.4,3.25,8,3.86,30.88,Urea,Carbaryl
+2022,Maharashtra,Sugarcane,Clay,7.03,177.7,5.31,6,3.92,23.52,DAP,Malathion
+2009,Punjab,Barley,Loamy,6.71,157.4,2.71,5,3.53,17.65,Bio-fertilizer,DDT
+2004,Bihar,Rice,Silty,6.95,174.6,5.42,6,4.1,24.6,Ammonium Sulphate,Malathion
+2006,Tamil Nadu,Millet,Clay,7.3,218.9,4.34,4,5.38,21.52,Ammonium Sulphate,Neem Oil
+2004,Haryana,Millet,Silty,6.3,217.3,3.95,6,5.06,30.36,DAP,Neem Oil
+2009,Tamil Nadu,Sugarcane,Silty,6.54,139.6,2.42,3,3.91,11.73,Urea,Carbaryl
+2022,Uttar Pradesh,Millet,Silty,6.35,161.8,4.29,2,4.31,8.62,Ammonium Sulphate,Neem Oil
+2020,Bihar,Maize,Silty,6.72,128.3,2.95,6,2.9,17.4,Compost,Neem Oil
+2016,Uttar Pradesh,Barley,Sandy,7.06,172.0,2.58,5,3.73,18.65,DAP,DDT
+2003,Haryana,Sugarcane,Loamy,6.14,167.3,4.42,7,3.9,27.3,Compost,Carbaryl
+2023,Punjab,Maize,Loamy,7.81,174.0,2.71,1,3.99,3.99,DAP,Malathion
+2020,Haryana,Maize,Loamy,5.53,78.9,3.0,8,2.46,19.68,Compost,Carbaryl
+2018,Uttar Pradesh,Millet,Clay,6.53,227.7,2.59,1,4.73,4.73,Potash,Chlorpyrifos
+2014,Bihar,Sugarcane,Clay,6.51,223.3,3.77,1,4.78,4.78,Bio-fertilizer,Neem Oil
+2018,Uttar Pradesh,Sugarcane,Clay,5.85,137.7,5.54,6,3.02,18.12,DAP,DDT
+2014,Bihar,Millet,Sandy,6.12,229.7,4.45,6,5.01,30.06,Compost,Chlorpyrifos
+2011,Bihar,Wheat,Silty,5.73,174.3,2.72,9,3.88,34.92,Compost,Neem Oil
+2018,Punjab,Millet,Sandy,5.87,156.4,3.55,7,4.69,32.83,Compost,Imidacloprid
+2001,Haryana,Rice,Sandy,7.1,119.9,2.89,2,3.32,6.64,DAP,Malathion
+2012,Punjab,Millet,Loamy,6.09,212.0,5.67,6,4.89,29.34,Bio-fertilizer,Organic Pesticide
+2001,Karnataka,Millet,Clay,6.43,160.1,4.89,7,3.98,27.86,DAP,DDT
+2003,Punjab,Sugarcane,Loamy,6.76,144.9,4.0,6,3.52,21.12,NPK,Chlorpyrifos
+2003,Bihar,Wheat,Clay,6.51,158.6,2.23,9,3.58,32.22,DAP,Malathion
+2021,Punjab,Maize,Loamy,6.3,157.8,4.07,1,4.74,4.74,DAP,Neem Oil
+2008,Karnataka,Rice,Silty,6.24,116.7,2.33,7,3.1,21.7,Urea,Chlorpyrifos
+2007,Haryana,Barley,Sandy,7.4,156.6,3.2,1,3.9,3.9,Bio-fertilizer,Neem Oil
+2011,Tamil Nadu,Sugarcane,Loamy,7.64,179.3,3.04,3,4.79,14.37,Urea,Chlorpyrifos
+2008,Punjab,Rice,Sandy,6.31,164.1,3.02,7,3.98,27.86,Ammonium Sulphate,Organic Pesticide
+2017,Tamil Nadu,Wheat,Clay,6.74,189.3,3.4,4,4.17,16.68,DAP,Carbaryl
+2020,Tamil Nadu,Barley,Loamy,6.46,78.9,2.97,2,2.51,5.02,Urea,Malathion
+2019,Maharashtra,Barley,Sandy,5.96,160.0,3.26,5,4.17,20.85,DAP,Imidacloprid
+2014,Punjab,Wheat,Sandy,6.5,166.1,2.85,3,4.28,12.84,NPK,Organic Pesticide
+2021,Uttar Pradesh,Maize,Sandy,7.16,166.4,4.23,9,4.03,36.27,DAP,Carbaryl
+2013,Uttar Pradesh,Wheat,Loamy,6.57,123.9,1.79,5,3.21,16.05,Potash,DDT
+2011,Punjab,Wheat,Clay,5.98,170.8,3.38,9,4.27,38.43,Potash,Chlorpyrifos
+2000,Tamil Nadu,Maize,Loamy,6.63,191.1,4.04,6,5.03,30.18,Potash,DDT
+2005,Haryana,Millet,Silty,6.68,171.2,2.93,2,3.98,7.96,Compost,Organic Pesticide
+2021,Tamil Nadu,Sugarcane,Clay,7.7,167.1,3.86,9,4.44,39.96,DAP,Malathion
+2000,Haryana,Maize,Loamy,6.43,228.1,3.35,3,5.4,16.2,NPK,Organic Pesticide
+2004,Uttar Pradesh,Sugarcane,Silty,6.57,180.8,3.85,3,4.37,13.11,Ammonium Sulphate,Neem Oil
+2007,Karnataka,Wheat,Sandy,5.79,116.9,4.14,8,3.51,28.08,Urea,Organic Pesticide
+2020,Maharashtra,Maize,Sandy,5.81,141.6,4.82,7,4.24,29.68,Ammonium Sulphate,Imidacloprid
+2013,Uttar Pradesh,Millet,Clay,6.22,166.6,3.78,3,4.23,12.69,Potash,Malathion
+2000,Tamil Nadu,Barley,Clay,6.9,185.1,3.12,2,4.64,9.28,DAP,Imidacloprid
+2013,Tamil Nadu,Sugarcane,Silty,6.31,165.8,3.97,7,4.36,30.52,Bio-fertilizer,Carbaryl
+2000,Haryana,Rice,Clay,6.63,145.8,1.07,8,3.74,29.92,Ammonium Sulphate,Organic Pesticide
+2001,Haryana,Wheat,Loamy,7.11,184.4,4.94,2,4.0,8.0,Compost,Neem Oil
+2007,Uttar Pradesh,Maize,Loamy,6.95,130.1,1.82,1,3.41,3.41,Compost,DDT
+2011,Karnataka,Maize,Sandy,7.06,151.8,1.38,9,4.27,38.43,Urea,Carbaryl
+2009,Uttar Pradesh,Sugarcane,Loamy,6.27,171.4,2.72,6,3.96,23.76,Compost,Organic Pesticide
+2008,Karnataka,Sugarcane,Sandy,6.29,110.9,3.44,5,3.05,15.25,Compost,DDT
+2020,Karnataka,Maize,Loamy,6.06,140.5,4.18,6,3.22,19.32,Compost,Chlorpyrifos
+2013,Bihar,Wheat,Sandy,6.72,107.6,2.93,1,2.64,2.64,Potash,Imidacloprid
+2018,Haryana,Barley,Loamy,7.52,162.4,3.23,3,4.13,12.39,NPK,Organic Pesticide
+2019,Punjab,Barley,Clay,6.13,160.6,2.95,7,4.24,29.68,Potash,DDT
+2004,Haryana,Millet,Clay,5.48,158.2,4.44,3,3.54,10.62,DAP,Neem Oil
+2003,Uttar Pradesh,Sugarcane,Clay,5.51,147.5,3.97,8,3.74,29.92,Ammonium Sulphate,Chlorpyrifos
+2003,Tamil Nadu,Rice,Silty,6.26,142.4,3.4,3,3.94,11.82,Urea,Organic Pesticide
+2018,Bihar,Wheat,Loamy,5.9,116.6,3.08,2,3.49,6.98,Ammonium Sulphate,Malathion
+2021,Tamil Nadu,Rice,Clay,6.77,197.4,4.28,6,4.4,26.4,DAP,DDT
+2005,Bihar,Barley,Loamy,6.86,165.8,3.34,7,4.01,28.07,DAP,Chlorpyrifos
+2000,Tamil Nadu,Wheat,Clay,6.14,175.3,2.89,1,4.08,4.08,Potash,Imidacloprid
+2007,Maharashtra,Maize,Silty,7.17,194.3,3.92,4,4.28,17.12,NPK,DDT
+2014,Bihar,Wheat,Clay,6.47,157.6,4.5,5,4.0,20.0,Ammonium Sulphate,Organic Pesticide
+2008,Bihar,Barley,Loamy,6.18,163.5,2.67,7,3.67,25.69,Ammonium Sulphate,Neem Oil
+2008,Tamil Nadu,Sugarcane,Sandy,6.03,227.6,3.61,5,5.99,29.95,Ammonium Sulphate,Organic Pesticide
+2021,Karnataka,Maize,Silty,7.77,127.4,3.75,5,3.34,16.7,Compost,Malathion
+2018,Tamil Nadu,Maize,Loamy,6.5,153.5,1.59,2,3.77,7.54,Potash,Imidacloprid
+2007,Karnataka,Sugarcane,Clay,6.83,178.7,1.79,9,3.5,31.5,DAP,Organic Pesticide
+2023,Karnataka,Sugarcane,Silty,6.36,133.8,3.25,4,3.25,13.0,Compost,DDT
+2004,Haryana,Wheat,Loamy,6.75,158.9,4.75,5,3.65,18.25,Urea,Neem Oil
+2015,Karnataka,Barley,Silty,6.51,155.7,5.69,4,4.04,16.16,Bio-fertilizer,DDT
+2019,Punjab,Rice,Sandy,6.03,122.6,4.07,1,3.23,3.23,NPK,Neem Oil
+2000,Tamil Nadu,Barley,Loamy,6.99,138.8,2.92,4,4.14,16.56,Ammonium Sulphate,DDT
+2007,Tamil Nadu,Millet,Silty,6.5,134.5,4.3,8,3.46,27.68,Ammonium Sulphate,Carbaryl
+2004,Maharashtra,Sugarcane,Sandy,6.88,104.6,2.57,9,2.45,22.05,Compost,Organic Pesticide
+2008,Uttar Pradesh,Wheat,Loamy,5.8,163.6,3.97,3,3.92,11.76,Bio-fertilizer,Neem Oil
+2002,Karnataka,Maize,Clay,6.79,153.4,2.57,6,3.61,21.66,DAP,Chlorpyrifos
+2006,Bihar,Wheat,Silty,7.16,125.3,3.24,2,3.16,6.32,Potash,Neem Oil
+2022,Karnataka,Rice,Clay,6.33,159.4,3.97,1,3.75,3.75,Compost,DDT
+2023,Tamil Nadu,Wheat,Silty,7.14,108.5,4.34,3,2.46,7.38,Ammonium Sulphate,Chlorpyrifos
+2009,Bihar,Maize,Sandy,7.06,120.9,3.24,6,3.18,19.08,DAP,Carbaryl
+2000,Haryana,Sugarcane,Clay,6.35,140.1,3.91,1,3.16,3.16,Ammonium Sulphate,Carbaryl
+2009,Karnataka,Wheat,Clay,6.46,153.7,3.53,8,4.33,34.64,Potash,Organic Pesticide
+2013,Maharashtra,Millet,Silty,7.29,152.1,3.18,3,3.75,11.25,Bio-fertilizer,DDT
+2002,Uttar Pradesh,Sugarcane,Loamy,6.47,203.1,3.39,5,5.01,25.05,DAP,DDT
+2016,Bihar,Millet,Sandy,6.38,173.8,4.54,7,3.8,26.6,Potash,Carbaryl
+2012,Tamil Nadu,Maize,Sandy,6.91,154.4,5.05,3,3.73,11.19,Urea,DDT
+2001,Bihar,Rice,Silty,6.17,142.4,1.59,8,2.9,23.2,DAP,DDT
+2012,Punjab,Rice,Sandy,7.08,152.3,2.85,2,3.42,6.84,Potash,Chlorpyrifos
+2005,Haryana,Maize,Silty,7.17,183.9,2.76,7,4.17,29.19,Potash,Neem Oil
+2017,Bihar,Rice,Silty,7.09,113.2,3.3,2,2.44,4.88,Ammonium Sulphate,Imidacloprid
+2009,Punjab,Maize,Loamy,6.67,176.5,3.91,5,3.97,19.85,Urea,Imidacloprid
+2014,Tamil Nadu,Maize,Sandy,6.3,125.5,5.28,5,2.64,13.2,Compost,Organic Pesticide
+2001,Karnataka,Wheat,Sandy,5.55,142.7,5.85,6,3.46,20.76,Ammonium Sulphate,Neem Oil
+2009,Tamil Nadu,Rice,Silty,6.55,182.8,2.08,6,4.26,25.56,DAP,Imidacloprid
+2011,Maharashtra,Rice,Loamy,6.12,125.3,3.59,5,3.67,18.35,Ammonium Sulphate,Malathion
+2002,Haryana,Barley,Silty,6.56,124.3,4.04,6,2.83,16.98,NPK,Chlorpyrifos
+2000,Uttar Pradesh,Barley,Silty,6.68,170.1,3.2,8,3.8,30.4,DAP,Imidacloprid
+2019,Karnataka,Rice,Clay,6.03,167.8,4.15,6,4.54,27.24,Compost,Malathion
+2000,Maharashtra,Wheat,Loamy,7.26,229.4,3.94,9,5.6,50.4,Compost,Organic Pesticide
+2009,Uttar Pradesh,Millet,Loamy,6.41,203.6,2.98,1,4.68,4.68,DAP,Imidacloprid
+2009,Karnataka,Millet,Silty,6.07,127.5,2.44,2,3.38,6.76,Bio-fertilizer,Organic Pesticide
+2000,Maharashtra,Barley,Clay,7.23,183.4,4.12,7,4.79,33.53,Urea,Malathion
+2000,Bihar,Barley,Loamy,6.46,117.3,4.46,2,3.18,6.36,DAP,Chlorpyrifos
+2006,Karnataka,Millet,Sandy,6.74,125.7,3.58,1,2.9,2.9,Compost,Chlorpyrifos
+2018,Uttar Pradesh,Wheat,Silty,6.48,151.9,3.43,5,3.56,17.8,DAP,Malathion
+2022,Bihar,Maize,Sandy,6.36,149.9,4.9,8,4.01,32.08,Ammonium Sulphate,Malathion
+2023,Punjab,Wheat,Silty,6.77,139.1,2.75,1,3.76,3.76,Ammonium Sulphate,Carbaryl
+2004,Haryana,Maize,Clay,6.1,176.0,3.74,6,4.78,28.68,Ammonium Sulphate,Chlorpyrifos
+2023,Uttar Pradesh,Sugarcane,Clay,6.25,184.6,6.56,7,4.65,32.55,Potash,Imidacloprid
+2022,Bihar,Rice,Silty,6.53,135.0,1.5,3,3.09,9.27,Bio-fertilizer,Malathion
+2001,Karnataka,Rice,Silty,6.24,204.2,2.77,6,4.7,28.2,Compost,Imidacloprid
+2001,Punjab,Sugarcane,Sandy,6.65,128.4,2.86,5,3.26,16.3,Ammonium Sulphate,Imidacloprid
+2017,Karnataka,Maize,Loamy,6.57,101.3,4.08,4,2.62,10.48,NPK,Carbaryl
+2022,Bihar,Barley,Sandy,6.63,181.6,3.05,3,4.42,13.26,Bio-fertilizer,Imidacloprid
+2020,Bihar,Millet,Sandy,6.25,161.9,4.36,2,4.22,8.44,Potash,Neem Oil
+2012,Bihar,Millet,Clay,6.51,107.1,3.19,2,3.08,6.16,DAP,Malathion
+2015,Tamil Nadu,Barley,Sandy,6.29,157.7,1.78,1,3.63,3.63,Ammonium Sulphate,Chlorpyrifos
+2012,Bihar,Maize,Silty,6.48,145.2,2.86,5,3.56,17.8,Potash,Malathion
+2018,Tamil Nadu,Sugarcane,Sandy,6.54,161.9,3.43,7,3.76,26.32,Ammonium Sulphate,Organic Pesticide
+2004,Bihar,Wheat,Clay,5.53,173.5,1.34,5,4.3,21.5,Bio-fertilizer,Malathion
+2000,Bihar,Rice,Silty,6.5,140.7,4.47,4,3.53,14.12,Urea,Organic Pesticide
+2016,Uttar Pradesh,Maize,Clay,7.6,131.6,2.78,4,3.23,12.92,Compost,Carbaryl
+2023,Haryana,Millet,Loamy,6.6,174.0,5.1,7,3.89,27.23,Ammonium Sulphate,Imidacloprid
+2002,Karnataka,Rice,Silty,7.05,125.1,3.4,2,2.92,5.84,Compost,Malathion
+2001,Uttar Pradesh,Maize,Sandy,6.32,124.1,4.56,6,3.54,21.24,Bio-fertilizer,Carbaryl
+2009,Bihar,Maize,Silty,6.36,199.9,2.82,8,4.7,37.6,NPK,DDT
+2006,Haryana,Wheat,Loamy,6.91,144.7,2.6,1,3.71,3.71,Potash,Malathion
+2017,Haryana,Sugarcane,Loamy,5.44,114.3,1.14,4,3.37,13.48,Compost,Imidacloprid
+2015,Uttar Pradesh,Millet,Sandy,6.34,160.4,5.44,7,3.51,24.57,Bio-fertilizer,Carbaryl
+2009,Haryana,Wheat,Sandy,6.4,150.8,5.25,6,3.72,22.32,Bio-fertilizer,DDT
+2002,Tamil Nadu,Wheat,Sandy,6.53,182.9,4.75,5,3.83,19.15,Urea,Imidacloprid
+2007,Haryana,Maize,Clay,6.11,214.8,2.24,7,4.92,34.44,Compost,Malathion
+2000,Haryana,Rice,Clay,6.73,119.7,4.04,3,3.69,11.07,DAP,Neem Oil
+2009,Punjab,Millet,Clay,6.56,226.6,2.76,5,4.88,24.4,Compost,DDT
+2017,Maharashtra,Millet,Silty,6.7,189.0,4.6,7,4.41,30.87,Bio-fertilizer,Chlorpyrifos
+2008,Uttar Pradesh,Millet,Clay,5.58,162.1,3.59,2,4.12,8.24,Compost,Organic Pesticide
+2015,Punjab,Millet,Sandy,6.6,160.8,3.72,3,3.95,11.85,Bio-fertilizer,Chlorpyrifos
+2023,Maharashtra,Barley,Clay,6.56,98.0,3.66,2,3.28,6.56,NPK,Organic Pesticide
+2019,Bihar,Barley,Sandy,7.08,156.9,3.27,9,3.84,34.56,Potash,Malathion
+2015,Maharashtra,Millet,Clay,6.65,168.1,4.07,3,4.1,12.3,Bio-fertilizer,DDT
+2017,Punjab,Rice,Silty,6.73,155.7,4.47,7,3.54,24.78,DAP,DDT
+2013,Maharashtra,Millet,Clay,6.49,178.6,2.99,3,4.42,13.26,DAP,Malathion
+2002,Karnataka,Rice,Silty,6.93,135.4,2.67,4,3.5,14.0,Ammonium Sulphate,Chlorpyrifos
+2015,Bihar,Rice,Sandy,7.14,199.9,3.81,7,4.2,29.4,Urea,Neem Oil
+2021,Tamil Nadu,Rice,Loamy,6.54,126.2,4.62,1,2.88,2.88,DAP,Malathion
+2008,Uttar Pradesh,Rice,Sandy,6.94,141.9,2.87,9,3.14,28.26,NPK,Neem Oil
+2019,Uttar Pradesh,Millet,Clay,6.34,131.8,2.89,6,2.94,17.64,Bio-fertilizer,Neem Oil
+2013,Maharashtra,Millet,Silty,6.38,119.5,3.63,4,3.03,12.12,DAP,Imidacloprid
+2017,Maharashtra,Sugarcane,Silty,6.17,124.5,5.42,4,3.35,13.4,Ammonium Sulphate,Imidacloprid
+2021,Tamil Nadu,Rice,Clay,6.83,201.0,4.3,2,4.34,8.68,Potash,DDT
+2020,Tamil Nadu,Millet,Silty,7.11,195.1,2.98,9,4.51,40.59,Bio-fertilizer,Organic Pesticide
+2008,Bihar,Sugarcane,Loamy,6.2,124.5,3.76,7,3.38,23.66,Ammonium Sulphate,Malathion
+2005,Haryana,Rice,Loamy,7.15,114.3,5.06,5,2.93,14.65,NPK,Chlorpyrifos
+2006,Punjab,Rice,Clay,6.17,129.7,2.76,3,3.49,10.47,Ammonium Sulphate,Organic Pesticide
+2018,Punjab,Maize,Clay,7.04,152.7,2.12,2,3.59,7.18,Compost,Chlorpyrifos
+2012,Maharashtra,Wheat,Silty,6.81,180.7,2.63,9,4.01,36.09,Urea,Carbaryl
+2020,Bihar,Barley,Clay,6.46,170.5,2.25,5,3.98,19.9,Compost,Malathion
+2021,Haryana,Wheat,Clay,6.24,195.8,3.16,9,4.79,43.11,Urea,Imidacloprid
+2006,Maharashtra,Wheat,Sandy,7.0,138.5,4.15,5,3.3,16.5,Bio-fertilizer,Organic Pesticide
+2009,Haryana,Sugarcane,Silty,5.71,152.5,2.78,1,3.85,3.85,Bio-fertilizer,DDT
+2017,Maharashtra,Sugarcane,Sandy,6.62,175.1,3.15,1,3.95,3.95,NPK,Malathion
+2017,Maharashtra,Rice,Silty,7.02,156.9,4.53,7,3.9,27.3,Potash,Carbaryl
+2019,Tamil Nadu,Barley,Loamy,5.98,135.3,2.98,5,2.93,14.65,Compost,Carbaryl
+2001,Uttar Pradesh,Sugarcane,Clay,6.27,186.3,2.84,6,4.17,25.02,Compost,Organic Pesticide
+2013,Haryana,Rice,Silty,6.19,232.2,5.1,5,5.59,27.95,NPK,Neem Oil
+2010,Bihar,Rice,Loamy,6.84,128.5,3.75,8,3.24,25.92,NPK,Organic Pesticide
+2016,Haryana,Wheat,Clay,6.66,151.4,1.54,5,4.04,20.2,Ammonium Sulphate,Carbaryl
+2022,Maharashtra,Rice,Clay,6.79,153.5,3.89,7,4.1,28.7,DAP,Carbaryl
+2005,Punjab,Wheat,Clay,6.2,184.8,4.27,9,4.47,40.23,Compost,Organic Pesticide
+2003,Bihar,Wheat,Loamy,5.71,154.9,4.28,5,3.63,18.15,Compost,DDT
+2005,Punjab,Maize,Silty,5.75,164.9,3.03,9,3.96,35.64,Ammonium Sulphate,Organic Pesticide
+2003,Tamil Nadu,Wheat,Loamy,6.57,88.9,3.19,7,2.86,20.02,Urea,Imidacloprid
+2001,Bihar,Millet,Silty,6.21,162.7,3.78,9,3.8,34.2,DAP,DDT
+2020,Haryana,Millet,Silty,6.21,151.8,3.75,8,3.7,29.6,Urea,Chlorpyrifos
+2022,Karnataka,Millet,Sandy,6.66,156.6,3.04,2,3.43,6.86,Compost,Imidacloprid
+2008,Tamil Nadu,Maize,Sandy,6.33,157.0,5.0,7,4.17,29.19,Compost,Organic Pesticide
+2004,Uttar Pradesh,Maize,Loamy,6.96,83.9,4.68,6,2.84,17.04,DAP,Neem Oil
+2012,Uttar Pradesh,Wheat,Silty,7.2,183.0,4.02,5,4.36,21.8,Bio-fertilizer,Neem Oil
+2012,Bihar,Millet,Sandy,6.28,145.5,3.1,1,2.95,2.95,Compost,Imidacloprid
+2013,Haryana,Rice,Sandy,5.59,178.2,5.32,4,3.77,15.08,DAP,Chlorpyrifos
+2000,Tamil Nadu,Rice,Clay,7.49,176.1,3.22,2,4.54,9.08,Ammonium Sulphate,Neem Oil
+2004,Karnataka,Sugarcane,Clay,7.44,181.0,2.61,8,4.61,36.88,Bio-fertilizer,Carbaryl
+2011,Haryana,Maize,Silty,7.26,123.0,3.73,4,3.23,12.92,Ammonium Sulphate,DDT
+2002,Karnataka,Millet,Clay,6.78,117.4,2.43,8,3.39,27.12,Compost,DDT
+2004,Karnataka,Wheat,Silty,6.78,146.6,2.73,2,3.08,6.16,Potash,Neem Oil
+2015,Haryana,Rice,Silty,6.44,153.5,4.26,6,3.6,21.6,Bio-fertilizer,Carbaryl
+2005,Uttar Pradesh,Maize,Loamy,6.86,163.0,1.44,4,4.1,16.4,Urea,DDT
+2022,Karnataka,Millet,Clay,6.53,172.2,1.49,2,4.52,9.04,Compost,Malathion
+2006,Tamil Nadu,Wheat,Clay,7.03,240.6,5.44,1,5.53,5.53,Bio-fertilizer,Neem Oil
+2021,Bihar,Rice,Loamy,6.45,228.2,3.74,3,4.9,14.7,NPK,Carbaryl
+2010,Uttar Pradesh,Maize,Clay,5.74,136.1,3.09,5,3.12,15.6,Bio-fertilizer,Malathion
+2008,Karnataka,Barley,Loamy,6.92,192.2,4.01,2,4.84,9.68,NPK,Imidacloprid
+2000,Uttar Pradesh,Sugarcane,Clay,5.94,129.9,4.22,5,3.1,15.5,Potash,Chlorpyrifos
+2022,Bihar,Millet,Sandy,5.44,172.8,5.62,7,3.4,23.8,Urea,DDT
+2002,Maharashtra,Rice,Silty,6.73,157.1,4.13,7,4.08,28.56,NPK,Organic Pesticide
+2002,Tamil Nadu,Maize,Clay,6.34,137.9,1.75,7,2.94,20.58,Potash,Chlorpyrifos
+2004,Bihar,Millet,Sandy,6.36,129.5,3.46,6,3.55,21.3,Potash,DDT
+2008,Maharashtra,Sugarcane,Clay,7.38,159.4,2.81,1,3.52,3.52,Compost,Carbaryl
+2000,Bihar,Wheat,Clay,5.92,182.1,2.87,3,4.14,12.42,Ammonium Sulphate,Neem Oil
+2003,Bihar,Wheat,Clay,6.91,173.8,3.09,1,4.05,4.05,Ammonium Sulphate,Carbaryl
+2005,Haryana,Sugarcane,Loamy,6.79,159.8,3.39,6,4.08,24.48,DAP,Imidacloprid
+2009,Haryana,Rice,Sandy,6.41,167.1,3.27,7,4.9,34.3,Urea,Neem Oil
+2004,Punjab,Barley,Loamy,6.8,172.6,4.74,6,3.39,20.34,DAP,Imidacloprid
+2006,Punjab,Millet,Loamy,7.53,188.8,3.31,7,4.58,32.06,Urea,Chlorpyrifos
+2012,Uttar Pradesh,Rice,Loamy,6.67,173.5,2.5,9,4.17,37.53,Bio-fertilizer,Chlorpyrifos
+2003,Uttar Pradesh,Wheat,Loamy,6.19,144.4,4.4,1,4.07,4.07,NPK,Neem Oil
+2004,Bihar,Millet,Silty,6.35,158.4,2.76,7,4.08,28.56,NPK,Organic Pesticide
+2007,Haryana,Rice,Sandy,6.11,132.5,4.91,6,3.89,23.34,NPK,Malathion
+2009,Karnataka,Millet,Clay,6.4,123.7,3.47,5,2.86,14.3,Ammonium Sulphate,Chlorpyrifos
+2012,Haryana,Maize,Clay,6.61,132.2,3.97,5,4.25,21.25,Ammonium Sulphate,Malathion
+2018,Bihar,Maize,Clay,6.24,148.4,4.9,7,3.81,26.67,NPK,Chlorpyrifos
+2015,Maharashtra,Millet,Clay,5.98,118.3,1.47,9,3.56,32.04,Urea,DDT
+2019,Punjab,Maize,Sandy,6.98,126.9,4.18,5,3.6,18.0,NPK,Malathion
+2011,Uttar Pradesh,Rice,Loamy,6.86,195.0,2.84,2,4.49,8.98,Urea,Imidacloprid
+2018,Haryana,Rice,Loamy,6.23,170.3,1.01,7,4.34,30.38,Urea,Chlorpyrifos
+2022,Uttar Pradesh,Sugarcane,Sandy,6.42,212.6,3.49,8,4.88,39.04,Bio-fertilizer,Carbaryl
+2000,Maharashtra,Millet,Sandy,6.68,142.5,3.74,8,3.79,30.32,DAP,Imidacloprid
+2004,Karnataka,Wheat,Sandy,6.91,159.8,4.32,6,3.8,22.8,Potash,Chlorpyrifos
+2020,Uttar Pradesh,Rice,Clay,6.19,224.2,1.96,2,5.36,10.72,Urea,DDT
+2009,Tamil Nadu,Maize,Silty,5.83,169.8,3.45,8,4.12,32.96,Urea,Malathion
+2019,Uttar Pradesh,Rice,Sandy,6.98,180.9,3.49,4,4.25,17.0,DAP,Organic Pesticide
+2012,Punjab,Millet,Sandy,7.13,138.9,2.5,2,3.48,6.96,Potash,Carbaryl
+2006,Tamil Nadu,Barley,Loamy,7.14,151.5,2.77,5,4.12,20.6,Ammonium Sulphate,Organic Pesticide
+2001,Maharashtra,Wheat,Silty,6.19,148.4,2.22,1,3.47,3.47,Potash,DDT
+2022,Tamil Nadu,Wheat,Clay,5.98,161.8,2.61,3,4.43,13.29,Urea,Organic Pesticide
+2005,Bihar,Wheat,Loamy,5.25,143.5,3.3,8,3.14,25.12,NPK,Malathion
+2019,Haryana,Rice,Clay,5.07,145.2,2.14,3,3.39,10.17,Compost,Chlorpyrifos
+2010,Tamil Nadu,Barley,Loamy,5.89,198.5,1.63,2,4.85,9.7,Urea,Carbaryl
+2010,Karnataka,Rice,Sandy,6.79,159.2,3.37,3,4.04,12.12,NPK,Imidacloprid
+2004,Bihar,Maize,Clay,5.88,161.5,2.83,4,3.83,15.32,NPK,Malathion
+2010,Tamil Nadu,Chilli,Silty,6.45,165.7,2.62,7,3.4,23.8,DAP,Chlorpyrifos
+2011,Tamil Nadu,Rice,Silty,6.74,191.9,4.25,7,4.44,31.08,DAP,Neem Oil
+2022,Tamil Nadu,Rice,Sandy,7.01,173.2,2.81,7,4.47,31.29,Compost,DDT
+2004,Maharashtra,Maize,Loamy,6.94,177.3,4.33,8,3.64,29.12,Compost,Carbaryl
+2020,Bihar,Sugarcane,Silty,7.24,150.8,3.78,9,3.8,34.2,Ammonium Sulphate,DDT
+2021,Uttar Pradesh,Maize,Loamy,7.3,144.4,3.82,4,3.52,14.08,DAP,Chlorpyrifos
+2010,Maharashtra,Rice,Loamy,6.88,137.4,2.88,4,3.4,13.6,DAP,Imidacloprid
+2012,Tamil Nadu,Maize,Silty,6.91,123.2,5.24,1,2.93,2.93,NPK,Organic Pesticide
+2016,Haryana,Sugarcane,Clay,6.78,221.5,2.23,2,5.15,10.3,Ammonium Sulphate,Chlorpyrifos
+2014,Bihar,Rice,Clay,5.0,137.0,3.08,4,3.85,15.4,Potash,Malathion
+2005,Maharashtra,Sugarcane,Silty,6.24,167.3,2.19,8,3.22,25.76,Compost,Chlorpyrifos
+2005,Haryana,Wheat,Silty,6.0,163.9,2.94,1,3.52,3.52,Compost,Neem Oil
+2018,Bihar,Rice,Clay,6.18,187.6,4.45,4,4.65,18.6,Potash,Imidacloprid
+2001,Uttar Pradesh,Rice,Clay,7.13,216.2,4.73,3,4.61,13.83,Compost,Imidacloprid
+2018,Punjab,Millet,Loamy,7.11,169.5,3.51,8,3.9,31.2,Potash,DDT
+2013,Punjab,Sugarcane,Silty,7.25,148.9,3.83,7,3.87,27.09,Urea,Carbaryl
+2005,Haryana,Maize,Clay,6.96,132.7,3.33,4,2.8,11.2,NPK,Neem Oil
+2014,Tamil Nadu,Rice,Clay,7.2,117.6,3.39,7,3.27,22.89,DAP,Malathion
+2010,Bihar,Rice,Silty,7.09,175.7,3.73,5,3.5,17.5,Ammonium Sulphate,Imidacloprid
+2015,Haryana,Sugarcane,Loamy,6.76,173.4,3.94,9,4.25,38.25,Bio-fertilizer,Imidacloprid
+2020,Maharashtra,Millet,Loamy,6.75,178.5,4.64,9,4.31,38.79,Urea,Malathion
+2001,Maharashtra,Wheat,Sandy,6.63,169.7,5.27,6,4.45,26.7,DAP,Chlorpyrifos
+2022,Uttar Pradesh,Maize,Silty,5.02,201.9,3.26,8,4.26,34.08,Ammonium Sulphate,Organic Pesticide
+2015,Haryana,Wheat,Loamy,6.4,140.8,5.75,8,3.67,29.36,Bio-fertilizer,Chlorpyrifos
+2016,Maharashtra,Barley,Silty,6.36,177.4,3.19,8,4.14,33.12,Bio-fertilizer,Malathion
+2009,Tamil Nadu,Barley,Clay,5.65,158.4,5.08,3,3.52,10.56,Ammonium Sulphate,Chlorpyrifos
+2010,Uttar Pradesh,Millet,Clay,6.75,199.7,4.84,3,4.5,13.5,Bio-fertilizer,Carbaryl
+2022,Karnataka,Wheat,Loamy,6.54,150.9,3.15,2,4.19,8.38,NPK,Neem Oil
+2012,Uttar Pradesh,Barley,Silty,5.63,240.9,4.48,7,5.35,37.45,Compost,DDT
+2022,Bihar,Barley,Clay,6.45,190.9,2.87,2,4.22,8.44,Bio-fertilizer,Chlorpyrifos
+2006,Uttar Pradesh,Maize,Silty,5.99,155.2,4.15,2,3.77,7.54,DAP,Neem Oil
+2008,Haryana,Maize,Loamy,6.29,170.3,1.74,3,4.58,13.74,Compost,Malathion
+2001,Punjab,Rice,Loamy,6.18,129.6,3.11,2,3.02,6.04,DAP,Carbaryl
+2013,Uttar Pradesh,Barley,Sandy,6.52,135.8,2.99,1,3.39,3.39,Ammonium Sulphate,Organic Pesticide
+2006,Karnataka,Maize,Clay,6.19,173.3,4.96,8,4.28,34.24,Bio-fertilizer,Imidacloprid
+2009,Punjab,Barley,Clay,7.27,130.9,5.22,9,3.85,34.65,Urea,Imidacloprid
+2004,Karnataka,Barley,Loamy,8.17,104.6,4.22,6,2.96,17.76,NPK,Malathion
+2008,Uttar Pradesh,Sugarcane,Silty,6.7,185.1,4.15,6,4.25,25.5,Ammonium Sulphate,Neem Oil
+2006,Karnataka,Rice,Loamy,6.91,179.1,3.24,9,4.35,39.15,Ammonium Sulphate,Organic Pesticide
+2023,Maharashtra,Maize,Silty,6.47,131.7,3.32,1,3.34,3.34,NPK,Neem Oil
+2014,Punjab,Maize,Silty,6.26,118.9,3.81,9,3.28,29.52,Ammonium Sulphate,Imidacloprid
+2003,Uttar Pradesh,Wheat,Sandy,7.05,171.4,4.07,6,3.89,23.34,Compost,Malathion
+2020,Haryana,Barley,Loamy,5.96,96.7,4.54,3,2.85,8.55,Compost,Neem Oil
+2010,Punjab,Barley,Loamy,6.93,112.0,0.33,9,3.1,27.9,Urea,Organic Pesticide
+2005,Maharashtra,Millet,Clay,6.82,188.4,2.41,7,4.48,31.36,Ammonium Sulphate,Neem Oil
+2001,Uttar Pradesh,Maize,Clay,6.76,146.3,2.99,4,3.74,14.96,DAP,Malathion
+2002,Tamil Nadu,Millet,Sandy,6.36,171.8,2.45,4,3.79,15.16,DAP,Chlorpyrifos
+2008,Karnataka,Sugarcane,Sandy,7.34,211.7,4.38,9,4.37,39.33,NPK,Organic Pesticide
+2014,Uttar Pradesh,Barley,Sandy,6.79,141.3,2.86,1,3.04,3.04,NPK,Malathion
+2004,Bihar,Maize,Silty,6.54,166.8,4.24,2,4.16,8.32,Ammonium Sulphate,DDT
+2003,Maharashtra,Sugarcane,Silty,6.16,144.8,4.38,3,3.7,11.1,NPK,DDT
+2004,Maharashtra,Barley,Silty,5.79,123.4,2.46,4,2.54,10.16,Urea,Imidacloprid
+2006,Maharashtra,Barley,Loamy,7.1,204.1,4.34,2,5.02,10.04,Ammonium Sulphate,Imidacloprid
+2006,Punjab,Sugarcane,Loamy,6.62,152.8,3.49,2,3.85,7.7,DAP,Organic Pesticide
+2005,Haryana,Maize,Loamy,6.24,159.4,2.98,9,3.94,35.46,Bio-fertilizer,Imidacloprid
+2011,Maharashtra,Sugarcane,Silty,6.05,183.4,3.96,6,4.08,24.48,Bio-fertilizer,Neem Oil
+2017,Punjab,Maize,Silty,6.77,156.9,2.42,6,3.79,22.74,DAP,Carbaryl
+2009,Uttar Pradesh,Millet,Silty,6.13,217.6,4.67,1,4.95,4.95,Compost,Imidacloprid
+2009,Karnataka,Wheat,Silty,6.38,180.8,4.39,2,4.08,8.16,Urea,Malathion
+2006,Uttar Pradesh,Maize,Clay,5.62,114.4,2.62,1,3.25,3.25,Ammonium Sulphate,Neem Oil
+2007,Uttar Pradesh,Maize,Silty,6.41,155.6,5.23,5,3.87,19.35,Urea,Imidacloprid
+2018,Punjab,Rice,Loamy,6.27,131.2,2.37,6,4.11,24.66,Urea,Neem Oil
+2012,Karnataka,Millet,Clay,6.18,111.8,3.71,9,3.07,27.63,Compost,Neem Oil
+2004,Punjab,Barley,Silty,7.12,144.5,4.16,6,3.4,20.4,NPK,Imidacloprid
+2016,Karnataka,Millet,Sandy,6.13,169.0,3.71,9,4.3,38.7,Ammonium Sulphate,Chlorpyrifos
+2004,Haryana,Millet,Silty,6.04,151.5,1.43,9,3.7,33.3,DAP,Chlorpyrifos
+2018,Punjab,Wheat,Clay,6.41,116.5,3.07,9,3.33,29.97,DAP,Imidacloprid
+2008,Karnataka,Barley,Clay,6.41,126.9,3.95,1,3.16,3.16,Urea,DDT
+2018,Punjab,Maize,Loamy,6.91,124.7,2.64,8,3.08,24.64,Compost,Neem Oil
+2018,Tamil Nadu,Barley,Sandy,6.26,126.6,3.39,5,3.17,15.85,Urea,Organic Pesticide
+2003,Bihar,Maize,Loamy,7.14,207.4,3.39,7,4.31,30.17,Ammonium Sulphate,Neem Oil
+2004,Punjab,Rice,Sandy,7.8,88.8,5.25,6,3.25,19.5,Bio-fertilizer,Neem Oil
+2010,Bihar,Rice,Sandy,6.66,130.2,3.19,6,2.77,16.62,Compost,Neem Oil
+2011,Haryana,Rice,Sandy,6.19,154.1,2.74,5,3.38,16.9,Potash,Organic Pesticide
+2000,Punjab,Millet,Clay,6.81,197.0,2.95,2,4.46,8.92,DAP,Imidacloprid
+2009,Punjab,Rice,Sandy,6.6,133.3,4.49,4,3.15,12.6,Compost,Organic Pesticide
+2009,Maharashtra,Rice,Loamy,6.38,139.8,5.45,8,4.02,32.16,Compost,Organic Pesticide
+2016,Karnataka,Maize,Silty,6.29,191.6,4.14,5,4.3,21.5,Compost,DDT
+2017,Maharashtra,Rice,Sandy,5.63,199.4,3.43,3,4.31,12.93,NPK,Organic Pesticide
+2022,Tamil Nadu,Sugarcane,Silty,6.31,109.7,2.82,2,2.86,5.72,Potash,Neem Oil
+2020,Tamil Nadu,Wheat,Silty,6.18,153.5,3.99,9,3.61,32.49,DAP,Chlorpyrifos
+2021,Punjab,Maize,Clay,6.42,160.2,4.12,1,3.68,3.68,DAP,Organic Pesticide
+2019,Haryana,Sugarcane,Loamy,6.75,182.3,4.24,9,4.48,40.32,Urea,DDT
+2019,Punjab,Barley,Silty,6.63,205.7,3.41,8,4.7,37.6,Ammonium Sulphate,DDT
+2007,Maharashtra,Barley,Loamy,6.68,133.5,5.67,3,2.98,8.94,Compost,Organic Pesticide
+2017,Haryana,Wheat,Clay,6.69,203.5,2.89,8,4.98,39.84,Ammonium Sulphate,Malathion
+2016,Bihar,Barley,Clay,6.21,177.8,3.11,8,4.06,32.48,Potash,Neem Oil
+2004,Bihar,Barley,Silty,5.7,150.0,4.07,1,3.48,3.48,Compost,Neem Oil
+2002,Haryana,Sugarcane,Sandy,7.06,129.0,1.75,1,3.28,3.28,Bio-fertilizer,Malathion
+2005,Maharashtra,Millet,Silty,6.38,76.4,1.07,4,2.74,10.96,DAP,Neem Oil
+2009,Bihar,Maize,Silty,5.73,157.7,2.99,4,3.79,15.16,Ammonium Sulphate,DDT
+2018,Uttar Pradesh,Wheat,Loamy,5.9,177.2,5.41,4,4.13,16.52,DAP,Imidacloprid
+2018,Bihar,Barley,Sandy,7.04,163.6,3.43,9,3.53,31.77,NPK,Neem Oil
+2000,Haryana,Millet,Clay,5.93,176.1,3.42,4,4.28,17.12,NPK,Organic Pesticide
+2014,Uttar Pradesh,Sugarcane,Clay,6.81,132.0,2.94,7,3.44,24.08,Compost,Neem Oil
+2017,Haryana,Maize,Sandy,6.6,134.5,3.83,8,3.88,31.04,NPK,Malathion
+2020,Tamil Nadu,Rice,Silty,7.29,145.8,2.91,9,3.53,31.77,Ammonium Sulphate,Malathion
+2011,Maharashtra,Wheat,Clay,6.59,171.1,4.34,3,4.22,12.66,Compost,Chlorpyrifos
+2009,Haryana,Rice,Silty,5.73,136.7,4.24,1,3.22,3.22,Urea,Chlorpyrifos
+2006,Uttar Pradesh,Barley,Loamy,6.86,154.1,2.29,6,3.85,23.1,DAP,Malathion
+2006,Bihar,Wheat,Silty,6.97,218.0,2.45,8,4.91,39.28,Ammonium Sulphate,Neem Oil
+2013,Tamil Nadu,Millet,Clay,6.74,131.6,5.72,5,3.19,15.95,Ammonium Sulphate,Malathion
+2014,Tamil Nadu,Rice,Silty,6.13,163.9,1.68,9,4.57,41.13,Ammonium Sulphate,Malathion
+2018,Haryana,Wheat,Sandy,6.76,182.7,3.7,7,4.41,30.87,Urea,DDT
+2018,Bihar,Barley,Clay,5.9,137.0,4.99,1,3.15,3.15,Ammonium Sulphate,Malathion
+2014,Bihar,Barley,Loamy,7.79,162.5,3.58,1,3.97,3.97,Urea,Imidacloprid
+2004,Punjab,Barley,Sandy,6.11,206.9,3.53,8,4.85,38.8,Urea,Organic Pesticide
+2017,Uttar Pradesh,Sugarcane,Sandy,6.4,158.0,3.67,2,4.33,8.66,DAP,Neem Oil
+2004,Karnataka,Barley,Silty,6.41,180.6,5.87,7,4.52,31.64,Urea,Chlorpyrifos
+2019,Punjab,Barley,Clay,6.69,84.1,2.77,6,2.85,17.1,Urea,Neem Oil
+2001,Karnataka,Barley,Clay,7.23,152.0,0.77,1,3.83,3.83,Compost,Malathion
+2013,Tamil Nadu,Millet,Clay,7.06,201.0,3.67,3,5.05,15.15,NPK,Chlorpyrifos
+2004,Bihar,Wheat,Sandy,6.58,137.9,2.69,6,3.32,19.92,NPK,Imidacloprid
+2008,Bihar,Maize,Loamy,6.24,183.8,2.71,6,3.96,23.76,NPK,Chlorpyrifos
+2017,Punjab,Maize,Sandy,5.99,177.5,3.42,5,4.12,20.6,Potash,Chlorpyrifos
+2018,Maharashtra,Sugarcane,Loamy,6.18,144.5,4.13,5,3.08,15.4,Urea,Neem Oil
+2009,Uttar Pradesh,Millet,Clay,6.32,210.8,1.86,2,4.79,9.58,Compost,Malathion
+2016,Haryana,Barley,Clay,6.96,145.6,4.52,2,4.39,8.78,Potash,DDT
+2004,Uttar Pradesh,Millet,Clay,6.48,140.2,3.37,1,3.31,3.31,Bio-fertilizer,DDT
+2001,Uttar Pradesh,Rice,Clay,6.91,167.2,3.1,1,3.89,3.89,DAP,Imidacloprid
+2018,Maharashtra,Wheat,Silty,6.47,151.5,4.62,9,3.93,35.37,Potash,DDT
+2002,Tamil Nadu,Wheat,Silty,6.4,154.1,2.57,6,3.75,22.5,DAP,DDT
+2015,Punjab,Sugarcane,Clay,7.18,176.9,3.08,3,4.16,12.48,DAP,Malathion
+2003,Bihar,Rice,Loamy,6.12,185.3,3.09,4,4.71,18.84,Compost,Chlorpyrifos
+2006,Punjab,Millet,Loamy,7.6,159.8,4.75,9,3.89,35.01,Bio-fertilizer,Chlorpyrifos
+2022,Punjab,Barley,Sandy,6.88,133.8,3.9,6,3.66,21.96,Potash,Chlorpyrifos
+2018,Haryana,Maize,Sandy,6.03,145.0,4.17,6,3.75,22.5,NPK,Neem Oil
+2014,Uttar Pradesh,Rice,Loamy,6.87,183.1,2.46,8,4.65,37.2,NPK,Neem Oil
+2015,Maharashtra,Maize,Silty,6.36,163.6,5.62,3,3.59,10.77,Bio-fertilizer,Malathion
+2023,Haryana,Millet,Loamy,7.15,103.6,4.58,9,2.55,22.95,DAP,Carbaryl
+2009,Punjab,Maize,Sandy,6.54,201.6,2.99,2,4.54,9.08,Bio-fertilizer,DDT
+2002,Karnataka,Barley,Loamy,7.15,160.4,4.04,5,4.0,20.0,Potash,Organic Pesticide
+2018,Punjab,Millet,Clay,6.17,178.5,4.44,4,4.74,18.96,DAP,Imidacloprid
+2011,Punjab,Sugarcane,Sandy,6.29,110.2,3.42,5,2.48,12.4,NPK,Imidacloprid
+2005,Bihar,Barley,Silty,6.92,103.3,3.17,1,2.42,2.42,Urea,Carbaryl
+2021,Punjab,Maize,Silty,6.15,205.8,3.06,3,4.53,13.59,Bio-fertilizer,Chlorpyrifos
+2014,Punjab,Rice,Clay,7.19,172.6,4.77,9,4.24,38.16,Compost,Chlorpyrifos
+2011,Punjab,Sugarcane,Loamy,6.84,181.1,2.39,8,4.83,38.64,Ammonium Sulphate,Imidacloprid
+2005,Uttar Pradesh,Maize,Clay,7.08,197.6,1.37,3,4.75,14.25,NPK,Malathion
+2016,Karnataka,Sugarcane,Silty,6.45,146.2,1.87,2,4.69,9.38,NPK,Malathion
+2006,Uttar Pradesh,Rice,Sandy,5.03,144.3,2.52,7,3.58,25.06,DAP,Chlorpyrifos
+2012,Maharashtra,Barley,Silty,5.93,177.0,4.24,5,4.37,21.85,Potash,Neem Oil
+2011,Karnataka,Rice,Loamy,7.31,175.9,2.88,1,3.8,3.8,Urea,Imidacloprid
+2019,Bihar,Barley,Sandy,6.63,185.7,2.89,5,3.95,19.75,Compost,Imidacloprid
+2017,Uttar Pradesh,Wheat,Silty,6.37,165.7,2.96,5,3.79,18.95,Bio-fertilizer,Chlorpyrifos
+2012,Bihar,Wheat,Sandy,6.52,200.4,3.8,7,4.92,34.44,Potash,DDT
+2021,Punjab,Sugarcane,Clay,6.23,162.3,4.14,3,4.13,12.39,Potash,Imidacloprid
+2013,Bihar,Millet,Loamy,6.52,126.1,4.59,8,3.33,26.64,Bio-fertilizer,Neem Oil
+2007,Karnataka,Maize,Clay,7.08,162.3,3.58,6,3.61,21.66,Ammonium Sulphate,Neem Oil
+2006,Karnataka,Maize,Silty,5.87,209.0,4.9,4,5.55,22.2,Compost,Imidacloprid
+2006,Tamil Nadu,Millet,Sandy,6.4,199.8,3.94,6,4.63,27.78,Bio-fertilizer,Organic Pesticide
+2012,Karnataka,Wheat,Sandy,7.22,108.8,3.53,5,2.73,13.65,NPK,Neem Oil
+2022,Bihar,Wheat,Sandy,6.97,150.9,3.53,8,3.29,26.32,Urea,DDT
+2020,Punjab,Millet,Silty,6.62,137.3,3.57,7,3.63,25.41,Urea,Organic Pesticide
+2022,Maharashtra,Sugarcane,Sandy,6.63,187.9,2.42,9,4.17,37.53,NPK,DDT
+2018,Maharashtra,Maize,Sandy,6.24,103.1,1.17,9,3.02,27.18,Ammonium Sulphate,Imidacloprid
+2016,Maharashtra,Millet,Loamy,6.66,172.3,4.03,4,4.06,16.24,Bio-fertilizer,Organic Pesticide
+2018,Haryana,Wheat,Loamy,7.01,125.5,3.31,6,3.55,21.3,Ammonium Sulphate,Organic Pesticide
+2013,Bihar,Wheat,Clay,6.08,176.5,3.04,9,3.95,35.55,DAP,Chlorpyrifos
+2019,Karnataka,Maize,Clay,6.56,160.0,1.59,1,3.46,3.46,Compost,Neem Oil
+2006,Tamil Nadu,Maize,Loamy,5.94,164.5,2.98,9,3.9,35.1,Compost,Neem Oil
+2022,Uttar Pradesh,Barley,Loamy,6.86,136.0,3.15,6,3.6,21.6,Potash,Chlorpyrifos
+2000,Haryana,Wheat,Silty,6.42,213.0,3.36,3,4.89,14.67,Potash,DDT
+2022,Karnataka,Rice,Loamy,6.48,144.3,4.48,4,3.42,13.68,Potash,Chlorpyrifos
+2006,Bihar,Maize,Clay,7.0,214.5,3.85,6,5.0,30.0,NPK,DDT
+2018,Tamil Nadu,Rice,Silty,5.78,168.6,3.71,9,4.05,36.45,Ammonium Sulphate,Malathion
+2011,Uttar Pradesh,Wheat,Clay,5.87,154.8,5.34,2,3.5,7.0,Potash,Carbaryl
+2007,Punjab,Millet,Sandy,6.48,248.3,4.05,6,5.96,35.76,Urea,Organic Pesticide
+2013,Haryana,Millet,Clay,6.67,152.5,2.66,1,3.61,3.61,Compost,DDT
+2020,Tamil Nadu,Wheat,Loamy,6.44,134.9,3.54,6,3.16,18.96,Urea,Organic Pesticide
+2007,Uttar Pradesh,Maize,Loamy,6.63,188.5,4.64,7,4.58,32.06,DAP,Malathion
+2003,Tamil Nadu,Millet,Clay,6.58,120.2,5.33,5,3.66,18.3,Potash,Malathion
+2012,Haryana,Barley,Loamy,7.19,110.5,1.4,8,2.44,19.52,Potash,Organic Pesticide
+2009,Punjab,Maize,Sandy,6.74,168.8,6.82,8,3.73,29.84,Potash,Organic Pesticide
+2004,Karnataka,Sugarcane,Silty,6.21,143.4,4.49,1,3.48,3.48,Compost,Organic Pesticide
+2018,Bihar,Rice,Silty,6.27,93.0,3.48,4,2.7,10.8,Ammonium Sulphate,Carbaryl
+2001,Bihar,Sugarcane,Clay,6.06,207.9,2.92,6,4.6,27.6,NPK,Malathion
+2001,Maharashtra,Sugarcane,Loamy,6.36,192.1,4.7,3,4.11,12.33,Ammonium Sulphate,Organic Pesticide
+2019,Tamil Nadu,Barley,Loamy,6.45,184.2,3.14,8,4.2,33.6,Compost,Imidacloprid
+2016,Karnataka,Maize,Sandy,6.11,195.5,3.5,5,4.82,24.1,DAP,Organic Pesticide
+2004,Maharashtra,Rice,Loamy,5.56,149.1,2.38,4,3.82,15.28,Ammonium Sulphate,Neem Oil
+2016,Maharashtra,Sugarcane,Clay,6.16,226.1,4.96,1,5.14,5.14,Compost,Neem Oil
+2013,Karnataka,Sugarcane,Sandy,5.38,137.8,3.05,9,3.77,33.93,Ammonium Sulphate,Neem Oil
+2000,Karnataka,Wheat,Loamy,6.69,171.9,4.28,3,3.91,11.73,Bio-fertilizer,DDT
+2011,Maharashtra,Millet,Loamy,6.03,171.2,3.74,2,4.16,8.32,Bio-fertilizer,Carbaryl
+2014,Haryana,Wheat,Loamy,6.41,104.1,4.32,3,3.46,10.38,DAP,Chlorpyrifos
+2022,Punjab,Millet,Silty,6.16,178.2,3.4,2,4.16,8.32,Potash,Organic Pesticide
+2000,Haryana,Barley,Clay,6.57,136.1,2.68,6,3.55,21.3,Potash,Carbaryl
+2007,Haryana,Millet,Sandy,5.97,141.0,3.73,8,3.29,26.32,Urea,Chlorpyrifos
+2022,Uttar Pradesh,Wheat,Silty,6.53,170.0,2.66,8,3.87,30.96,Bio-fertilizer,DDT
+2018,Uttar Pradesh,Maize,Loamy,6.53,182.5,3.62,7,3.97,27.79,Compost,Malathion
+2008,Punjab,Wheat,Silty,7.58,130.1,4.14,5,3.38,16.9,NPK,Imidacloprid
+2000,Tamil Nadu,Sugarcane,Loamy,6.68,118.8,4.23,5,3.28,16.4,Ammonium Sulphate,Carbaryl
+2016,Karnataka,Rice,Loamy,6.3,178.8,4.45,6,4.34,26.04,Compost,Chlorpyrifos
+2015,Tamil Nadu,Wheat,Loamy,6.62,127.3,4.08,2,3.49,6.98,NPK,Neem Oil
+2022,Haryana,Barley,Loamy,6.93,200.0,3.84,4,5.18,20.72,NPK,Chlorpyrifos
+2015,Tamil Nadu,Barley,Sandy,5.71,180.1,4.95,1,3.75,3.75,Urea,Chlorpyrifos
+2007,Punjab,Wheat,Clay,6.44,149.4,2.45,1,4.07,4.07,Ammonium Sulphate,Neem Oil
+2012,Punjab,Maize,Loamy,6.67,203.7,2.93,9,4.46,40.14,Ammonium Sulphate,DDT
+2001,Uttar Pradesh,Sugarcane,Sandy,6.04,205.5,2.96,2,5.05,10.1,Compost,Imidacloprid
+2011,Uttar Pradesh,Maize,Sandy,6.96,173.9,2.73,2,3.89,7.78,DAP,Carbaryl
+2010,Uttar Pradesh,Maize,Clay,5.64,173.8,2.45,4,3.7,14.8,NPK,Carbaryl
+2003,Punjab,Millet,Silty,6.47,166.7,2.56,1,4.05,4.05,Potash,Imidacloprid
+2023,Karnataka,Millet,Silty,6.1,179.0,2.4,3,4.17,12.51,Urea,Neem Oil
+2013,Bihar,Sugarcane,Loamy,5.47,174.8,3.27,2,4.33,8.66,Urea,Chlorpyrifos
+2020,Uttar Pradesh,Maize,Clay,6.52,229.5,3.56,3,5.33,15.99,Urea,DDT
+2018,Uttar Pradesh,Maize,Loamy,5.97,135.0,5.21,2,3.98,7.96,Bio-fertilizer,Imidacloprid
+2017,Karnataka,Wheat,Silty,6.44,166.8,2.46,3,3.83,11.49,Bio-fertilizer,Carbaryl
+2023,Maharashtra,Millet,Silty,6.11,152.6,4.26,3,3.64,10.92,DAP,Malathion
+2008,Uttar Pradesh,Millet,Loamy,7.19,143.6,3.65,3,3.4,10.2,Potash,DDT
+2001,Haryana,Barley,Silty,7.05,142.3,3.12,2,3.56,7.12,Urea,Imidacloprid
+2005,Karnataka,Wheat,Sandy,6.54,195.6,3.25,5,4.28,21.4,Bio-fertilizer,Imidacloprid
+2001,Maharashtra,Sugarcane,Loamy,6.28,163.2,3.89,8,3.7,29.6,Urea,Chlorpyrifos
+2008,Bihar,Rice,Loamy,7.37,167.6,4.59,4,4.14,16.56,Bio-fertilizer,Chlorpyrifos
+2006,Uttar Pradesh,Millet,Silty,5.61,132.9,3.33,9,3.62,32.58,Ammonium Sulphate,Organic Pesticide
+2006,Tamil Nadu,Maize,Loamy,6.97,146.8,4.32,9,3.27,29.43,DAP,Carbaryl
+2012,Tamil Nadu,Rice,Clay,6.37,216.0,3.75,9,4.94,44.46,Ammonium Sulphate,Neem Oil
+2002,Uttar Pradesh,Maize,Loamy,6.88,186.0,3.3,1,4.35,4.35,NPK,Imidacloprid
+2000,Haryana,Rice,Silty,6.76,161.1,4.67,8,4.26,34.08,Compost,Malathion
+2021,Tamil Nadu,Barley,Loamy,6.49,116.6,4.38,7,3.46,24.22,Compost,DDT
+2023,Bihar,Sugarcane,Loamy,6.47,167.0,1.9,4,3.97,15.88,Compost,Imidacloprid
+2006,Tamil Nadu,Rice,Sandy,6.9,150.4,3.49,2,3.7,7.4,Compost,DDT
+2007,Punjab,Millet,Silty,6.09,136.4,3.55,4,3.34,13.36,Ammonium Sulphate,Carbaryl
+2008,Karnataka,Rice,Sandy,6.09,216.1,4.29,8,5.04,40.32,DAP,Organic Pesticide
+2012,Haryana,Sugarcane,Loamy,7.14,185.9,4.35,8,3.9,31.2,Bio-fertilizer,DDT
+2020,Karnataka,Sugarcane,Sandy,6.57,156.7,1.49,7,3.45,24.15,Compost,Neem Oil
+2014,Maharashtra,Barley,Loamy,6.42,215.5,2.82,1,4.37,4.37,Ammonium Sulphate,DDT
+2019,Punjab,Rice,Silty,6.92,146.1,2.68,4,3.52,14.08,Urea,Organic Pesticide
+2001,Haryana,Millet,Silty,6.22,159.3,4.2,9,3.53,31.77,Compost,Malathion
+2006,Punjab,Millet,Loamy,6.8,147.9,2.62,4,3.58,14.32,Ammonium Sulphate,Imidacloprid
+2015,Punjab,Barley,Loamy,6.07,180.2,4.65,3,4.43,13.29,Potash,Chlorpyrifos
+2004,Bihar,Rice,Clay,6.37,140.7,3.15,8,3.65,29.2,Bio-fertilizer,Organic Pesticide
+2023,Karnataka,Rice,Clay,6.62,120.0,3.58,2,3.39,6.78,Ammonium Sulphate,Neem Oil
+2020,Punjab,Sugarcane,Silty,6.07,177.6,3.26,1,4.39,4.39,Urea,DDT
+2022,Haryana,Barley,Sandy,8.23,122.1,3.18,9,3.03,27.27,Compost,Neem Oil
+2012,Bihar,Rice,Silty,6.28,125.8,2.76,3,3.11,9.33,Potash,Neem Oil
+2020,Punjab,Wheat,Sandy,6.29,204.8,3.86,1,4.9,4.9,DAP,Malathion
+2011,Maharashtra,Sugarcane,Clay,6.58,137.4,4.45,9,3.73,33.57,NPK,DDT
+2021,Tamil Nadu,Wheat,Loamy,6.33,148.1,3.47,3,3.28,9.84,NPK,Chlorpyrifos
+2009,Tamil Nadu,Maize,Loamy,6.23,161.1,2.13,9,4.2,37.8,Potash,Organic Pesticide
+2014,Karnataka,Wheat,Clay,5.98,177.1,4.72,9,3.57,32.13,DAP,Chlorpyrifos
+2018,Karnataka,Millet,Sandy,6.52,122.6,3.02,3,2.76,8.28,NPK,Imidacloprid
+2012,Punjab,Millet,Loamy,6.57,193.4,3.36,4,4.72,18.88,NPK,Imidacloprid
+2001,Punjab,Millet,Clay,6.92,205.4,2.37,2,4.22,8.44,Compost,Carbaryl
+2016,Bihar,Wheat,Sandy,6.23,172.6,4.12,2,4.37,8.74,Bio-fertilizer,Chlorpyrifos
+2003,Karnataka,Wheat,Silty,6.41,154.5,4.15,6,3.5,21.0,Compost,Chlorpyrifos
+2008,Maharashtra,Sugarcane,Loamy,6.61,154.2,4.44,6,3.69,22.14,Ammonium Sulphate,Carbaryl
+2006,Karnataka,Barley,Loamy,6.4,159.2,2.58,7,4.2,29.4,NPK,Chlorpyrifos
+2019,Punjab,Rice,Loamy,6.47,150.5,3.73,2,4.41,8.82,Bio-fertilizer,Imidacloprid
+2012,Haryana,Maize,Silty,5.75,106.9,2.55,1,3.03,3.03,Bio-fertilizer,Imidacloprid
+2010,Maharashtra,Maize,Clay,6.99,134.4,2.46,8,3.49,27.92,Potash,Organic Pesticide
+2005,Punjab,Rice,Silty,5.94,160.4,3.43,4,3.87,15.48,Ammonium Sulphate,Neem Oil
+2009,Bihar,Sugarcane,Clay,6.4,196.1,4.43,1,4.62,4.62,Compost,Organic Pesticide
+2006,Haryana,Wheat,Sandy,6.65,167.6,4.38,8,4.09,32.72,Ammonium Sulphate,Carbaryl
+2012,Punjab,Maize,Sandy,6.15,167.2,3.8,9,4.26,38.34,Potash,Carbaryl
+2014,Karnataka,Millet,Clay,6.59,137.1,3.41,5,3.27,16.35,Ammonium Sulphate,Malathion
+2000,Tamil Nadu,Sugarcane,Silty,7.32,171.2,3.5,8,3.7,29.6,Ammonium Sulphate,Carbaryl
+2001,Tamil Nadu,Millet,Silty,6.85,155.6,3.64,6,4.14,24.84,Urea,Carbaryl
+2008,Punjab,Barley,Loamy,6.67,201.3,4.75,8,4.47,35.76,NPK,Chlorpyrifos
+2017,Uttar Pradesh,Rice,Clay,6.14,154.0,1.38,3,3.9,11.7,DAP,Imidacloprid
+2009,Maharashtra,Millet,Clay,6.24,184.2,1.77,4,4.55,18.2,NPK,Carbaryl
+2005,Bihar,Maize,Silty,7.16,108.1,4.68,5,2.87,14.35,Potash,Carbaryl
+2022,Punjab,Sugarcane,Loamy,6.62,136.3,1.93,6,3.29,19.74,Compost,Carbaryl
+2008,Tamil Nadu,Millet,Sandy,5.81,146.8,3.92,9,3.01,27.09,DAP,Neem Oil
+2021,Maharashtra,Rice,Silty,5.68,215.5,3.23,4,4.97,19.88,Ammonium Sulphate,Chlorpyrifos
+2006,Punjab,Rice,Sandy,6.48,109.7,2.89,4,3.05,12.2,Ammonium Sulphate,Malathion
+2018,Bihar,Sugarcane,Loamy,5.89,146.6,3.51,2,3.25,6.5,Urea,Malathion
+2015,Karnataka,Millet,Loamy,6.49,199.3,4.01,3,4.67,14.01,DAP,Neem Oil
+2008,Uttar Pradesh,Millet,Clay,7.22,178.2,3.07,5,3.84,19.2,Compost,Neem Oil
+2017,Karnataka,Rice,Clay,6.47,107.5,3.25,6,3.19,19.14,NPK,Organic Pesticide
+2019,Tamil Nadu,Millet,Sandy,6.08,178.2,4.74,6,4.64,27.84,Compost,Imidacloprid
+2000,Tamil Nadu,Maize,Loamy,6.04,162.7,3.22,7,3.62,25.34,Potash,DDT
+2021,Tamil Nadu,Wheat,Silty,5.94,195.1,3.66,3,4.43,13.29,DAP,Chlorpyrifos
+2001,Maharashtra,Sugarcane,Sandy,6.92,157.1,3.2,4,3.89,15.56,Potash,DDT
+2017,Karnataka,Barley,Sandy,5.44,214.0,4.46,6,4.97,29.82,Potash,Neem Oil
+2015,Bihar,Sugarcane,Loamy,6.06,194.7,2.67,7,4.6,32.2,NPK,Organic Pesticide
+2014,Punjab,Sugarcane,Silty,6.39,132.6,3.33,8,3.8,30.4,DAP,Malathion
+2002,Karnataka,Rice,Clay,6.14,156.7,2.52,2,3.65,7.3,DAP,Malathion
+2000,Tamil Nadu,Wheat,Loamy,6.96,122.3,5.15,7,2.95,20.65,DAP,DDT
+2010,Tamil Nadu,Sugarcane,Loamy,5.95,103.0,2.77,6,3.12,18.72,Potash,Organic Pesticide
+2023,Maharashtra,Millet,Silty,6.74,148.2,3.33,1,3.47,3.47,DAP,Carbaryl
+2017,Karnataka,Sugarcane,Clay,6.59,93.3,3.42,9,2.78,25.02,NPK,Malathion
+2011,Uttar Pradesh,Sugarcane,Silty,6.52,108.7,3.42,1,3.07,3.07,Bio-fertilizer,Imidacloprid
+2022,Maharashtra,Wheat,Sandy,6.47,153.4,3.57,7,4.08,28.56,Ammonium Sulphate,Malathion
+2011,Haryana,Barley,Loamy,6.79,147.9,2.33,6,3.74,22.44,NPK,Carbaryl
+2001,Punjab,Sugarcane,Clay,5.96,99.0,5.59,4,2.34,9.36,Ammonium Sulphate,Organic Pesticide
+2016,Bihar,Barley,Sandy,6.02,177.3,2.99,6,3.96,23.76,Compost,Neem Oil
+2003,Uttar Pradesh,Millet,Loamy,6.5,203.2,3.43,4,5.32,21.28,Urea,Organic Pesticide
+2020,Uttar Pradesh,Millet,Loamy,6.14,156.2,4.78,5,3.78,18.9,Ammonium Sulphate,Carbaryl
+2012,Punjab,Rice,Loamy,5.87,158.1,4.34,6,4.01,24.06,Potash,Neem Oil
+2020,Uttar Pradesh,Millet,Silty,6.11,142.7,3.98,6,3.2,19.2,Urea,Carbaryl
+2003,Karnataka,Rice,Loamy,7.0,143.6,3.42,3,3.48,10.44,NPK,Imidacloprid
+2011,Uttar Pradesh,Sugarcane,Clay,6.98,188.5,3.55,4,5.05,20.2,Ammonium Sulphate,Carbaryl
+2016,Uttar Pradesh,Sugarcane,Sandy,6.13,209.8,3.58,5,5.44,27.2,NPK,Malathion
+2008,Bihar,Rice,Clay,5.94,150.8,1.9,5,3.98,19.9,Compost,Malathion
+2008,Uttar Pradesh,Rice,Clay,6.05,209.0,3.78,8,4.65,37.2,Urea,Imidacloprid
+2006,Tamil Nadu,Barley,Silty,6.71,144.1,4.27,8,3.58,28.64,Ammonium Sulphate,Malathion
+2002,Tamil Nadu,Maize,Loamy,6.69,156.4,3.96,5,4.5,22.5,Compost,Carbaryl
+2007,Karnataka,Rice,Silty,7.33,133.5,2.76,4,3.26,13.04,DAP,Carbaryl
+2006,Maharashtra,Millet,Loamy,5.64,135.5,4.86,5,3.41,17.05,Bio-fertilizer,Imidacloprid
+2020,Haryana,Barley,Silty,6.76,180.0,2.96,6,4.13,24.78,DAP,Carbaryl
+2001,Karnataka,Wheat,Clay,6.11,227.0,5.06,5,4.58,22.9,Compost,Imidacloprid
+2014,Tamil Nadu,Millet,Loamy,6.89,134.5,4.48,2,2.69,5.38,Compost,Organic Pesticide
+2007,Karnataka,Sugarcane,Clay,6.0,128.0,5.41,2,3.35,6.7,DAP,Malathion
+2009,Bihar,Sugarcane,Clay,6.55,214.0,1.91,2,4.72,9.44,Urea,Carbaryl
+2006,Maharashtra,Millet,Loamy,6.31,219.8,3.64,1,4.96,4.96,DAP,Chlorpyrifos
+2012,Tamil Nadu,Wheat,Sandy,6.44,122.2,3.69,6,3.14,18.84,Urea,Organic Pesticide
+2012,Maharashtra,Wheat,Sandy,6.31,147.6,4.58,4,4.04,16.16,DAP,Neem Oil
+2011,Punjab,Barley,Clay,6.78,139.5,3.13,3,3.37,10.11,Compost,Neem Oil
+2007,Tamil Nadu,Wheat,Loamy,6.13,132.6,5.15,9,3.7,33.3,Urea,Carbaryl
+2001,Tamil Nadu,Maize,Silty,6.73,172.2,3.68,2,4.0,8.0,Urea,Carbaryl
+2001,Bihar,Sugarcane,Sandy,6.94,192.7,2.22,3,4.21,12.63,Urea,Carbaryl
+2011,Punjab,Sugarcane,Sandy,6.74,149.6,2.78,7,3.99,27.93,Ammonium Sulphate,Organic Pesticide
+2006,Maharashtra,Sugarcane,Silty,7.32,103.7,1.72,7,3.31,23.17,NPK,DDT
+2008,Maharashtra,Millet,Silty,6.02,112.7,2.97,7,2.82,19.74,Bio-fertilizer,Malathion
+2018,Tamil Nadu,Sugarcane,Clay,6.52,134.3,2.17,9,2.5,22.5,Urea,Malathion
+2006,Punjab,Rice,Loamy,5.67,198.3,4.74,2,4.46,8.92,Compost,Organic Pesticide
+2022,Tamil Nadu,Rice,Silty,6.2,141.0,5.1,8,3.76,30.08,DAP,Organic Pesticide
+2022,Karnataka,Maize,Sandy,6.25,127.4,4.81,6,3.03,18.18,Ammonium Sulphate,Malathion
+2006,Haryana,Barley,Loamy,6.41,150.1,3.95,5,3.99,19.95,Urea,Imidacloprid
+2002,Karnataka,Millet,Loamy,6.56,102.6,4.68,8,2.68,21.44,Bio-fertilizer,Organic Pesticide
+2017,Tamil Nadu,Rice,Loamy,7.34,183.8,3.71,1,4.19,4.19,Bio-fertilizer,Imidacloprid
+2003,Haryana,Maize,Sandy,6.33,217.3,2.79,3,5.44,16.32,NPK,Organic Pesticide
+2022,Uttar Pradesh,Wheat,Clay,7.15,186.6,4.73,2,4.14,8.28,DAP,Chlorpyrifos
+2017,Tamil Nadu,Maize,Loamy,7.16,156.4,3.65,6,3.05,18.3,Potash,Malathion
+2016,Karnataka,Rice,Loamy,6.4,154.0,4.43,4,4.11,16.44,NPK,Malathion
+2004,Karnataka,Millet,Silty,7.25,131.6,3.47,4,3.59,14.36,Potash,Carbaryl
+2017,Bihar,Sugarcane,Silty,6.54,182.9,2.62,8,4.63,37.04,Compost,DDT
+2011,Maharashtra,Wheat,Loamy,6.92,177.6,4.22,4,4.11,16.44,Potash,Organic Pesticide
+2019,Tamil Nadu,Sugarcane,Loamy,6.01,123.5,3.78,4,2.86,11.44,NPK,Malathion
+2015,Uttar Pradesh,Millet,Clay,6.33,127.6,3.73,7,3.58,25.06,Potash,Carbaryl
+2012,Tamil Nadu,Cotton,Clay,6.35,148.1,3.46,1,3.35,3.35,Ammonium Sulphate,Neem Oil
+2010,Haryana,Barley,Clay,6.72,144.2,1.44,7,3.51,24.57,Urea,Organic Pesticide
+2016,Haryana,Sugarcane,Loamy,6.11,159.2,3.03,6,3.59,21.54,Bio-fertilizer,Malathion
+2003,Bihar,Maize,Sandy,6.92,147.4,5.31,6,3.95,23.7,Ammonium Sulphate,Malathion
+2022,Uttar Pradesh,Wheat,Clay,7.24,153.5,3.74,5,3.77,18.85,Bio-fertilizer,Malathion
+2009,Tamil Nadu,Maize,Silty,6.11,165.9,2.02,6,3.79,22.74,DAP,Malathion
+2010,Uttar Pradesh,Maize,Clay,6.91,194.7,4.84,4,4.78,19.12,Urea,Imidacloprid
+2016,Tamil Nadu,Sugarcane,Silty,7.01,164.2,1.05,6,3.62,21.72,NPK,Chlorpyrifos
+2005,Tamil Nadu,Sugarcane,Sandy,7.05,185.9,2.83,4,4.32,17.28,Ammonium Sulphate,Neem Oil
+2017,Karnataka,Wheat,Loamy,6.11,151.0,3.65,7,3.42,23.94,Ammonium Sulphate,Organic Pesticide
+2020,Maharashtra,Barley,Sandy,7.05,111.1,3.54,1,3.81,3.81,Bio-fertilizer,DDT
+2013,Karnataka,Millet,Silty,5.8,164.6,3.7,8,4.77,38.16,Urea,Organic Pesticide
+2022,Karnataka,Wheat,Silty,6.12,123.3,3.75,7,2.68,18.76,NPK,Imidacloprid
+2011,Tamil Nadu,Maize,Sandy,6.24,208.3,3.5,5,4.8,24.0,NPK,Organic Pesticide
+2021,Punjab,Barley,Silty,6.59,113.6,4.0,1,2.35,2.35,Urea,Imidacloprid
+2021,Haryana,Sugarcane,Silty,6.26,146.4,3.79,4,4.11,16.44,Urea,Malathion
+2009,Punjab,Wheat,Silty,6.74,143.8,3.57,8,3.82,30.56,Urea,Chlorpyrifos
+2013,Tamil Nadu,Barley,Silty,5.48,166.6,1.64,9,3.85,34.65,Ammonium Sulphate,Imidacloprid
+2012,Haryana,Barley,Clay,6.91,132.3,4.82,2,3.49,6.98,NPK,Neem Oil
+2004,Karnataka,Wheat,Silty,6.16,189.4,3.25,4,4.31,17.24,Urea,Malathion
+2017,Karnataka,Sugarcane,Loamy,6.55,204.4,3.58,3,4.9,14.7,Bio-fertilizer,Organic Pesticide
+2001,Maharashtra,Millet,Loamy,7.67,167.1,3.75,1,4.19,4.19,Bio-fertilizer,Chlorpyrifos
+2021,Maharashtra,Millet,Sandy,7.2,176.6,5.04,8,3.97,31.76,Urea,Chlorpyrifos
+2014,Karnataka,Barley,Silty,5.98,132.9,3.87,8,3.74,29.92,Compost,Imidacloprid
+2003,Haryana,Maize,Sandy,6.33,174.6,4.77,6,4.22,25.32,Urea,Carbaryl
+2010,Tamil Nadu,Rice,Clay,5.98,156.8,3.95,7,3.5,24.5,Potash,Imidacloprid
+2017,Haryana,Sugarcane,Sandy,5.9,157.6,3.29,6,3.55,21.3,Urea,Chlorpyrifos
+2017,Punjab,Sugarcane,Loamy,7.42,126.5,3.18,4,3.13,12.52,Urea,Chlorpyrifos
+2009,Karnataka,Millet,Silty,5.84,104.2,3.61,2,2.38,4.76,Bio-fertilizer,Neem Oil
+2010,Tamil Nadu,Wheat,Loamy,6.03,179.0,3.08,7,3.96,27.72,Bio-fertilizer,Carbaryl
+2014,Punjab,Sugarcane,Sandy,6.57,173.7,5.08,1,4.02,4.02,Ammonium Sulphate,Chlorpyrifos
+2007,Maharashtra,Sugarcane,Clay,7.03,142.4,3.31,5,3.47,17.35,Bio-fertilizer,DDT
+2002,Tamil Nadu,Maize,Silty,6.99,150.1,3.16,3,3.35,10.05,Compost,Carbaryl
+2001,Maharashtra,Maize,Loamy,6.8,130.6,4.45,9,3.69,33.21,Bio-fertilizer,DDT
+2018,Karnataka,Millet,Sandy,6.69,134.6,2.06,4,3.55,14.2,DAP,Neem Oil
+2002,Karnataka,Wheat,Clay,6.7,179.0,3.46,9,3.91,35.19,Potash,Malathion
+2016,Karnataka,Wheat,Loamy,6.21,134.1,2.77,6,3.43,20.58,Ammonium Sulphate,Malathion
+2017,Haryana,Rice,Silty,6.39,104.5,4.06,1,3.45,3.45,Ammonium Sulphate,DDT
+2000,Bihar,Sugarcane,Loamy,6.41,193.3,3.33,2,4.93,9.86,Bio-fertilizer,Carbaryl
+2008,Bihar,Barley,Sandy,5.65,151.8,3.18,5,4.11,20.55,Bio-fertilizer,Neem Oil
+2009,Tamil Nadu,Wheat,Silty,6.26,127.6,4.97,7,3.33,23.31,Bio-fertilizer,Neem Oil
+2010,Tamil Nadu,Rice,Clay,6.98,174.3,3.02,2,4.18,8.36,DAP,Chlorpyrifos
+2015,Bihar,Rice,Sandy,6.27,154.2,3.47,9,3.64,32.76,DAP,Malathion
+2022,Tamil Nadu,Sugarcane,Clay,5.63,178.8,3.23,5,3.5,17.5,Ammonium Sulphate,Chlorpyrifos
+2020,Haryana,Wheat,Sandy,6.73,144.4,1.43,2,3.38,6.76,NPK,DDT
+2012,Punjab,Millet,Clay,6.82,179.7,3.7,6,3.87,23.22,Potash,DDT
+2006,Haryana,Rice,Sandy,6.81,181.4,1.63,6,4.56,27.36,Ammonium Sulphate,Organic Pesticide
+2019,Uttar Pradesh,Sugarcane,Clay,6.99,135.2,3.76,4,3.65,14.6,Ammonium Sulphate,Chlorpyrifos
+2014,Tamil Nadu,Barley,Silty,7.26,228.3,4.19,5,4.94,24.7,Bio-fertilizer,Carbaryl
+2023,Maharashtra,Barley,Loamy,6.91,186.5,3.39,4,4.33,17.32,NPK,Imidacloprid
+2006,Punjab,Sugarcane,Silty,5.99,163.2,5.79,6,3.56,21.36,Potash,Imidacloprid
+2003,Karnataka,Rice,Loamy,7.1,146.1,3.39,2,3.78,7.56,Bio-fertilizer,DDT
+2010,Punjab,Rice,Loamy,6.97,197.7,2.67,7,4.64,32.48,Ammonium Sulphate,Organic Pesticide
+2014,Haryana,Maize,Silty,7.41,161.9,5.82,3,3.57,10.71,Compost,Organic Pesticide
+2001,Bihar,Sugarcane,Silty,5.77,144.1,1.35,3,3.68,11.04,Potash,Malathion
+2017,Haryana,Rice,Sandy,6.41,222.1,3.93,3,4.96,14.88,NPK,Carbaryl
+2019,Karnataka,Maize,Silty,6.67,167.8,2.97,8,4.77,38.16,Potash,DDT
+2020,Tamil Nadu,Sugarcane,Loamy,6.85,145.7,3.29,6,3.49,20.94,Compost,Organic Pesticide
+2023,Uttar Pradesh,Millet,Clay,6.93,161.6,3.8,9,4.44,39.96,DAP,Organic Pesticide
+2011,Punjab,Millet,Loamy,6.9,155.7,3.57,9,4.15,37.35,Urea,Carbaryl
+2000,Bihar,Wheat,Loamy,7.18,177.3,2.9,1,3.86,3.86,Potash,Imidacloprid
+2002,Punjab,Wheat,Clay,6.87,180.0,4.04,2,3.83,7.66,DAP,Carbaryl
+2018,Punjab,Millet,Sandy,6.55,133.8,2.77,4,3.57,14.28,Ammonium Sulphate,Imidacloprid
+2008,Punjab,Millet,Clay,5.75,194.1,4.65,1,4.45,4.45,Potash,Carbaryl
+2017,Bihar,Wheat,Sandy,6.61,168.7,3.76,4,4.11,16.44,Potash,Chlorpyrifos
+2004,Punjab,Sugarcane,Clay,6.86,137.8,2.22,2,3.51,7.02,NPK,Chlorpyrifos
+2021,Karnataka,Wheat,Sandy,6.39,158.0,4.32,1,3.46,3.46,Ammonium Sulphate,Carbaryl
+2001,Bihar,Rice,Silty,6.75,112.5,2.92,8,3.29,26.32,Potash,Imidacloprid
+2014,Bihar,Barley,Loamy,6.62,173.5,2.95,4,4.09,16.36,NPK,Neem Oil
+2020,Haryana,Maize,Silty,6.6,132.8,4.83,5,3.49,17.45,Ammonium Sulphate,Chlorpyrifos
+2015,Karnataka,Millet,Silty,6.19,125.1,3.76,9,3.45,31.05,NPK,Imidacloprid
+2009,Uttar Pradesh,Millet,Silty,6.22,184.7,4.16,1,4.39,4.39,NPK,Neem Oil
+2004,Haryana,Wheat,Loamy,6.09,138.7,4.85,4,3.23,12.92,Ammonium Sulphate,Carbaryl
+2023,Haryana,Sugarcane,Loamy,6.41,132.9,3.94,3,3.6,10.8,DAP,Chlorpyrifos
+2019,Tamil Nadu,Millet,Silty,5.63,109.9,5.31,2,2.76,5.52,Urea,DDT
+2015,Bihar,Sugarcane,Loamy,6.47,154.2,4.29,3,3.86,11.58,Potash,Neem Oil
+2008,Bihar,Millet,Clay,6.13,97.9,2.02,2,2.72,5.44,DAP,Malathion
+2008,Bihar,Sugarcane,Silty,6.42,161.5,3.65,4,4.29,17.16,Compost,Carbaryl
+2009,Maharashtra,Millet,Loamy,6.56,122.7,4.06,5,3.56,17.8,Ammonium Sulphate,Organic Pesticide
+2006,Bihar,Barley,Clay,6.36,170.6,3.83,7,3.92,27.44,Potash,Malathion
+2010,Punjab,Maize,Loamy,6.1,165.8,3.13,4,4.05,16.2,DAP,DDT
+2019,Tamil Nadu,Rice,Clay,6.84,149.2,2.8,9,3.48,31.32,Ammonium Sulphate,Malathion
+2001,Tamil Nadu,Barley,Silty,6.62,141.1,3.79,4,3.8,15.2,NPK,Carbaryl
+2005,Maharashtra,Wheat,Clay,7.84,175.8,3.07,1,4.48,4.48,DAP,Organic Pesticide
+2019,Uttar Pradesh,Barley,Silty,6.51,140.7,2.11,1,2.63,2.63,DAP,Chlorpyrifos
+2001,Uttar Pradesh,Rice,Sandy,5.49,134.4,5.09,6,3.5,21.0,Compost,Carbaryl
+2014,Tamil Nadu,Barley,Silty,6.75,134.8,3.01,4,3.89,15.56,Bio-fertilizer,Carbaryl
+2010,Bihar,Maize,Sandy,7.22,149.8,2.76,5,3.53,17.65,NPK,Imidacloprid
+2006,Haryana,Rice,Silty,6.29,117.7,2.92,4,3.28,13.12,NPK,DDT
+2008,Uttar Pradesh,Wheat,Loamy,6.35,72.7,1.57,9,2.78,25.02,Potash,Imidacloprid
+2009,Maharashtra,Barley,Silty,7.25,214.1,4.18,2,4.82,9.64,Potash,Chlorpyrifos
+2012,Haryana,Millet,Sandy,7.52,160.2,3.25,4,4.07,16.28,Urea,DDT
+2013,Bihar,Wheat,Sandy,6.83,131.4,3.65,8,3.54,28.32,NPK,Neem Oil
+2000,Maharashtra,Rice,Loamy,7.06,128.8,5.23,2,3.39,6.78,NPK,Organic Pesticide
+2019,Uttar Pradesh,Barley,Clay,6.83,175.9,3.44,9,3.83,34.47,Bio-fertilizer,DDT
+2003,Haryana,Wheat,Sandy,6.84,148.8,2.56,4,3.72,14.88,Urea,Carbaryl
+2010,Bihar,Wheat,Sandy,5.7,199.9,3.53,8,4.4,35.2,Compost,Chlorpyrifos
+2014,Uttar Pradesh,Wheat,Clay,6.86,227.5,3.08,9,5.09,45.81,Bio-fertilizer,Neem Oil
+2001,Uttar Pradesh,Sugarcane,Silty,6.31,163.8,4.33,8,3.92,31.36,Compost,Chlorpyrifos
+2023,Karnataka,Millet,Clay,7.17,100.9,4.06,8,2.73,21.84,Potash,Imidacloprid
+2006,Bihar,Wheat,Silty,6.31,142.9,3.24,4,3.37,13.48,Ammonium Sulphate,Neem Oil
+2003,Haryana,Rice,Loamy,6.31,174.0,5.1,6,4.48,26.88,DAP,Neem Oil
+2022,Maharashtra,Wheat,Silty,6.24,170.4,3.92,7,3.81,26.67,DAP,Neem Oil
+2006,Punjab,Sugarcane,Sandy,7.25,178.2,3.64,4,4.31,17.24,Urea,Imidacloprid
+2005,Punjab,Rice,Sandy,6.08,142.6,3.26,4,3.56,14.24,Ammonium Sulphate,Neem Oil
+2021,Haryana,Barley,Silty,5.7,141.1,4.16,9,3.26,29.34,Potash,Carbaryl
+2013,Bihar,Sugarcane,Sandy,6.59,167.4,3.19,1,4.4,4.4,Compost,Organic Pesticide
+2006,Haryana,Millet,Silty,6.35,210.8,2.28,1,4.72,4.72,Urea,Malathion
+2003,Haryana,Millet,Clay,5.92,171.8,3.1,2,4.3,8.6,Ammonium Sulphate,Organic Pesticide
+2022,Punjab,Maize,Loamy,6.66,163.0,4.3,1,3.78,3.78,DAP,Neem Oil
+2018,Uttar Pradesh,Maize,Silty,7.42,129.8,3.3,4,3.81,15.24,Compost,DDT
+2022,Haryana,Sugarcane,Clay,6.32,141.9,4.94,7,3.24,22.68,Potash,Imidacloprid
+2018,Punjab,Barley,Sandy,6.6,146.1,4.7,7,3.56,24.92,DAP,Neem Oil
+2007,Haryana,Rice,Loamy,6.64,132.4,4.76,7,3.56,24.92,NPK,Malathion
+2013,Tamil Nadu,Wheat,Clay,6.31,209.1,3.22,7,4.86,34.02,Ammonium Sulphate,Imidacloprid
+2002,Punjab,Sugarcane,Sandy,6.46,172.0,2.94,8,4.9,39.2,DAP,Chlorpyrifos
+2008,Karnataka,Maize,Clay,6.43,202.6,4.48,2,4.67,9.34,Ammonium Sulphate,Imidacloprid
+2004,Tamil Nadu,Barley,Clay,6.09,97.7,1.88,6,3.09,18.54,Ammonium Sulphate,Carbaryl
+2021,Uttar Pradesh,Wheat,Sandy,6.67,151.6,3.14,4,3.81,15.24,Potash,Neem Oil
+2008,Uttar Pradesh,Rice,Sandy,7.18,149.8,2.58,1,3.61,3.61,Bio-fertilizer,Organic Pesticide
+2020,Karnataka,Wheat,Clay,6.45,173.6,1.98,2,3.84,7.68,Bio-fertilizer,DDT
+2011,Haryana,Millet,Sandy,6.28,164.9,3.87,9,4.32,38.88,DAP,Neem Oil
+2020,Haryana,Rice,Sandy,7.39,169.0,2.42,8,3.91,31.28,Ammonium Sulphate,DDT
+2022,Karnataka,Sugarcane,Silty,6.83,204.3,3.41,3,4.47,13.41,Compost,Organic Pesticide
+2021,Uttar Pradesh,Maize,Sandy,6.71,176.1,2.16,9,3.93,35.37,Compost,Neem Oil
+2021,Bihar,Barley,Loamy,6.26,141.4,4.76,4,3.3,13.2,NPK,Neem Oil
+2009,Tamil Nadu,Rice,Silty,6.77,186.1,4.14,7,4.44,31.08,Bio-fertilizer,Imidacloprid
+2005,Uttar Pradesh,Wheat,Loamy,5.85,147.9,3.09,4,4.17,16.68,Ammonium Sulphate,Carbaryl
+2012,Maharashtra,Millet,Loamy,5.92,172.6,4.91,7,3.93,27.51,NPK,Organic Pesticide
+2019,Bihar,Sugarcane,Clay,5.82,165.2,1.09,9,3.84,34.56,Compost,Organic Pesticide
+2023,Uttar Pradesh,Rice,Loamy,6.02,175.2,3.61,4,4.32,17.28,Urea,Imidacloprid
+2002,Maharashtra,Rice,Loamy,6.62,189.5,6.25,4,4.29,17.16,Ammonium Sulphate,Neem Oil
+2017,Bihar,Wheat,Loamy,7.11,148.2,2.85,9,3.89,35.01,Urea,Organic Pesticide
+2022,Karnataka,Wheat,Loamy,5.56,121.7,3.96,7,3.36,23.52,Compost,Organic Pesticide
+2007,Tamil Nadu,Sugarcane,Loamy,5.94,151.4,4.99,5,3.83,19.15,DAP,Carbaryl
+2004,Haryana,Wheat,Silty,5.81,173.2,5.57,6,3.9,23.4,NPK,Carbaryl
+2007,Tamil Nadu,Rice,Clay,6.1,150.4,2.4,6,3.74,22.44,Bio-fertilizer,Neem Oil
+2008,Bihar,Rice,Sandy,6.75,145.2,1.91,8,3.61,28.88,Potash,Neem Oil
+2021,Bihar,Barley,Sandy,6.57,174.9,1.93,6,4.37,26.22,Urea,DDT
+2008,Maharashtra,Sugarcane,Sandy,6.67,224.7,3.32,7,5.32,37.24,Bio-fertilizer,Carbaryl
+2002,Maharashtra,Sugarcane,Silty,5.65,149.4,2.91,3,2.85,8.55,Bio-fertilizer,Malathion
+2013,Bihar,Barley,Sandy,6.31,146.2,5.29,5,3.51,17.55,Ammonium Sulphate,Malathion
+2022,Haryana,Wheat,Sandy,6.64,150.4,4.04,1,3.84,3.84,NPK,Carbaryl
+2001,Punjab,Sugarcane,Sandy,6.63,174.2,3.29,2,3.97,7.94,Urea,Malathion
+2012,Tamil Nadu,Sugarcane,Clay,6.24,172.5,4.53,2,3.88,7.76,Potash,DDT
+2018,Tamil Nadu,Millet,Silty,7.25,122.7,4.27,6,2.55,15.3,DAP,Organic Pesticide
+2002,Uttar Pradesh,Sugarcane,Clay,5.93,176.6,4.3,9,4.04,36.36,Urea,Malathion
+2011,Maharashtra,Maize,Silty,7.44,137.3,2.93,3,3.84,11.52,Bio-fertilizer,Organic Pesticide
+2003,Bihar,Maize,Loamy,7.59,192.2,2.46,7,4.49,31.43,DAP,Imidacloprid
+2004,Maharashtra,Barley,Loamy,6.17,173.9,2.49,4,3.68,14.72,Ammonium Sulphate,Malathion
+2019,Karnataka,Millet,Clay,7.04,172.7,5.1,9,4.04,36.36,DAP,DDT
+2020,Haryana,Sugarcane,Clay,6.02,193.8,6.15,8,4.78,38.24,DAP,Carbaryl
+2004,Tamil Nadu,Sugarcane,Clay,6.8,195.7,4.79,3,4.56,13.68,NPK,Neem Oil
+2018,Punjab,Sugarcane,Clay,6.46,166.9,4.0,3,3.79,11.37,Urea,DDT
+2022,Tamil Nadu,Rice,Sandy,7.36,114.6,3.18,3,2.93,8.79,DAP,Imidacloprid
+2002,Bihar,Sugarcane,Clay,6.78,96.7,2.97,5,2.99,14.95,Potash,Organic Pesticide
+2020,Karnataka,Maize,Loamy,5.86,154.4,4.72,8,3.78,30.24,Potash,Carbaryl
+2004,Haryana,Sugarcane,Loamy,6.59,184.2,2.51,7,4.95,34.65,DAP,Organic Pesticide
+2023,Bihar,Maize,Silty,6.87,144.1,3.99,2,3.37,6.74,Ammonium Sulphate,Chlorpyrifos
+2005,Tamil Nadu,Millet,Sandy,6.92,106.4,3.34,3,3.1,9.3,Bio-fertilizer,Malathion
+2022,Karnataka,Sugarcane,Clay,6.29,195.7,2.25,8,4.5,36.0,DAP,DDT
+2003,Uttar Pradesh,Sugarcane,Loamy,6.59,139.0,4.98,7,3.46,24.22,NPK,Carbaryl
+2014,Uttar Pradesh,Sugarcane,Sandy,6.33,165.4,3.91,4,3.26,13.04,Ammonium Sulphate,Carbaryl
+2020,Uttar Pradesh,Wheat,Sandy,6.34,191.7,3.06,3,4.98,14.94,Compost,Organic Pesticide
+2020,Tamil Nadu,Millet,Clay,6.97,158.2,4.35,4,4.07,16.28,NPK,Imidacloprid
+2007,Maharashtra,Rice,Clay,7.32,170.7,3.86,5,4.32,21.6,NPK,Chlorpyrifos
+2012,Punjab,Maize,Loamy,5.91,201.1,4.82,1,4.9,4.9,NPK,Malathion
+2018,Haryana,Sugarcane,Loamy,6.48,154.3,4.42,3,4.07,12.21,DAP,Organic Pesticide
+2007,Bihar,Rice,Sandy,5.8,186.7,3.67,6,4.49,26.94,NPK,Chlorpyrifos
+2012,Karnataka,Barley,Sandy,6.58,183.2,2.48,9,4.19,37.71,Bio-fertilizer,Neem Oil
+2005,Uttar Pradesh,Rice,Loamy,7.03,137.6,4.94,6,3.31,19.86,DAP,Organic Pesticide
+2008,Bihar,Barley,Clay,7.11,158.9,1.36,4,3.67,14.68,Urea,Organic Pesticide
+2019,Maharashtra,Maize,Sandy,5.87,191.5,3.47,2,4.61,9.22,Compost,DDT
+2008,Haryana,Millet,Loamy,6.14,122.6,4.61,2,3.19,6.38,DAP,Malathion
+2000,Maharashtra,Maize,Sandy,6.72,180.1,3.77,8,4.24,33.92,Bio-fertilizer,Neem Oil
+2004,Maharashtra,Maize,Clay,5.9,145.4,3.72,5,3.36,16.8,Compost,Carbaryl
+2023,Karnataka,Wheat,Loamy,6.65,120.2,5.15,2,3.03,6.06,Urea,Neem Oil
+2004,Karnataka,Millet,Silty,6.18,130.5,4.19,6,3.66,21.96,Bio-fertilizer,DDT
+2008,Uttar Pradesh,Wheat,Sandy,6.31,83.2,3.72,3,2.04,6.12,Bio-fertilizer,DDT
+2016,Tamil Nadu,Millet,Loamy,6.1,204.2,4.68,3,4.61,13.83,Urea,Imidacloprid
+2007,Punjab,Maize,Loamy,6.13,175.4,4.18,1,3.83,3.83,Ammonium Sulphate,Neem Oil
+2006,Karnataka,Wheat,Clay,6.66,150.5,5.34,4,3.92,15.68,Urea,Organic Pesticide
+2017,Tamil Nadu,Millet,Loamy,6.49,187.7,2.42,9,4.64,41.76,Potash,Malathion
+2014,Maharashtra,Wheat,Silty,5.27,154.6,2.21,7,3.68,25.76,Compost,Organic Pesticide
+2001,Uttar Pradesh,Wheat,Clay,6.71,204.3,3.55,4,4.5,18.0,Urea,Carbaryl
+2005,Punjab,Rice,Clay,6.11,169.9,3.89,2,4.2,8.4,DAP,Imidacloprid
+2021,Punjab,Sugarcane,Silty,7.17,159.5,2.63,1,3.72,3.72,Potash,Malathion
+2021,Bihar,Rice,Sandy,6.55,135.6,4.36,2,3.69,7.38,Compost,Carbaryl
+2007,Haryana,Rice,Clay,7.01,208.0,2.5,5,4.42,22.1,NPK,Neem Oil
+2020,Uttar Pradesh,Wheat,Silty,6.55,182.3,2.73,5,4.6,23.0,Compost,DDT
+2004,Haryana,Barley,Loamy,5.84,101.4,4.12,1,2.63,2.63,Potash,Neem Oil
+2000,Tamil Nadu,Rice,Sandy,6.74,152.8,3.09,2,3.09,6.18,Urea,Neem Oil
+2019,Tamil Nadu,Maize,Loamy,7.06,208.1,5.4,2,4.62,9.24,Compost,Imidacloprid
+2006,Karnataka,Wheat,Silty,6.92,208.0,4.66,3,4.8,14.4,Compost,Malathion
+2011,Punjab,Barley,Sandy,6.71,134.2,3.85,5,3.75,18.75,Urea,DDT
+2018,Bihar,Rice,Loamy,6.76,186.1,4.39,9,4.53,40.77,Compost,Malathion
+2023,Haryana,Rice,Clay,6.89,164.2,4.34,6,3.81,22.86,Potash,Chlorpyrifos
+2010,Karnataka,Wheat,Loamy,6.69,174.0,5.75,8,4.27,34.16,Compost,Chlorpyrifos
+2006,Karnataka,Barley,Sandy,6.0,130.2,5.0,4,3.56,14.24,DAP,Malathion
+2019,Maharashtra,Millet,Clay,6.89,132.4,4.94,3,3.58,10.74,Ammonium Sulphate,Imidacloprid
+2017,Haryana,Barley,Clay,6.2,107.4,1.98,3,2.65,7.95,DAP,Neem Oil
+2006,Bihar,Maize,Clay,6.57,97.8,2.06,2,3.19,6.38,Bio-fertilizer,Malathion
+2001,Tamil Nadu,Millet,Sandy,6.68,167.0,2.29,3,4.87,14.61,Compost,Chlorpyrifos
+2010,Maharashtra,Maize,Loamy,5.65,153.9,3.23,4,4.1,16.4,Compost,Neem Oil
+2017,Bihar,Millet,Clay,6.43,197.3,4.26,5,3.99,19.95,Compost,Neem Oil
+2017,Uttar Pradesh,Barley,Sandy,7.26,141.5,4.04,1,3.8,3.8,Compost,Malathion
+2023,Haryana,Barley,Silty,6.49,127.8,4.24,4,2.99,11.96,Ammonium Sulphate,Carbaryl
+2005,Uttar Pradesh,Rice,Loamy,6.56,162.3,3.35,7,3.86,27.02,Potash,Carbaryl
+2019,Haryana,Maize,Sandy,6.2,218.7,4.41,8,4.66,37.28,Compost,Carbaryl
+2002,Uttar Pradesh,Sugarcane,Clay,5.98,108.2,3.48,8,3.45,27.6,Bio-fertilizer,DDT
+2019,Karnataka,Barley,Sandy,7.26,167.0,4.93,5,4.39,21.95,Compost,Carbaryl
+2015,Karnataka,Maize,Sandy,6.96,118.0,5.22,1,2.54,2.54,DAP,Chlorpyrifos
+2000,Punjab,Sugarcane,Clay,5.95,214.4,4.8,1,4.6,4.6,Ammonium Sulphate,Organic Pesticide
+2011,Punjab,Sugarcane,Sandy,6.71,193.5,2.82,8,4.27,34.16,Urea,Organic Pesticide
+2000,Maharashtra,Sugarcane,Loamy,7.22,165.8,3.06,5,4.34,21.7,Bio-fertilizer,Malathion
+2018,Maharashtra,Barley,Sandy,6.65,165.2,3.99,2,4.16,8.32,Ammonium Sulphate,Imidacloprid
